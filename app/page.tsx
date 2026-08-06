@@ -103,7 +103,7 @@ Contact Us
 
 <div data-aos="zoom-in">
 
-<img src="images/hero/industrial-control-room.png"
+<img src="/images/hero/industrial-control-room.png"
 
 className="img-fluid hero-image"
 
@@ -131,7 +131,7 @@ alt="Industrial Control Room" />
 
 <div className="col-lg-6">
 
-<img src="images/about/about-company.jpg"
+<img src="/images/about/about-company.jpg"
 
 className="img-fluid rounded shadow" />
 
@@ -379,7 +379,7 @@ Integrated engineering solutions designed to improve productivity, security, rel
 
 <div className="solution-card">
 
-<img src="images/solutions/industrial-automation.jpg"
+<img src="/images/solutions/industrial-automation.jpg"
 className="img-fluid" />
 
 <h4>Industrial Automation</h4>
@@ -396,7 +396,7 @@ PLC, DCS, SCADA, HMI, Process Control and Digital Twin solutions.
 
 <div className="solution-card">
 
-<img src="images/solutions/ot-cybersecurity-soc.jpg"
+<img src="/images/solutions/ot-cybersecurity-soc.jpg"
 className="img-fluid" />
 
 <h4>OT Cybersecurity</h4>
@@ -412,7 +412,7 @@ IEC62443, risk assessment, secure architecture, monitoring and protection.
 
                     <div className="solution-card">
 
-                        <img src="images/solutions/data-center-solution.jpg"
+                        <img src="/images/solutions/data-center-solution.jpg"
                              className="img-fluid"
                              alt="Data Centers" />
 
@@ -432,7 +432,7 @@ IEC62443, risk assessment, secure architecture, monitoring and protection.
 
                     <div className="solution-card">
 
-                        <img src="images/solutions/industrial-networking.jpg"
+                        <img src="/images/solutions/industrial-networking.jpg"
                              className="img-fluid"
                              alt="Networking" />
 
@@ -629,7 +629,7 @@ Engineering Success Stories
 
 <div className="project-card">
 
-<img src="images/projects/client-meeting.jpg"
+<img src="/images/projects/client-meeting.jpg"
 className="img-fluid"
 alt="Automation" />
 
@@ -660,7 +660,7 @@ commissioning and optimization.
 
 <div className="project-card">
 
-<img src="images/projects/control-panels.jpg"
+<img src="/images/projects/control-panels.jpg"
 className="img-fluid"
 alt="Cyber" />
 
@@ -691,7 +691,7 @@ security monitoring.
 
 <div className="project-card">
 
-<img src="images/projects/fiber-optic-installation.jpg"
+<img src="/images/projects/fiber-optic-installation.jpg"
 className="img-fluid"
 alt="Infrastructure" />
 

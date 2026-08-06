@@ -73,7 +73,7 @@ View Opportunities
 
 <div className="col-lg-5 text-center">
 
-<img src="images/careers/careers-hero.jpg"
+<img src="/images/careers/careers-hero.jpg"
 className="img-fluid hero-image"
 alt="Engineering Careers" />
 
@@ -237,7 +237,7 @@ and exposure to strategic national projects.
 
 <div className="col-lg-6">
 
-<img src="images/careers/team-work.jpg"
+<img src="/images/careers/team-work.jpg"
 className="img-fluid rounded shadow"
 alt="Engineering Team" />
 
@@ -324,7 +324,7 @@ Graduate & Internship Programs
 
 <div className="project-card">
 
-<img src="images/careers/graduate-engineer.jpg"
+<img src="/images/careers/graduate-engineer.jpg"
 className="img-fluid"
 alt="Graduates" />
 
@@ -369,7 +369,7 @@ and smart infrastructure projects.
 
 <div className="project-card">
 
-<img src="images/careers/young-engineers.jpg"
+<img src="/images/careers/young-engineers.jpg"
 className="img-fluid"
 alt="Internship" />
 
@@ -451,7 +451,7 @@ world-class engineering solutions across critical industries.
 
 <div className="col-lg-6">
 
-<img src="images/careers/company-culture.jpg"
+<img src="/images/careers/company-culture.jpg"
      className="img-fluid rounded shadow"
      alt="Experienced Engineers" />
 
@@ -725,7 +725,7 @@ and engineering excellence.
 
 <div className="col-lg-6">
 
-<img src="images/careers/training-session.jpg"
+<img src="/images/careers/training-session.jpg"
      className="img-fluid rounded shadow"
      alt="Training" />
 
@@ -1089,7 +1089,7 @@ high-quality engineering solutions across Saudi Arabia.
 
 <div className="col-lg-6">
 
-<img src="images/careers/company-culture.jpg"
+<img src="/images/careers/company-culture.jpg"
 className="img-fluid rounded shadow"
 alt="Experienced Engineers" />
 
@@ -1364,7 +1364,7 @@ and employee wellbeing are at the heart of our culture.
 
 <div className="col-lg-6">
 
-<img src="images/careers/training-session.jpg"
+<img src="/images/careers/training-session.jpg"
 className="img-fluid rounded shadow"
 alt="Training" />
 

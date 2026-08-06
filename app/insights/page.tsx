@@ -75,7 +75,7 @@ Explore Articles
 
 <div className="col-lg-5 text-center">
 
-<img src="images/insights/engineering-best-practices.jpg"
+<img src="/images/insights/engineering-best-practices.jpg"
 
 className="img-fluid hero-image"
 
@@ -120,7 +120,7 @@ for Industry 4.0
 
 <div className="col-lg-6">
 
-<img src="images/insights/ai-insights.jpg"
+<img src="/images/insights/ai-insights.jpg"
 
 className="img-fluid rounded shadow"
 
@@ -346,7 +346,7 @@ Recent Engineering Articles
 
 <div className="project-card">
 
-<img src="images/insights/cloud-computing.jpg"
+<img src="/images/insights/cloud-computing.jpg"
 
 className="img-fluid"
 
@@ -392,7 +392,7 @@ Read More
 
 <div className="project-card">
 
-<img src="images/insights/cybersecurity-insights.jpg"
+<img src="/images/insights/cybersecurity-insights.jpg"
 
 className="img-fluid"
 
@@ -437,7 +437,7 @@ Read More
 
 <div className="project-card">
 
-<img src="images/insights/data-analytics.jpg"
+<img src="/images/insights/data-analytics.jpg"
 
 className="img-fluid"
 
@@ -527,7 +527,7 @@ continuity.
 
 <div className="project-card">
 
-<img src="images/insights/industrial-iot.jpg"
+<img src="/images/insights/industrial-iot.jpg"
      className="img-fluid"
      alt="IEC62443" />
 
@@ -569,7 +569,7 @@ Read Article
 
 <div className="project-card">
 
-<img src="images/insights/industry-4-0.jpg"
+<img src="/images/insights/industry-4-0.jpg"
      className="img-fluid"
      alt="Risk Assessment" />
 
@@ -611,7 +611,7 @@ Read Article
 
 <div className="project-card">
 
-<img src="images/insights/networking-insights.jpg"
+<img src="/images/insights/networking-insights.jpg"
      className="img-fluid"
      alt="Zero Trust" />
 
@@ -683,7 +683,7 @@ Building Intelligent Urban Infrastructure
 
 <div className="col-lg-6">
 
-<img src="images/insights/sustainability.jpg"
+<img src="/images/insights/sustainability.jpg"
      className="img-fluid rounded shadow"
      alt="Smart Cities" />
 
@@ -823,7 +823,7 @@ planning.
 
 <div className="project-card">
 
-<img src="images/insights/industrial-iot.jpg"
+<img src="/images/insights/industrial-iot.jpg"
      className="img-fluid"
      alt="Industrial IoT" />
 
@@ -866,7 +866,7 @@ Read More
 
 <div className="project-card">
 
-<img src="images/insights/industry-4-0.jpg"
+<img src="/images/insights/industry-4-0.jpg"
      className="img-fluid"
      alt="Digital Twin" />
 
@@ -923,7 +923,7 @@ Read More
 
 <div className="col-lg-6">
 
-<img src="images/insights/engineering-best-practices.jpg"
+<img src="/images/insights/engineering-best-practices.jpg"
      className="img-fluid rounded shadow"
      alt="Predictive Maintenance" />
 
@@ -1018,7 +1018,7 @@ technologies.
 
 <div className="project-card">
 
-<img src="images/insights/ai-insights.jpg"
+<img src="/images/insights/ai-insights.jpg"
      className="img-fluid"
      alt="Automation Whitepaper" />
 
@@ -1060,7 +1060,7 @@ Download PDF
 
 <div className="project-card">
 
-<img src="images/insights/cybersecurity-insights.jpg"
+<img src="/images/insights/cybersecurity-insights.jpg"
      className="img-fluid"
      alt="Cybersecurity Whitepaper" />
 
@@ -1102,7 +1102,7 @@ Download PDF
 
 <div className="project-card">
 
-<img src="images/insights/data-analytics.jpg"
+<img src="/images/insights/data-analytics.jpg"
      className="img-fluid"
      alt="Digital Transformation" />
 
@@ -1301,7 +1301,7 @@ Delivering Measurable Business Value
 
 <div className="project-card">
 
-<img src="images/insights/sustainability.jpg"
+<img src="/images/insights/sustainability.jpg"
      className="img-fluid"
      alt="Energy" />
 
@@ -1332,7 +1332,7 @@ critical infrastructure.
 
 <div className="project-card">
 
-<img src="images/insights/cloud-computing.jpg"
+<img src="/images/insights/cloud-computing.jpg"
      className="img-fluid"
      alt="Smart City" />
 

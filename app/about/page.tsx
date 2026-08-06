@@ -56,7 +56,7 @@ Cyber Solutions delivers advanced engineering solutions for industrial organizat
 
 <img
 
-src="images/about/saudi-infrastructure.jpg"
+src="/images/about/saudi-infrastructure.jpg"
 
 className="img-fluid hero-image"
 
@@ -84,7 +84,7 @@ alt="About" />
 
 <img
 
-src="images/about/about-company.jpg"
+src="/images/about/about-company.jpg"
 
 className="img-fluid rounded shadow"
 
@@ -284,7 +284,7 @@ Our multidisciplinary approach enables customers to modernize legacy environment
 
 <img
 
-src="images/about/digital-transformation.jpg"
+src="/images/about/digital-transformation.jpg"
 
 className="img-fluid rounded shadow"
 
@@ -576,7 +576,7 @@ and modernization.
 
 <img
 
-src="images/about/engineering-team.jpg"
+src="/images/about/engineering-team.jpg"
 
 className="img-fluid rounded shadow"
 
@@ -712,7 +712,7 @@ A Trusted Engineering Partner
 
             <div className="col-lg-6">
 
-                <img src="images/about/digital-transformation.jpg"
+                <img src="/images/about/digital-transformation.jpg"
                      className="img-fluid rounded shadow"
                      alt="Digital Transformation" />
 

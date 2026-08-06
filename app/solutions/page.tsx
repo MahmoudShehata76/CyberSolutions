@@ -78,7 +78,7 @@ Discuss Your Project
 
 <div className="col-lg-5 text-center">
 
-<img src="images/HERO/industrial-automation-robot.jpg"
+<img src="/images/HERO/industrial-automation-robot.jpg"
      className="img-fluid hero-image"
      alt="Engineering Solutions" />
 
@@ -259,7 +259,7 @@ Industrial Communications.
 
 <div className="col-lg-6">
 
-<img src="images/solutions/industrial-automation.jpg"
+<img src="/images/solutions/industrial-automation.jpg"
      className="img-fluid rounded shadow"
      alt="Industrial Automation" />
 
@@ -425,7 +425,7 @@ and measurable business value.
 
 <div className="col-lg-6 order-lg-2">
 
-<img src="images/solutions/scada-control-room.jpg"
+<img src="/images/solutions/scada-control-room.jpg"
      className="img-fluid rounded shadow"
      alt="SCADA & HMI" />
 
@@ -588,7 +588,7 @@ and operational analytics.
 
 <div className="col-lg-6">
 
-<img src="images/solutions/instrumentation.jpg"
+<img src="/images/solutions/instrumentation.jpg"
      className="img-fluid rounded shadow"
      alt="Instrumentation" />
 
@@ -774,7 +774,7 @@ and specialized industrial measurement.
 
 <div className="col-lg-6 order-lg-2">
 
-<img src="images/solutions/plc-programming.jpg"
+<img src="/images/solutions/plc-programming.jpg"
      className="img-fluid rounded shadow"
      alt="RTU" />
 
@@ -937,7 +937,7 @@ and resilient communications infrastructure.
 
 <div className="col-lg-6">
 
-<img src="images/solutions/ot-cybersecurity-soc.jpg"
+<img src="/images/solutions/ot-cybersecurity-soc.jpg"
      className="img-fluid rounded shadow"
      alt="OT Cybersecurity" />
 
@@ -1116,7 +1116,7 @@ and operational visibility.
 
 <div className="col-lg-6 order-lg-2">
 
-<img src="images/solutions/data-center-solution.jpg"
+<img src="/images/solutions/data-center-solution.jpg"
      className="img-fluid rounded shadow"
      alt="Data Center" />
 
@@ -1266,7 +1266,7 @@ and scalable cloud-ready architectures.
 
 <div className="col-lg-6">
 
-<img src="images/solutions/industrial-networking.jpg"
+<img src="/images/solutions/industrial-networking.jpg"
      className="img-fluid rounded shadow"
      alt="Networking" />
 
@@ -1442,7 +1442,7 @@ and resilient communications.
 
 <div className="col-lg-6 order-lg-2">
 
-<img src="images/solutions/smart-buildings.jpg"
+<img src="/images/solutions/smart-buildings.jpg"
      className="img-fluid rounded shadow"
      alt="Smart Infrastructure" />
 
@@ -1589,7 +1589,7 @@ and operational reporting.
 
 <div className="col-lg-6">
 
-<img src="images/solutions/ai-analytics.jpg"
+<img src="/images/solutions/ai-analytics.jpg"
      className="img-fluid rounded shadow"
      alt="Digital Transformation" />
 

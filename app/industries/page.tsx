@@ -73,7 +73,7 @@ tailored to each industry's operational challenges.
 
 <div className="col-lg-5 text-center">
 
-<img src="images/industries/smart-cities.jpg"
+<img src="/images/industries/smart-cities.jpg"
      className="img-fluid hero-image"
      alt="Industries" />
 
@@ -267,7 +267,7 @@ Transportation
 
 <div className="col-lg-6">
 
-<img src="images/industries/oil-gas.jpg"
+<img src="/images/industries/oil-gas.jpg"
      className="img-fluid rounded shadow"
      alt="Oil & Gas" />
 
@@ -426,7 +426,7 @@ and asset optimization.
 
 <div className="col-lg-6 order-lg-2">
 
-<img src="images/industries/power-generation.jpg"
+<img src="/images/industries/power-generation.jpg"
      className="img-fluid rounded shadow"
      alt="Power Generation" />
 
@@ -501,7 +501,7 @@ project lifecycle.
 
 <div className="col-lg-6">
 
-<img src="images/industries/water-treatment.jpg"
+<img src="/images/industries/water-treatment.jpg"
      className="img-fluid rounded shadow"
      alt="Water & Wastewater" />
 
@@ -659,7 +659,7 @@ and intelligent instrumentation.
 
 <div className="col-lg-6 order-lg-2">
 
-<img src="images/industries/petrochemical.jpg"
+<img src="/images/industries/petrochemical.jpg"
      className="img-fluid rounded shadow"
      alt="Petrochemical" />
 
@@ -834,7 +834,7 @@ and production improvement.
 
 <div className="col-lg-6">
 
-<img src="images/industries/manufacturing.jpg"
+<img src="/images/industries/manufacturing.jpg"
      className="img-fluid rounded shadow"
      alt="Manufacturing" />
 
@@ -988,7 +988,7 @@ and digital manufacturing.
 
 <div className="col-lg-6 order-lg-2">
 
-<img src="images/industries/petrochemical.jpg"
+<img src="/images/industries/petrochemical.jpg"
      className="img-fluid rounded shadow"
      alt="Mining" />
 
@@ -1063,7 +1063,7 @@ technologies.
 
 <div className="col-lg-6">
 
-<img src="images/industries/smart-cities.jpg"
+<img src="/images/industries/smart-cities.jpg"
      className="img-fluid rounded shadow"
      alt="Smart Cities" />
 
@@ -1210,7 +1210,7 @@ and decision support systems.
 
 <div className="col-lg-6 order-lg-2">
 
-<img src="images/industries/commercial-buildings.jpg"
+<img src="/images/industries/commercial-buildings.jpg"
      className="img-fluid rounded shadow"
      alt="Commercial Buildings" />
 
@@ -1379,7 +1379,7 @@ and smart building communications.
 
 <div className="col-lg-6">
 
-<img src="images/HERO/data-center.jpg"
+<img src="/images/HERO/data-center.jpg"
      className="img-fluid rounded shadow"
      alt="Data Centers" />
 
@@ -1444,7 +1444,7 @@ scalability, and long-term operational reliability.
 
 <div className="col-lg-6 order-lg-2">
 
-<img src="images/industries/transportation.jpg"
+<img src="/images/industries/transportation.jpg"
      className="img-fluid rounded shadow"
      alt="Transportation" />
 
@@ -1510,7 +1510,7 @@ systems.
 
 <div className="col-lg-6">
 
-<img src="images/industries/commercial-buildings.jpg"
+<img src="/images/industries/commercial-buildings.jpg"
      className="img-fluid rounded shadow"
      alt="Government" />
 
@@ -1579,7 +1579,7 @@ support of Saudi Vision 2030.
 
 <div className="col-lg-6 order-lg-2">
 
-<img src="images/industries/healthcare.jpg"
+<img src="/images/industries/healthcare.jpg"
      className="img-fluid rounded shadow"
      alt="Healthcare" />
 

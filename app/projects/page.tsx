@@ -75,7 +75,7 @@ Discuss Your Project
 
 <div className="col-lg-5 text-center">
 
-<img src="images/projects/project-team.jpg"
+<img src="/images/projects/project-team.jpg"
      className="img-fluid hero-image"
      alt="Projects" />
 
@@ -250,7 +250,7 @@ Secure Communications.
 
 <div className="col-lg-6">
 
-<img src="images/projects/featured-project.jpg"
+<img src="/images/projects/featured-project.jpg"
      className="img-fluid rounded shadow"
      alt="Featured Project" />
 
@@ -383,7 +383,7 @@ digital transformation.
 
 <div className="project-card">
 
-<img src="images/projects/client-meeting.jpg"
+<img src="/images/projects/client-meeting.jpg"
      className="img-fluid"
      alt="Automation Project" />
 
@@ -434,7 +434,7 @@ overall plant reliability.
 
 <div className="project-card">
 
-<img src="images/projects/control-panels.jpg"
+<img src="/images/projects/control-panels.jpg"
      className="img-fluid"
      alt="Advanced Process Control" />
 
@@ -597,7 +597,7 @@ and secure engineering access.
 
 <div className="col-lg-6">
 
-<img src="images/projects/network-security.jpg"
+<img src="/images/projects/network-security.jpg"
      className="img-fluid rounded shadow"
      alt="Cybersecurity Project" />
 
@@ -649,7 +649,7 @@ maintaining uninterrupted industrial operations.
 
 <div className="col-lg-6 order-lg-2">
 
-<img src="images/projects/server-room-installation.jpg"
+<img src="/images/projects/server-room-installation.jpg"
      className="img-fluid rounded shadow"
      alt="Data Center" />
 
@@ -748,7 +748,7 @@ and cybersecurity controls.
 
 <div className="col-lg-6">
 
-<img src="images/projects/fiber-optic-installation.jpg"
+<img src="/images/projects/fiber-optic-installation.jpg"
      className="img-fluid rounded shadow"
      alt="Networking" />
 
@@ -850,7 +850,7 @@ management platforms into one unified ecosystem.
 
 <div className="col-lg-6">
 
-<img src="images/projects/monitoring-center.jpg"
+<img src="/images/projects/monitoring-center.jpg"
      className="img-fluid rounded shadow"
      alt="Smart Infrastructure" />
 
