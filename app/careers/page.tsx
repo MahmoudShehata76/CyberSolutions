@@ -1871,127 +1871,51 @@ Careers FAQ
 
 </div>
 
-<div className="accordion"
-id="careerFAQ">
+<div className="w-full max-w-3xl mx-auto space-y-4 pb-20">
+  <details className="group border border-gray-200 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow" style={{listStyle:"none"}}>
+    <summary className="flex cursor-pointer items-center justify-between gap-1.5 p-6 text-navy transition-colors hover:bg-gray-50 list-none">
+      <h3 className="font-semibold text-lg md:text-xl m-0">Do you offer internships?</h3>
+      <span className="shrink-0 rounded-full bg-blue-100 p-2 text-primary sm:p-3">
+        <svg xmlns="http://www.w3.org/2000/svg" className="size-5 shrink-0 transition duration-300 group-open:-rotate-180" viewBox="0 0 20 20" fill="currentColor">
+          <path fillRule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clipRule="evenodd" />
+        </svg>
+      </span>
+    </summary>
+    <div className="p-6 border-t border-gray-100 bg-gray-50/50 text-gray-700 leading-relaxed">
+      Yes. Cyber Solutions welcomes students and recent graduates through structured internship opportunities that provide practical engineering experience.
+    </div>
+  </details>
 
-<div className="accordion-item">
+  <details className="group border border-gray-200 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow" style={{listStyle:"none"}}>
+    <summary className="flex cursor-pointer items-center justify-between gap-1.5 p-6 text-navy transition-colors hover:bg-gray-50 list-none">
+      <h3 className="font-semibold text-lg md:text-xl m-0">Can I apply even if no suitable vacancy is listed?</h3>
+      <span className="shrink-0 rounded-full bg-blue-100 p-2 text-primary sm:p-3">
+        <svg xmlns="http://www.w3.org/2000/svg" className="size-5 shrink-0 transition duration-300 group-open:-rotate-180" viewBox="0 0 20 20" fill="currentColor">
+          <path fillRule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clipRule="evenodd" />
+        </svg>
+      </span>
+    </summary>
+    <div className="p-6 border-t border-gray-100 bg-gray-50/50 text-gray-700 leading-relaxed">
+      Absolutely. We continuously review applications from talented professionals for future opportunities.
+    </div>
+  </details>
 
-<h2 className="accordion-header">
-
-<button className="accordion-button"
-
-type="button"
-
-data-bs-toggle="collapse"
-
-data-bs-target="#faq1">
-
-Do you offer internships?
-
-</button>
-
-</h2>
-
-<div id="faq1"
-
-className="accordion-collapse collapse show"
-
-data-bs-parent="#careerFAQ">
-
-<div className="accordion-body">
-
-Yes.
-Cyber Solutions welcomes students and recent graduates through
-structured internship opportunities that provide practical
-engineering experience.
-
+  <details className="group border border-gray-200 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow" style={{listStyle:"none"}}>
+    <summary className="flex cursor-pointer items-center justify-between gap-1.5 p-6 text-navy transition-colors hover:bg-gray-50 list-none">
+      <h3 className="font-semibold text-lg md:text-xl m-0">Which engineering disciplines do you recruit?</h3>
+      <span className="shrink-0 rounded-full bg-blue-100 p-2 text-primary sm:p-3">
+        <svg xmlns="http://www.w3.org/2000/svg" className="size-5 shrink-0 transition duration-300 group-open:-rotate-180" viewBox="0 0 20 20" fill="currentColor">
+          <path fillRule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clipRule="evenodd" />
+        </svg>
+      </span>
+    </summary>
+    <div className="p-6 border-t border-gray-100 bg-gray-50/50 text-gray-700 leading-relaxed">
+      We recruit professionals across Industrial Automation, Instrumentation, OT Cybersecurity, Networking, Data Centers, Software, Project Management, and Digital Infrastructure.
+    </div>
+  </details>
 </div>
 
 </div>
-
-</div>
-
-<div className="accordion-item">
-
-<h2 className="accordion-header">
-
-<button className="accordion-button collapsed"
-
-type="button"
-
-data-bs-toggle="collapse"
-
-data-bs-target="#faq2">
-
-Can I apply even if no suitable vacancy is listed?
-
-</button>
-
-</h2>
-
-<div id="faq2"
-
-className="accordion-collapse collapse"
-
-data-bs-parent="#careerFAQ">
-
-<div className="accordion-body">
-
-Absolutely.
-We continuously review applications from talented professionals
-for future opportunities.
-
-</div>
-
-</div>
-
-</div>
-
-<div className="accordion-item">
-
-<h2 className="accordion-header">
-
-<button className="accordion-button collapsed"
-
-type="button"
-
-data-bs-toggle="collapse"
-
-data-bs-target="#faq3">
-
-Which engineering disciplines do you recruit?
-
-</button>
-
-</h2>
-
-<div id="faq3"
-
-className="accordion-collapse collapse"
-
-data-bs-parent="#careerFAQ">
-
-<div className="accordion-body">
-
-We recruit professionals across Industrial Automation,
-Instrumentation,
-OT Cybersecurity,
-Networking,
-Data Centers,
-Software,
-Project Management,
-and Digital Infrastructure.
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
 </section>
 
 
@@ -2024,7 +1948,7 @@ we would love to hear from you.
 <div className="pt-4">
 <a href="/contact"
 
-className="inline-block bg-neon-blue hover:bg-neon-blue/90 text-navy font-bold rounded-full transition-all hover:shadow-glow text-lg px-10 py-4">
+className="inline-block bg-primary hover:bg-primary-dark text-white font-bold rounded-full transition-all hover:shadow-glow text-lg px-10 py-4">
 
 Apply Today
 
