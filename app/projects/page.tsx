@@ -1,5 +1,12 @@
+import type { Metadata } from "next";
+
 import AnimatedSection from "@/components/AnimatedSection";
 import GSAPWrapper from "@/components/GSAPWrapper";
+
+export const metadata: Metadata = {
+  title: "Projects",
+  description: "Cyber Solutions - Projects",
+};
 
 export default function Projects() {
   return (
@@ -18,15 +25,15 @@ export default function Projects() {
 
 
 
-<header className="hero-section">
+<header className="pt-40 pb-28 relative overflow-hidden">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-7">
+<div className="w-full lg:w-7/12 px-8">
 
-<h6 className="hero-small">
+<h6 className="text-secondary font-bold tracking-widest mb-5">
 
 PROJECT EXPERIENCE
 
@@ -64,8 +71,8 @@ and long-term lifecycle support.
 
 </p>
 
-<a href="contact.html"
-   className="btn btn-primary btn-lg mt-4">
+<a href="/contact"
+   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow text-lg px-8 py-4 mt-8">
 
 Discuss Your Project
 
@@ -73,10 +80,10 @@ Discuss Your Project
 
 </div>
 
-<div className="col-lg-5 text-center">
+<div className="w-full lg:w-5/12 px-8 text-center">
 
 <img src="/images/projects/project-team.jpg"
-     className="img-fluid hero-image"
+     className="max-w-full h-auto hero-image"
      alt="Projects" />
 
 </div>
@@ -91,11 +98,11 @@ Discuss Your Project
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -122,11 +129,11 @@ high-quality outcomes.
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-gears"></i>
 
@@ -152,9 +159,9 @@ Advanced Automation.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-shield-halved"></i>
 
@@ -178,9 +185,9 @@ Risk Assessment.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-server"></i>
 
@@ -205,9 +212,9 @@ Disaster Recovery.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-network-wired"></i>
 
@@ -242,21 +249,21 @@ Secure Communications.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/projects/featured-project.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Featured Project" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <h6 className="section-subtitle">
 
@@ -293,9 +300,9 @@ transformation initiatives.
 
 </p>
 
-<div className="row mt-4">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-8">
 
-<div className="col-6">
+<div className="w-full md:w-1/2 px-4">
 
 <h5>Scope</h5>
 
@@ -313,7 +320,7 @@ transformation initiatives.
 
 </div>
 
-<div className="col-6">
+<div className="w-full md:w-1/2 px-4">
 
 <h5>Deliverables</h5>
 
@@ -349,11 +356,11 @@ transformation initiatives.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -377,14 +384,14 @@ digital transformation.
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <div className="project-card">
 
 <img src="/images/projects/client-meeting.jpg"
-     className="img-fluid"
+     className="max-w-full h-auto"
      alt="Automation Project" />
 
 <div className="project-content">
@@ -430,12 +437,12 @@ overall plant reliability.
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <div className="project-card">
 
 <img src="/images/projects/control-panels.jpg"
-     className="img-fluid"
+     className="max-w-full h-auto"
      alt="Advanced Process Control" />
 
 <div className="project-content">
@@ -491,11 +498,11 @@ control.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -511,11 +518,11 @@ Operational Technology Cybersecurity
 
 </div>
 
-<div className="row">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4">
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-shield-halved"></i>
 
@@ -539,9 +546,9 @@ and cybersecurity improvement roadmaps.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-network-wired"></i>
 
@@ -565,9 +572,9 @@ and resilient network design.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-user-lock"></i>
 
@@ -593,17 +600,17 @@ and secure engineering access.
 
 </div>
 
-<div className="row mt-5 align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-12 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/projects/network-security.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Cybersecurity Project" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <h3>
 
@@ -641,21 +648,21 @@ maintaining uninterrupted industrial operations.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6 order-lg-2">
+<div className="w-full lg:w-1/2 px-4 order-lg-2">
 
 <img src="/images/projects/server-room-installation.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Data Center" />
 
 </div>
 
-<div className="col-lg-6 order-lg-1">
+<div className="w-full lg:w-1/2 px-4 order-lg-1">
 
 <h6 className="section-subtitle">
 
@@ -692,9 +699,9 @@ and cybersecurity controls.
 
 </p>
 
-<div className="row mt-4">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-8">
 
-<div className="col-6">
+<div className="w-full md:w-1/2 px-4">
 
 <ul>
 
@@ -710,7 +717,7 @@ and cybersecurity controls.
 
 </div>
 
-<div className="col-6">
+<div className="w-full md:w-1/2 px-4">
 
 <ul>
 
@@ -740,21 +747,21 @@ and cybersecurity controls.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/projects/fiber-optic-installation.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Networking" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <h6 className="section-subtitle">
 
@@ -817,11 +824,11 @@ and long-term scalability.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -846,17 +853,17 @@ management platforms into one unified ecosystem.
 
 </div>
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/projects/monitoring-center.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Smart Infrastructure" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <h3>
 
@@ -881,9 +888,9 @@ energy monitoring, and centralized asset management.
 
 </p>
 
-<div className="row mt-4">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-8">
 
-<div className="col-6">
+<div className="w-full md:w-1/2 px-4">
 
 <ul>
 
@@ -899,7 +906,7 @@ energy monitoring, and centralized asset management.
 
 </div>
 
-<div className="col-6">
+<div className="w-full md:w-1/2 px-4">
 
 <ul>
 
@@ -929,11 +936,11 @@ energy monitoring, and centralized asset management.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -957,11 +964,11 @@ long-term operational value.
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-lightbulb"></i>
 
@@ -991,9 +998,9 @@ and project planning.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-compass-drafting"></i>
 
@@ -1023,9 +1030,9 @@ and integration planning.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-gears"></i>
 
@@ -1056,9 +1063,9 @@ and optimization.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-headset"></i>
 
@@ -1098,11 +1105,11 @@ and lifecycle services.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1118,9 +1125,9 @@ Platforms & Technologies
 
 </div>
 
-<div className="row text-center g-4">
+<div className="flex flex-wrap -mx-4 text-center gap-y-6">
 
-<div className="col-lg-2 col-md-4">
+<div className="w-full md:w-1/3 lg:w-1/4 px-8">
 
 <div className="tech-card">
 
@@ -1132,7 +1139,7 @@ Platforms & Technologies
 
 </div>
 
-<div className="col-lg-2 col-md-4">
+<div className="w-full md:w-1/3 lg:w-1/4 px-8">
 
 <div className="tech-card">
 
@@ -1144,7 +1151,7 @@ Platforms & Technologies
 
 </div>
 
-<div className="col-lg-2 col-md-4">
+<div className="w-full md:w-1/3 lg:w-1/4 px-8">
 
 <div className="tech-card">
 
@@ -1156,7 +1163,7 @@ Platforms & Technologies
 
 </div>
 
-<div className="col-lg-2 col-md-4">
+<div className="w-full md:w-1/3 lg:w-1/4 px-8">
 
 <div className="tech-card">
 
@@ -1168,7 +1175,7 @@ Platforms & Technologies
 
 </div>
 
-<div className="col-lg-2 col-md-4">
+<div className="w-full md:w-1/3 lg:w-1/4 px-8">
 
 <div className="tech-card">
 
@@ -1180,7 +1187,7 @@ Platforms & Technologies
 
 </div>
 
-<div className="col-lg-2 col-md-4">
+<div className="w-full md:w-1/3 lg:w-1/4 px-8">
 
 <div className="tech-card">
 
@@ -1202,11 +1209,11 @@ Platforms & Technologies
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1222,11 +1229,11 @@ Project Outcomes
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-arrow-trend-up"></i>
 
@@ -1247,9 +1254,9 @@ performance while reducing manual intervention.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-clock"></i>
 
@@ -1271,9 +1278,9 @@ and resilient system architectures improve availability.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-chart-line"></i>
 
@@ -1310,9 +1317,9 @@ supporting future expansion and digital transformation.
 
 <section className="statistics">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1328,9 +1335,9 @@ Engineering Results That Matter
 
 </div>
 
-<div className="row text-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 text-center">
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <h2 className="counter"
     data-target="100">
@@ -1347,7 +1354,7 @@ Projects Delivered
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <h2 className="counter"
     data-target="12">
@@ -1364,7 +1371,7 @@ Industries Served
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <h2 className="counter"
     data-target="25">
@@ -1381,7 +1388,7 @@ Years of Engineering Experience
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <h2 className="counter"
     data-target="99">
@@ -1408,11 +1415,11 @@ Customer Satisfaction %
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1436,11 +1443,11 @@ schedule compliance, risk management, and successful delivery.
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-handshake"></i>
 
@@ -1462,9 +1469,9 @@ engineering reviews.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-file-lines"></i>
 
@@ -1485,9 +1492,9 @@ resource plans, schedules, and project governance.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-screwdriver-wrench"></i>
 
@@ -1508,9 +1515,9 @@ commissioning, and operational readiness activities.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-life-ring"></i>
 
@@ -1541,11 +1548,11 @@ support to maximize long-term value.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1561,37 +1568,37 @@ A Trusted Engineering Partner
 
 </div>
 
-<div className="row">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
-<ul className="list-group list-group-flush">
+<ul className="flex flex-col space-y-4">
 
-<li className="list-group-item">
+<li className="flex items-center space-x-3 text-navy bg-white p-4 rounded-xl shadow-sm border border-gray-100">
 
 ✔ Integrated Industrial Automation & Control expertise
 
 </li>
 
-<li className="list-group-item">
+<li className="flex items-center space-x-3 text-navy bg-white p-4 rounded-xl shadow-sm border border-gray-100">
 
 ✔ Secure OT & IT infrastructure design
 
 </li>
 
-<li className="list-group-item">
+<li className="flex items-center space-x-3 text-navy bg-white p-4 rounded-xl shadow-sm border border-gray-100">
 
 ✔ Multidisciplinary engineering capabilities
 
 </li>
 
-<li className="list-group-item">
+<li className="flex items-center space-x-3 text-navy bg-white p-4 rounded-xl shadow-sm border border-gray-100">
 
 ✔ Proven project management methodology
 
 </li>
 
-<li className="list-group-item">
+<li className="flex items-center space-x-3 text-navy bg-white p-4 rounded-xl shadow-sm border border-gray-100">
 
 ✔ Complete project lifecycle services
 
@@ -1601,35 +1608,35 @@ A Trusted Engineering Partner
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
-<ul className="list-group list-group-flush">
+<ul className="flex flex-col space-y-4">
 
-<li className="list-group-item">
+<li className="flex items-center space-x-3 text-navy bg-white p-4 rounded-xl shadow-sm border border-gray-100">
 
 ✔ Smart Infrastructure & Digital Transformation
 
 </li>
 
-<li className="list-group-item">
+<li className="flex items-center space-x-3 text-navy bg-white p-4 rounded-xl shadow-sm border border-gray-100">
 
 ✔ Industrial Cybersecurity specialists
 
 </li>
 
-<li className="list-group-item">
+<li className="flex items-center space-x-3 text-navy bg-white p-4 rounded-xl shadow-sm border border-gray-100">
 
 ✔ Scalable future-ready architectures
 
 </li>
 
-<li className="list-group-item">
+<li className="flex items-center space-x-3 text-navy bg-white p-4 rounded-xl shadow-sm border border-gray-100">
 
 ✔ Focus on operational excellence
 
 </li>
 
-<li className="list-group-item">
+<li className="flex items-center space-x-3 text-navy bg-white p-4 rounded-xl shadow-sm border border-gray-100">
 
 ✔ Long-term customer partnerships
 
@@ -1651,11 +1658,11 @@ A Trusted Engineering Partner
 
 <section className="contact-section">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-8">
+<div className="w-full lg:w-2/3 px-8">
 
 <h2>
 
@@ -1676,10 +1683,10 @@ Cyber Solutions is ready to support your success.
 
 </div>
 
-<div className="col-lg-4 text-lg-end">
+<div className="w-full lg:w-1/3 px-8 text-lg-end">
 
-<a href="contact.html"
-   className="btn btn-primary btn-lg">
+<a href="/contact"
+   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow text-lg px-8 py-4">
 
 Start Your Project
 

@@ -22,15 +22,15 @@ export default function Industries() {
 
 
 
-<header className="hero-section">
+<header className="pt-40 pb-28 relative overflow-hidden">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-7">
+<div className="w-full lg:w-7/12 px-8">
 
-<h6 className="hero-small">
+<h6 className="text-secondary font-bold tracking-widest mb-5">
 
 INDUSTRIES WE SERVE
 
@@ -71,10 +71,10 @@ tailored to each industry's operational challenges.
 
 </div>
 
-<div className="col-lg-5 text-center">
+<div className="w-full lg:w-5/12 px-8 text-center">
 
 <img src="/images/industries/smart-cities.jpg"
-     className="img-fluid hero-image"
+     className="max-w-full h-auto hero-image"
      alt="Industries" />
 
 </div>
@@ -89,11 +89,11 @@ tailored to each industry's operational challenges.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -119,11 +119,11 @@ and long-term operational sustainability.
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-oil-well"></i>
 
@@ -137,9 +137,9 @@ Oil & Gas
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-bolt"></i>
 
@@ -153,9 +153,9 @@ Power Generation
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-water"></i>
 
@@ -169,9 +169,9 @@ Water
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-industry"></i>
 
@@ -185,9 +185,9 @@ Manufacturing
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-city"></i>
 
@@ -201,9 +201,9 @@ Smart Cities
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-building"></i>
 
@@ -217,9 +217,9 @@ Commercial Buildings
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-server"></i>
 
@@ -233,9 +233,9 @@ Data Centers
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-train"></i>
 
@@ -259,21 +259,21 @@ Transportation
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/industries/oil-gas.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Oil & Gas" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <h6 className="section-subtitle">
 
@@ -326,11 +326,11 @@ and lifecycle technical support.
 
 </div>
 
-<div className="row mt-5">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-12">
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-microchip"></i>
 
@@ -356,9 +356,9 @@ and advanced control.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-shield-halved"></i>
 
@@ -382,9 +382,9 @@ and compliance.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-chart-line"></i>
 
@@ -418,21 +418,21 @@ and asset optimization.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6 order-lg-2">
+<div className="w-full lg:w-1/2 px-4 order-lg-2">
 
 <img src="/images/industries/power-generation.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Power Generation" />
 
 </div>
 
-<div className="col-lg-6 order-lg-1">
+<div className="w-full lg:w-1/2 px-4 order-lg-1">
 
 <h6 className="section-subtitle">
 
@@ -493,21 +493,21 @@ project lifecycle.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/industries/water-treatment.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Water & Wastewater" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <h6 className="section-subtitle">
 
@@ -561,11 +561,11 @@ engineering services.
 
 </div>
 
-<div className="row mt-5 g-4">
+<div className="flex flex-wrap -mx-4 mt-12 gap-y-6">
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-water"></i>
 
@@ -589,9 +589,9 @@ and distribution management.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-satellite-dish"></i>
 
@@ -615,9 +615,9 @@ and centralized operations.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-droplet"></i>
 
@@ -651,21 +651,21 @@ and intelligent instrumentation.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6 order-lg-2">
+<div className="w-full lg:w-1/2 px-4 order-lg-2">
 
 <img src="/images/industries/petrochemical.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Petrochemical" />
 
 </div>
 
-<div className="col-lg-6 order-lg-1">
+<div className="w-full lg:w-1/2 px-4 order-lg-1">
 
 <h6 className="section-subtitle">
 
@@ -714,11 +714,11 @@ and strengthen cybersecurity resilience.
 
 </div>
 
-<div className="row mt-5">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-12">
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-gears"></i>
 
@@ -742,9 +742,9 @@ and sequence automation.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-flask"></i>
 
@@ -766,9 +766,9 @@ and control instrumentation.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-shield-halved"></i>
 
@@ -791,9 +791,9 @@ and continuous monitoring.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-chart-line"></i>
 
@@ -826,21 +826,21 @@ and production improvement.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/industries/manufacturing.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Manufacturing" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <h6 className="section-subtitle">
 
@@ -891,11 +891,11 @@ improvement initiatives.
 
 </div>
 
-<div className="row mt-5 g-4">
+<div className="flex flex-wrap -mx-4 mt-12 gap-y-6">
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-industry"></i>
 
@@ -919,9 +919,9 @@ and process automation.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-boxes-stacked"></i>
 
@@ -945,9 +945,9 @@ and KPI reporting.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-arrows-rotate"></i>
 
@@ -980,21 +980,21 @@ and digital manufacturing.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6 order-lg-2">
+<div className="w-full lg:w-1/2 px-4 order-lg-2">
 
 <img src="/images/industries/petrochemical.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Mining" />
 
 </div>
 
-<div className="col-lg-6 order-lg-1">
+<div className="w-full lg:w-1/2 px-4 order-lg-1">
 
 <h6 className="section-subtitle">
 
@@ -1055,21 +1055,21 @@ technologies.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/industries/smart-cities.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Smart Cities" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <h6 className="section-subtitle">
 
@@ -1115,11 +1115,11 @@ aligned with Vision 2030.
 
 </div>
 
-<div className="row mt-5 g-4">
+<div className="flex flex-wrap -mx-4 mt-12 gap-y-6">
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-city"></i>
 
@@ -1142,9 +1142,9 @@ and centralized operations.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-network-wired"></i>
 
@@ -1167,9 +1167,9 @@ and secure communications.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-chart-line"></i>
 
@@ -1202,21 +1202,21 @@ and decision support systems.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6 order-lg-2">
+<div className="w-full lg:w-1/2 px-4 order-lg-2">
 
 <img src="/images/industries/commercial-buildings.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Commercial Buildings" />
 
 </div>
 
-<div className="col-lg-6 order-lg-1">
+<div className="w-full lg:w-1/2 px-4 order-lg-1">
 
 <h6 className="section-subtitle">
 
@@ -1259,11 +1259,11 @@ reliability and sustainability.
 
 </div>
 
-<div className="row mt-5 g-4">
+<div className="flex flex-wrap -mx-4 mt-12 gap-y-6">
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-building"></i>
 
@@ -1286,9 +1286,9 @@ and centralized building operations.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-bolt"></i>
 
@@ -1311,9 +1311,9 @@ and sustainability initiatives.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-video"></i>
 
@@ -1336,9 +1336,9 @@ and centralized security management.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-network-wired"></i>
 
@@ -1371,21 +1371,21 @@ and smart building communications.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/HERO/data-center.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Data Centers" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <h6 className="section-subtitle">
 
@@ -1436,21 +1436,21 @@ scalability, and long-term operational reliability.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6 order-lg-2">
+<div className="w-full lg:w-1/2 px-4 order-lg-2">
 
 <img src="/images/industries/transportation.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Transportation" />
 
 </div>
 
-<div className="col-lg-6 order-lg-1">
+<div className="w-full lg:w-1/2 px-4 order-lg-1">
 
 <h6 className="section-subtitle">
 
@@ -1502,21 +1502,21 @@ systems.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/industries/commercial-buildings.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Government" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <h6 className="section-subtitle">
 
@@ -1571,21 +1571,21 @@ support of Saudi Vision 2030.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6 order-lg-2">
+<div className="w-full lg:w-1/2 px-4 order-lg-2">
 
 <img src="/images/industries/healthcare.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Healthcare" />
 
 </div>
 
-<div className="col-lg-6 order-lg-1">
+<div className="w-full lg:w-1/2 px-4 order-lg-1">
 
 <h6 className="section-subtitle">
 
@@ -1644,11 +1644,11 @@ and build future-ready medical facilities.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1674,11 +1674,11 @@ and business objectives.
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-award"></i>
 
@@ -1702,9 +1702,9 @@ and digital infrastructure.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-layer-group"></i>
 
@@ -1729,9 +1729,9 @@ and smart infrastructure.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-handshake"></i>
 
@@ -1765,11 +1765,11 @@ and technical consulting.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1785,11 +1785,11 @@ Delivering Success Throughout the Project Lifecycle
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-comments"></i>
 
@@ -1812,9 +1812,9 @@ and engineering planning.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-compass-drafting"></i>
 
@@ -1837,9 +1837,9 @@ and documentation.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-gears"></i>
 
@@ -1863,9 +1863,9 @@ and performance optimization.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-headset"></i>
 
@@ -1901,11 +1901,11 @@ and continuous improvement.
 
 <section className="statistics">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row text-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 text-center">
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <h2 className="counter"
     data-target="12">
@@ -1922,7 +1922,7 @@ Industries Served
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <h2 className="counter"
     data-target="100">
@@ -1939,7 +1939,7 @@ Projects Delivered
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <h2 className="counter"
     data-target="25">
@@ -1956,7 +1956,7 @@ Years Experience
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <h2 className="counter"
     data-target="99">
@@ -1985,11 +1985,11 @@ Client Satisfaction %
 
 <section className="contact-section">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-8">
+<div className="w-full lg:w-2/3 px-8">
 
 <h2>
 
@@ -2012,10 +2012,10 @@ and innovative engineering solutions tailored to your industry.
 
 </div>
 
-<div className="col-lg-4 text-lg-end">
+<div className="w-full lg:w-1/3 px-8 text-lg-end">
 
-<a href="contact.html"
-   className="btn btn-primary btn-lg">
+<a href="/contact"
+   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow text-lg px-8 py-4">
 
 Talk to Our Engineers
 

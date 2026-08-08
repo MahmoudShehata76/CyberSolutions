@@ -1,5 +1,12 @@
+import type { Metadata } from "next";
+
 import AnimatedSection from "@/components/AnimatedSection";
 import GSAPWrapper from "@/components/GSAPWrapper";
+
+export const metadata: Metadata = {
+  title: "Careers",
+  description: "Cyber Solutions - Careers",
+};
 
 export default function Careers() {
   return (
@@ -18,15 +25,15 @@ export default function Careers() {
 
 
 
-<header className="hero-section">
+<header className="pt-40 pb-28 relative overflow-hidden">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-7">
+<div className="w-full lg:w-7/12 px-8">
 
-<h6 className="hero-small">
+<h6 className="text-secondary font-bold tracking-widest mb-5">
 
 CAREERS
 
@@ -63,7 +70,7 @@ and professional growth to build engineering leaders.
 </p>
 
 <a href="#vacancies"
-className="btn btn-primary btn-lg mt-4">
+className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow text-lg px-8 py-4 mt-8">
 
 View Opportunities
 
@@ -71,10 +78,10 @@ View Opportunities
 
 </div>
 
-<div className="col-lg-5 text-center">
+<div className="w-full lg:w-5/12 px-8 text-center">
 
 <img src="/images/careers/careers-hero.jpg"
-className="img-fluid hero-image"
+className="hero-image"
 alt="Engineering Careers" />
 
 </div>
@@ -89,11 +96,11 @@ alt="Engineering Careers" />
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -119,11 +126,11 @@ and digital transformation throughout Saudi Arabia.
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-lightbulb"></i>
 
@@ -147,9 +154,9 @@ and OT cybersecurity.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-graduation-cap"></i>
 
@@ -172,9 +179,9 @@ and continuous engineering development.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-users"></i>
 
@@ -195,9 +202,9 @@ challenges for leading organizations.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-chart-line"></i>
 
@@ -229,21 +236,21 @@ and exposure to strategic national projects.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/careers/team-work.jpg"
-className="img-fluid rounded shadow"
+className="w-full h-auto object-cover rounded shadow aspect-video"
 alt="Engineering Team" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <h6 className="section-subtitle">
 
@@ -298,11 +305,11 @@ maintaining the highest quality standards.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -318,14 +325,14 @@ Graduate & Internship Programs
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <div className="project-card">
 
 <img src="/images/careers/graduate-engineer.jpg"
-className="img-fluid"
+className="max-w-full h-auto"
 alt="Graduates" />
 
 <div className="project-content">
@@ -365,12 +372,12 @@ and smart infrastructure projects.
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <div className="project-card">
 
 <img src="/images/careers/young-engineers.jpg"
-className="img-fluid"
+className="max-w-full h-auto"
 alt="Internship" />
 
 <div className="project-content">
@@ -417,11 +424,11 @@ internship opportunities supporting real customer projects.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -447,17 +454,17 @@ world-class engineering solutions across critical industries.
 
 </div>
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/careers/company-culture.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-auto object-cover rounded shadow aspect-video"
      alt="Experienced Engineers" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <h3>
 
@@ -488,9 +495,9 @@ and strategic innovation.
 
 </p>
 
-<div className="row mt-4">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-8">
 
-<div className="col-6">
+<div className="w-full md:w-1/2 px-4">
 
 <ul>
 
@@ -506,7 +513,7 @@ and strategic innovation.
 
 </div>
 
-<div className="col-6">
+<div className="w-full md:w-1/2 px-4">
 
 <ul>
 
@@ -536,11 +543,11 @@ and strategic innovation.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -556,11 +563,11 @@ Supporting Your Professional Journey
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-award"></i>
 
@@ -583,9 +590,9 @@ and vendor-sponsored education.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-user-graduate"></i>
 
@@ -608,9 +615,9 @@ and management opportunities.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-globe"></i>
 
@@ -633,9 +640,9 @@ and industrial cybersecurity initiatives.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-heart"></i>
 
@@ -658,9 +665,9 @@ and work-life balance.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-users-gear"></i>
 
@@ -682,9 +689,9 @@ and innovation across every project.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-lightbulb"></i>
 
@@ -717,21 +724,21 @@ and engineering excellence.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/careers/training-session.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-auto object-cover rounded shadow aspect-video"
      alt="Training" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <h6 className="section-subtitle">
 
@@ -765,9 +772,9 @@ and collaborate with leading technology partners.
 
 </p>
 
-<div className="row mt-4">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-8">
 
-<div className="col-6">
+<div className="w-full md:w-1/2 px-4">
 
 <ul>
 
@@ -783,7 +790,7 @@ and collaborate with leading technology partners.
 
 </div>
 
-<div className="col-6">
+<div className="w-full md:w-1/2 px-4">
 
 <ul>
 
@@ -813,11 +820,11 @@ and collaborate with leading technology partners.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -833,11 +840,11 @@ Engineering Disciplines
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-microchip"></i>
 
@@ -861,9 +868,9 @@ Industrial Automation.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-network-wired"></i>
 
@@ -887,9 +894,9 @@ Network Security.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-shield-halved"></i>
 
@@ -912,9 +919,9 @@ Industrial Security.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-server"></i>
 
@@ -948,11 +955,11 @@ Data Centers.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -968,9 +975,9 @@ What Our Team Says
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="testimonial-card">
 
@@ -994,7 +1001,7 @@ Senior Automation Engineer
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="testimonial-card">
 
@@ -1018,7 +1025,7 @@ Cybersecurity Consultant
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="testimonial-card">
 
@@ -1052,11 +1059,11 @@ Project Engineer
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1085,17 +1092,17 @@ high-quality engineering solutions across Saudi Arabia.
 
 </div>
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/careers/company-culture.jpg"
-className="img-fluid rounded shadow"
+className="w-full h-auto object-cover rounded shadow aspect-video"
 alt="Experienced Engineers" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <h3>
 
@@ -1129,9 +1136,9 @@ Saudi Vision 2030.
 
 </p>
 
-<div className="row mt-4">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-8">
 
-<div className="col-6">
+<div className="w-full md:w-1/2 px-4">
 
 <ul>
 
@@ -1147,7 +1154,7 @@ Saudi Vision 2030.
 
 </div>
 
-<div className="col-6">
+<div className="w-full md:w-1/2 px-4">
 
 <ul>
 
@@ -1177,11 +1184,11 @@ Saudi Vision 2030.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1197,11 +1204,11 @@ Supporting Your Professional Journey
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-user-graduate"></i>
 
@@ -1225,9 +1232,9 @@ and continuous development programs.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-award"></i>
 
@@ -1250,9 +1257,9 @@ and professional mentoring.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-lightbulb"></i>
 
@@ -1275,9 +1282,9 @@ and innovative thinking.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-users"></i>
 
@@ -1298,9 +1305,9 @@ complex industrial technology projects.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-globe"></i>
 
@@ -1321,9 +1328,9 @@ industrial modernization and digital transformation.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-handshake"></i>
 
@@ -1356,21 +1363,21 @@ and employee wellbeing are at the heart of our culture.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/careers/training-session.jpg"
-className="img-fluid rounded shadow"
+className="w-full h-auto object-cover rounded shadow aspect-video"
 alt="Training" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <h6 className="section-subtitle">
 
@@ -1422,11 +1429,11 @@ world-class engineering services.
 
 
 
-<section id="vacancies" className="section-dark">
+<section id="vacancies" className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1451,9 +1458,9 @@ and secure digital transformation.
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="project-card">
 
@@ -1481,8 +1488,8 @@ and industrial automation projects.
 
 </p>
 
-<a href="contact.html"
-className="btn btn-primary btn-sm">
+<a href="/contact"
+className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow btn-sm">
 
 Apply Now
 
@@ -1494,7 +1501,7 @@ Apply Now
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="project-card">
 
@@ -1522,8 +1529,8 @@ and secure architectures.
 
 </p>
 
-<a href="contact.html"
-className="btn btn-primary btn-sm">
+<a href="/contact"
+className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow btn-sm">
 
 Apply Now
 
@@ -1535,7 +1542,7 @@ Apply Now
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="project-card">
 
@@ -1563,8 +1570,8 @@ and infrastructure deployment.
 
 </p>
 
-<a href="contact.html"
-className="btn btn-primary btn-sm">
+<a href="/contact"
+className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow btn-sm">
 
 Apply Now
 
@@ -1586,11 +1593,11 @@ Apply Now
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1606,11 +1613,11 @@ Simple, Transparent, Professional
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-file-lines"></i>
 
@@ -1631,9 +1638,9 @@ and supporting documents.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-user-check"></i>
 
@@ -1654,9 +1661,9 @@ your experience and qualifications.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-comments"></i>
 
@@ -1677,9 +1684,9 @@ and discuss your technical expertise.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-rocket"></i>
 
@@ -1708,11 +1715,11 @@ Join Cyber Solutions and begin your engineering journey.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1737,11 +1744,11 @@ every employee to reach their full potential.
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-microchip"></i>
 
@@ -1765,9 +1772,9 @@ and OT Cybersecurity technologies.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-network-wired"></i>
 
@@ -1788,9 +1795,9 @@ industrial organizations throughout the Kingdom.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-people-group"></i>
 
@@ -1811,9 +1818,9 @@ sharing and technical excellence.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-ranking-star"></i>
 
@@ -1844,11 +1851,11 @@ and continuous learning opportunities.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1993,11 +2000,11 @@ and Digital Infrastructure.
 
 <section className="cta-section">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row justify-content-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 justify-center">
 
-<div className="col-lg-9 text-center">
+<div className="w-full lg:w-3/4 mx-auto text-center">
 
 <h2>
 
@@ -2014,9 +2021,9 @@ we would love to hear from you.
 
 </p>
 
-<a href="contact.html"
+<a href="/contact"
 
-className="btn btn-primary btn-lg">
+className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow text-lg px-8 py-4">
 
 Apply Today
 

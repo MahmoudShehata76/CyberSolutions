@@ -1,5 +1,12 @@
+import type { Metadata } from "next";
+
 import AnimatedSection from "@/components/AnimatedSection";
 import GSAPWrapper from "@/components/GSAPWrapper";
+
+export const metadata: Metadata = {
+  title: "Home",
+  description: "Cyber Solutions - Home",
+};
 
 export default function Index() {
   return (
@@ -29,17 +36,17 @@ export default function Index() {
 
 
 
-<header className="hero-section">
+<header className="pt-40 pb-28 relative overflow-hidden">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
-<div data-aos="fade-right">
+<AnimatedSection animation="slide-right">
 
-<h5 className="hero-small">
+<h5 className="text-secondary font-bold tracking-widest mb-5">
 
 ENGINEERING • DIGITALIZATION • CYBERSECURITY
 
@@ -75,41 +82,35 @@ and business resilience across mission-critical environments.
 
 </p>
 
-<div className="mt-5">
+<div className="mt-12 flex flex-wrap gap-y-12 lg:gap-y-0 gap-6 items-center">
 
-<a href="solutions.html"
-
-className="btn btn-primary btn-lg">
-
+<a href="/solutions"
+className="inline-flex items-center justify-center bg-primary hover:bg-primary-dark text-white font-semibold rounded-full transition-all hover:shadow-glow text-lg px-8 py-4 min-w-[200px]">
 Explore Solutions
-
 </a>
 
-<a href="contact.html"
-
-className="btn btn-outline-light btn-lg ms-3">
-
+<a href="/contact"
+className="inline-flex items-center justify-center border border-white text-white hover:bg-white hover:text-navy font-semibold rounded-full transition-all text-lg px-8 py-4 min-w-[200px]">
 Contact Us
-
 </a>
 
 </div>
 
-</div>
+</AnimatedSection>
 
 </div>
 
-<div className="col-lg-6 text-center">
+<div className="w-full lg:w-1/2 px-4 text-center mt-12 lg:mt-0">
 
-<div data-aos="zoom-in">
+<AnimatedSection animation="zoom-in">
 
 <img src="/images/hero/industrial-control-room.png"
 
-className="img-fluid hero-image"
+className="max-w-full h-auto hero-image"
 
 alt="Industrial Control Room" />
 
-</div>
+</AnimatedSection>
 
 </div>
 
@@ -123,21 +124,21 @@ alt="Industrial Control Room" />
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/about/about-company.jpg"
 
-className="img-fluid rounded shadow" />
+className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg" alt="About Company - Cyber Solutions" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4 mt-12 lg:mt-0">
 
 <h6 className="section-subtitle">
 
@@ -163,9 +164,9 @@ We partner with clients throughout the full project lifecycle—from consulting 
 
 </p>
 
-<a href="about.html"
+<a href="/about"
 
-className="btn btn-primary">
+className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow">
 
 Read More
 
@@ -183,11 +184,11 @@ Read More
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -203,11 +204,11 @@ Trusted Engineering Partner
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-industry"></i>
 
@@ -227,9 +228,9 @@ Comprehensive engineering solutions tailored for critical industrial operations.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-shield-halved"></i>
 
@@ -249,9 +250,9 @@ OT cybersecurity integrated into every stage of system architecture and implemen
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-network-wired"></i>
 
@@ -271,9 +272,9 @@ Consulting, engineering, implementation, commissioning, and lifecycle support.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-server"></i>
 
@@ -293,9 +294,9 @@ Reliable, resilient and scalable digital infrastructure for demanding environmen
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-microchip"></i>
 
@@ -315,9 +316,9 @@ Modern PLC, SCADA, DCS, HMI and Industrial IoT solutions.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-lightbulb"></i>
 
@@ -347,11 +348,11 @@ Helping organizations accelerate digital transformation while maintaining operat
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -373,14 +374,14 @@ Integrated engineering solutions designed to improve productivity, security, rel
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <div className="solution-card">
 
 <img src="/images/solutions/industrial-automation.jpg"
-className="img-fluid" />
+className="max-w-full h-auto" alt="Industrial Automation - Cyber Solutions" />
 
 <h4>Industrial Automation</h4>
 
@@ -392,12 +393,12 @@ PLC, DCS, SCADA, HMI, Process Control and Digital Twin solutions.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <div className="solution-card">
 
 <img src="/images/solutions/ot-cybersecurity-soc.jpg"
-className="img-fluid" />
+className="max-w-full h-auto" alt="Ot Cybersecurity Soc - Cyber Solutions" />
 
 <h4>OT Cybersecurity</h4>
 
@@ -408,12 +409,12 @@ IEC62443, risk assessment, secure architecture, monitoring and protection.
 </div>
 
 </div>
-                <div className="col-lg-3">
+                <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
                     <div className="solution-card">
 
                         <img src="/images/solutions/data-center-solution.jpg"
-                             className="img-fluid"
+                             className="max-w-full h-auto"
                              alt="Data Centers" />
 
                         <h4>Data Centers</h4>
@@ -428,12 +429,12 @@ IEC62443, risk assessment, secure architecture, monitoring and protection.
 
                 </div>
 
-                <div className="col-lg-3">
+                <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
                     <div className="solution-card">
 
                         <img src="/images/solutions/industrial-networking.jpg"
-                             className="img-fluid"
+                             className="max-w-full h-auto"
                              alt="Networking" />
 
                         <h4>Networking</h4>
@@ -449,10 +450,10 @@ IEC62443, risk assessment, secure architecture, monitoring and protection.
 
             </div>
 
-            <div className="text-center mt-5">
+            <div className="text-center mt-12">
 
-                <a href="solutions.html"
-                   className="btn btn-primary btn-lg">
+                <a href="/solutions"
+                   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow text-lg px-8 py-4">
 
                     View All Solutions
 
@@ -468,11 +469,11 @@ IEC62443, risk assessment, secure architecture, monitoring and protection.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -495,9 +496,9 @@ government and infrastructure sectors.
 
 </div>
 
-<div className="row text-center g-4">
+<div className="flex flex-wrap -mx-4 text-center gap-y-6">
 
-<div className="col-lg-3 col-md-6">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <div className="industry-card">
 
@@ -509,7 +510,7 @@ government and infrastructure sectors.
 
 </div>
 
-<div className="col-lg-3 col-md-6">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <div className="industry-card">
 
@@ -521,7 +522,7 @@ government and infrastructure sectors.
 
 </div>
 
-<div className="col-lg-3 col-md-6">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <div className="industry-card">
 
@@ -533,7 +534,7 @@ government and infrastructure sectors.
 
 </div>
 
-<div className="col-lg-3 col-md-6">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <div className="industry-card">
 
@@ -545,7 +546,7 @@ government and infrastructure sectors.
 
 </div>
 
-<div className="col-lg-3 col-md-6">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <div className="industry-card">
 
@@ -557,7 +558,7 @@ government and infrastructure sectors.
 
 </div>
 
-<div className="col-lg-3 col-md-6">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <div className="industry-card">
 
@@ -569,7 +570,7 @@ government and infrastructure sectors.
 
 </div>
 
-<div className="col-lg-3 col-md-6">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <div className="industry-card">
 
@@ -581,7 +582,7 @@ government and infrastructure sectors.
 
 </div>
 
-<div className="col-lg-3 col-md-6">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <div className="industry-card">
 
@@ -603,11 +604,11 @@ government and infrastructure sectors.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -623,14 +624,14 @@ Engineering Success Stories
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="project-card">
 
 <img src="/images/projects/client-meeting.jpg"
-className="img-fluid"
+className="max-w-full h-auto"
 alt="Automation" />
 
 <div className="project-content">
@@ -656,12 +657,12 @@ commissioning and optimization.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="project-card">
 
 <img src="/images/projects/control-panels.jpg"
-className="img-fluid"
+className="max-w-full h-auto"
 alt="Cyber" />
 
 <div className="project-content">
@@ -687,12 +688,12 @@ security monitoring.
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="project-card">
 
 <img src="/images/projects/fiber-optic-installation.jpg"
-className="img-fluid"
+className="max-w-full h-auto"
 alt="Infrastructure" />
 
 <div className="project-content">
@@ -730,11 +731,11 @@ and smart infrastructure.
 
 <section className="statistics">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row text-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 text-center">
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <h2 className="counter"
 data-target="25">
@@ -751,7 +752,7 @@ Years Experience
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <h2 className="counter"
 data-target="100">
@@ -768,7 +769,7 @@ Projects Delivered
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <h2 className="counter"
 data-target="500">
@@ -785,7 +786,7 @@ Systems Engineered
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
 <h2 className="counter"
 data-target="99">
@@ -812,11 +813,11 @@ Client Satisfaction %
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -832,9 +833,9 @@ Latest Technology Trends
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="blog-card">
 
@@ -850,7 +851,7 @@ Strengthening industrial resilience through modern cybersecurity strategies.
 
 </p>
 
-<a href="insights.html">
+<a href="/insights">
 
 Read More
 
@@ -860,7 +861,7 @@ Read More
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="blog-card">
 
@@ -877,7 +878,7 @@ to optimize industrial operations.
 
 </p>
 
-<a href="insights.html">
+<a href="/insights">
 
 Read More
 
@@ -887,7 +888,7 @@ Read More
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="blog-card">
 
@@ -905,7 +906,7 @@ future-ready industrial enterprises.
 
 </p>
 
-<a href="insights.html">
+<a href="/insights">
 
 Read More
 
@@ -927,11 +928,11 @@ Read More
 
 <section className="contact-section">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <h6 className="section-subtitle">
 
@@ -964,27 +965,27 @@ info@CyberSolutions.com.sa
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <form>
 
-<input className="form-control mb-3"
+<input className="form-control"
 placeholder="Full Name" />
 
-<input className="form-control mb-3"
+<input className="form-control"
 placeholder="Company" />
 
-<input className="form-control mb-3"
+<input className="form-control"
 placeholder="Email" />
 
-<input className="form-control mb-3"
+<input className="form-control"
 placeholder="Subject" />
 
-<textarea className="form-control mb-3"
+<textarea className="form-control"
 rows={6}
 placeholder="Message" />
 
-<button className="btn btn-primary btn-lg">
+<button className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow text-lg px-8 py-4">
 
 Send Message
 

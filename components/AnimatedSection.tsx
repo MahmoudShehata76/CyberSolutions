@@ -30,8 +30,8 @@ export default function AnimatedSection({
       
       const el = container.current;
       
-      let fromVars: gsap.TweenVars = { opacity: 0 };
-      let toVars: gsap.TweenVars = {
+      const fromVars: gsap.TweenVars = { opacity: 0 };
+      const toVars: gsap.TweenVars = {
         opacity: 1,
         duration,
         delay,

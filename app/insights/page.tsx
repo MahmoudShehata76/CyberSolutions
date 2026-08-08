@@ -18,15 +18,15 @@ export default function Insights() {
 
 
 
-<header className="hero-section">
+<header className="pt-40 pb-28 relative overflow-hidden">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-7">
+<div className="w-full lg:w-7/12 px-8">
 
-<h6 className="hero-small">
+<h6 className="text-secondary font-bold tracking-widest mb-5">
 
 KNOWLEDGE CENTER
 
@@ -65,7 +65,7 @@ and Digital Transformation.
 
 <a href="#featured"
 
-className="btn btn-primary btn-lg mt-4">
+className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow text-lg px-8 py-4 mt-8">
 
 Explore Articles
 
@@ -73,11 +73,11 @@ Explore Articles
 
 </div>
 
-<div className="col-lg-5 text-center">
+<div className="w-full lg:w-5/12 px-8 text-center">
 
 <img src="/images/insights/engineering-best-practices.jpg"
 
-className="img-fluid hero-image"
+className="max-w-full h-auto hero-image"
 
 alt="Knowledge Center" />
 
@@ -95,11 +95,11 @@ alt="Knowledge Center" />
 
 <section id="featured"
 
-className="section-dark">
+className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -116,19 +116,19 @@ for Industry 4.0
 
 </div>
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/insights/ai-insights.jpg"
 
-className="img-fluid rounded shadow"
+className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
 
 alt="Industry 4.0" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <span className="badge bg-primary">
 
@@ -136,7 +136,7 @@ Digital Transformation
 
 </span>
 
-<h3 className="mt-3">
+<h3 className="mt-6">
 
 Preparing Critical Infrastructure
 for the Next Industrial Revolution
@@ -169,7 +169,7 @@ and supports sustainable operational growth.
 
 <a href="#"
 
-className="btn btn-outline-light">
+className="inline-block border border-white text-white hover:bg-white hover:text-navy font-semibold py-3 px-6 rounded-full transition-all">
 
 Read Full Article
 
@@ -187,11 +187,11 @@ Read Full Article
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -207,11 +207,11 @@ Knowledge Categories
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-gears"></i>
 
@@ -234,9 +234,9 @@ Automation Best Practices.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-shield-halved"></i>
 
@@ -259,9 +259,9 @@ Defense in Depth.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-network-wired"></i>
 
@@ -284,9 +284,9 @@ IIoT Connectivity.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-server"></i>
 
@@ -320,11 +320,11 @@ Cloud Readiness.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -340,15 +340,15 @@ Recent Engineering Articles
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="project-card">
 
 <img src="/images/insights/cloud-computing.jpg"
 
-className="img-fluid"
+className="max-w-full h-auto"
 
 alt="OT Security" />
 
@@ -376,7 +376,7 @@ strategies.
 
 <a href="#"
 
-className="btn btn-sm btn-primary">
+className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
 
 Read More
 
@@ -388,13 +388,13 @@ Read More
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="project-card">
 
 <img src="/images/insights/cybersecurity-insights.jpg"
 
-className="img-fluid"
+className="max-w-full h-auto"
 
 alt="Automation" />
 
@@ -421,7 +421,7 @@ production interruption and operational risk.
 
 <a href="#"
 
-className="btn btn-sm btn-primary">
+className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
 
 Read More
 
@@ -433,13 +433,13 @@ Read More
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="project-card">
 
 <img src="/images/insights/data-analytics.jpg"
 
-className="img-fluid"
+className="max-w-full h-auto"
 
 alt="IIoT" />
 
@@ -466,7 +466,7 @@ equipment into modern digital ecosystems.
 
 <a href="#"
 
-className="btn btn-sm btn-primary">
+className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
 
 Read More
 
@@ -492,11 +492,11 @@ Read More
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -521,14 +521,14 @@ continuity.
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="project-card">
 
 <img src="/images/insights/industrial-iot.jpg"
-     className="img-fluid"
+     className="max-w-full h-auto"
      alt="IEC62443" />
 
 <div className="project-content">
@@ -553,7 +553,7 @@ standard for industrial automation and control systems.
 </p>
 
 <a href="#"
-   className="btn btn-sm btn-primary">
+   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
 
 Read Article
 
@@ -565,12 +565,12 @@ Read Article
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="project-card">
 
 <img src="/images/insights/industry-4-0.jpg"
-     className="img-fluid"
+     className="max-w-full h-auto"
      alt="Risk Assessment" />
 
 <div className="project-content">
@@ -595,7 +595,7 @@ business risks, and prioritize mitigation strategies.
 </p>
 
 <a href="#"
-   className="btn btn-sm btn-primary">
+   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
 
 Read Article
 
@@ -607,12 +607,12 @@ Read Article
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="project-card">
 
 <img src="/images/insights/networking-insights.jpg"
-     className="img-fluid"
+     className="max-w-full h-auto"
      alt="Zero Trust" />
 
 <div className="project-content">
@@ -637,7 +637,7 @@ without disrupting production processes.
 </p>
 
 <a href="#"
-   className="btn btn-sm btn-primary">
+   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
 
 Read Article
 
@@ -659,11 +659,11 @@ Read Article
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -679,17 +679,17 @@ Building Intelligent Urban Infrastructure
 
 </div>
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/insights/sustainability.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Smart Cities" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <h3>
 
@@ -715,7 +715,7 @@ transportation systems, and public safety technologies.
 </p>
 
 <a href="#"
-   className="btn btn-outline-light">
+   className="inline-block border border-white text-white hover:bg-white hover:text-navy font-semibold py-3 px-6 rounded-full transition-all">
 
 Explore Smart Cities
 
@@ -733,11 +733,11 @@ Explore Smart Cities
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -753,11 +753,11 @@ AI in Industrial Operations
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-brain"></i>
 
@@ -779,9 +779,9 @@ and engineering decision support for industrial facilities.
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-robot"></i>
 
@@ -813,18 +813,18 @@ planning.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <div className="project-card">
 
 <img src="/images/insights/industrial-iot.jpg"
-     className="img-fluid"
+     className="max-w-full h-auto"
      alt="Industrial IoT" />
 
 <div className="project-content">
@@ -850,7 +850,7 @@ cloud integration.
 </p>
 
 <a href="#"
-   className="btn btn-sm btn-primary">
+   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
 
 Read More
 
@@ -862,12 +862,12 @@ Read More
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <div className="project-card">
 
 <img src="/images/insights/industry-4-0.jpg"
-     className="img-fluid"
+     className="max-w-full h-auto"
      alt="Digital Twin" />
 
 <div className="project-content">
@@ -893,7 +893,7 @@ asset lifecycle management.
 </p>
 
 <a href="#"
-   className="btn btn-sm btn-primary">
+   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
 
 Read More
 
@@ -915,21 +915,21 @@ Read More
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <img src="/images/insights/engineering-best-practices.jpg"
-     className="img-fluid rounded shadow"
+     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
      alt="Predictive Maintenance" />
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <h6 className="section-subtitle">
 
@@ -961,7 +961,7 @@ operations.
 </p>
 
 <a href="#"
-   className="btn btn-primary">
+   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow">
 
 Learn More
 
@@ -983,11 +983,11 @@ Learn More
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1012,14 +1012,14 @@ technologies.
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="project-card">
 
 <img src="/images/insights/ai-insights.jpg"
-     className="img-fluid"
+     className="max-w-full h-auto"
      alt="Automation Whitepaper" />
 
 <div className="project-content">
@@ -1044,7 +1044,7 @@ SCADA systems while minimizing operational disruption.
 </p>
 
 <a href="#"
-   className="btn btn-primary btn-sm">
+   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow btn-sm">
 
 Download PDF
 
@@ -1056,12 +1056,12 @@ Download PDF
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="project-card">
 
 <img src="/images/insights/cybersecurity-insights.jpg"
-     className="img-fluid"
+     className="max-w-full h-auto"
      alt="Cybersecurity Whitepaper" />
 
 <div className="project-content">
@@ -1086,7 +1086,7 @@ architectures based on defense-in-depth principles.
 </p>
 
 <a href="#"
-   className="btn btn-primary btn-sm">
+   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow btn-sm">
 
 Download PDF
 
@@ -1098,12 +1098,12 @@ Download PDF
 
 </div>
 
-<div className="col-lg-4">
+<div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
 <div className="project-card">
 
 <img src="/images/insights/data-analytics.jpg"
-     className="img-fluid"
+     className="max-w-full h-auto"
      alt="Digital Transformation" />
 
 <div className="project-content">
@@ -1128,7 +1128,7 @@ large-scale industrial digital transformation initiatives.
 </p>
 
 <a href="#"
-   className="btn btn-primary btn-sm">
+   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow btn-sm">
 
 Download PDF
 
@@ -1150,11 +1150,11 @@ Download PDF
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1170,11 +1170,11 @@ Engineering Guidelines
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-clipboard-check"></i>
 
@@ -1196,9 +1196,9 @@ criteria before execution.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-network-wired"></i>
 
@@ -1219,9 +1219,9 @@ support future expansion and technology evolution.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-shield-halved"></i>
 
@@ -1242,9 +1242,9 @@ continuous monitoring, and lifecycle vulnerability management.
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
 <i className="fas fa-chart-line"></i>
 
@@ -1275,11 +1275,11 @@ systems, and continuously improve engineering processes.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1295,14 +1295,14 @@ Delivering Measurable Business Value
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <div className="project-card">
 
 <img src="/images/insights/sustainability.jpg"
-     className="img-fluid"
+     className="max-w-full h-auto"
      alt="Energy" />
 
 <div className="project-content">
@@ -1328,12 +1328,12 @@ critical infrastructure.
 
 </div>
 
-<div className="col-lg-6">
+<div className="w-full lg:w-1/2 px-4">
 
 <div className="project-card">
 
 <img src="/images/insights/cloud-computing.jpg"
-     className="img-fluid"
+     className="max-w-full h-auto"
      alt="Smart City" />
 
 <div className="project-content">
@@ -1368,11 +1368,11 @@ more efficient operations.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1388,9 +1388,9 @@ Technology Roadmap
 
 </div>
 
-<div className="row">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4">
 
-<div className="col-lg-12">
+<div className="w-full">
 
 <div className="timeline">
 
@@ -1448,11 +1448,11 @@ hyper-secure digital operations.
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1576,11 +1576,11 @@ programs.
 
 
 
-<section className="section-light">
+<section className="bg-gray-50 text-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="text-center mb-5">
+<div className="text-center mb-12">
 
 <h6 className="section-subtitle">
 
@@ -1604,13 +1604,13 @@ cybersecurity, and modernize industrial operations.
 
 </div>
 
-<div className="row g-4">
+<div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card text-center">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover text-center">
 
-<i className="fas fa-file-pdf fa-3x mb-3"></i>
+<i className="fas fa-file-pdf fa-3x mb-6"></i>
 
 <h4>White Papers</h4>
 
@@ -1622,7 +1622,7 @@ guidelines.
 </p>
 
 <a href="#"
-   className="btn btn-outline-primary">
+   className="inline-block border border-primary text-primary hover:bg-primary hover:text-white font-semibold py-3 px-6 rounded-full transition-all">
 
 View Library
 
@@ -1632,11 +1632,11 @@ View Library
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card text-center">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover text-center">
 
-<i className="fas fa-book fa-3x mb-3"></i>
+<i className="fas fa-book fa-3x mb-6"></i>
 
 <h4>Technical Guides</h4>
 
@@ -1648,7 +1648,7 @@ and engineering best practices.
 </p>
 
 <a href="#"
-   className="btn btn-outline-primary">
+   className="inline-block border border-primary text-primary hover:bg-primary hover:text-white font-semibold py-3 px-6 rounded-full transition-all">
 
 Browse Guides
 
@@ -1658,11 +1658,11 @@ Browse Guides
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card text-center">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover text-center">
 
-<i className="fas fa-video fa-3x mb-3"></i>
+<i className="fas fa-video fa-3x mb-6"></i>
 
 <h4>Webinars</h4>
 
@@ -1674,7 +1674,7 @@ digital transformation.
 </p>
 
 <a href="#"
-   className="btn btn-outline-primary">
+   className="inline-block border border-primary text-primary hover:bg-primary hover:text-white font-semibold py-3 px-6 rounded-full transition-all">
 
 Watch Now
 
@@ -1684,11 +1684,11 @@ Watch Now
 
 </div>
 
-<div className="col-lg-3">
+<div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="feature-card text-center">
+<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover text-center">
 
-<i className="fas fa-download fa-3x mb-3"></i>
+<i className="fas fa-download fa-3x mb-6"></i>
 
 <h4>Case Studies</h4>
 
@@ -1700,7 +1700,7 @@ outcomes.
 </p>
 
 <a href="#"
-   className="btn btn-outline-primary">
+   className="inline-block border border-primary text-primary hover:bg-primary hover:text-white font-semibold py-3 px-6 rounded-full transition-all">
 
 Download
 
@@ -1720,13 +1720,13 @@ Download
 
 
 
-<section className="section-dark">
+<section className="bg-navy py-20">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-7">
+<div className="w-full lg:w-7/12 px-8">
 
 <h6 className="section-subtitle">
 
@@ -1748,27 +1748,27 @@ your inbox.
 
 </p>
 
-<ul className="list-unstyled mt-4">
+<ul className="list-unstyled mt-8">
 
-<li className="mb-3">
+<li className="mb-6">
 
-<i className="fas fa-check-circle text-primary me-2"></i>
+<i className="fas fa-check-circle text-primary mr-4"></i>
 
 Monthly engineering articles
 
 </li>
 
-<li className="mb-3">
+<li className="mb-6">
 
-<i className="fas fa-check-circle text-primary me-2"></i>
+<i className="fas fa-check-circle text-primary mr-4"></i>
 
 OT cybersecurity updates
 
 </li>
 
-<li className="mb-3">
+<li className="mb-6">
 
-<i className="fas fa-check-circle text-primary me-2"></i>
+<i className="fas fa-check-circle text-primary mr-4"></i>
 
 Industrial technology trends
 
@@ -1776,7 +1776,7 @@ Industrial technology trends
 
 <li>
 
-<i className="fas fa-check-circle text-primary me-2"></i>
+<i className="fas fa-check-circle text-primary mr-4"></i>
 
 Smart infrastructure insights
 
@@ -1786,13 +1786,13 @@ Smart infrastructure insights
 
 </div>
 
-<div className="col-lg-5">
+<div className="w-full lg:w-5/12 px-8">
 
 <div className="contact-form">
 
 <form>
 
-<div className="mb-3">
+<div>
 
 <input type="text"
        className="form-control"
@@ -1800,7 +1800,7 @@ Smart infrastructure insights
 
 </div>
 
-<div className="mb-3">
+<div>
 
 <input type="email"
        className="form-control"
@@ -1808,7 +1808,7 @@ Smart infrastructure insights
 
 </div>
 
-<div className="mb-3">
+<div>
 
 <input type="text"
        className="form-control"
@@ -1816,7 +1816,7 @@ Smart infrastructure insights
 
 </div>
 
-<button className="btn btn-primary w-100">
+<button className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow w-full">
 
 Subscribe
 
@@ -1840,11 +1840,11 @@ Subscribe
 
 <section className="contact-section">
 
-<div className="container">
+<div className="container mx-auto px-8">
 
-<div className="row align-items-center">
+<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="col-lg-8">
+<div className="w-full lg:w-2/3 px-8">
 
 <h2>
 
@@ -1864,10 +1864,10 @@ our engineering consultants are ready to help.
 
 </div>
 
-<div className="col-lg-4 text-lg-end">
+<div className="w-full lg:w-1/3 px-8 text-lg-end">
 
-<a href="contact.html"
-   className="btn btn-primary btn-lg">
+<a href="/contact"
+   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow text-lg px-8 py-4">
 
 Request Consultation
 
