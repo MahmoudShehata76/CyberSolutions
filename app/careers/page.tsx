@@ -1998,21 +1998,21 @@ and Digital Infrastructure.
 
 
 
-<section className="cta-section">
+<section className="relative z-10 py-24 bg-navy-light/20">
 
 <div className="container mx-auto px-8">
 
 <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 justify-center">
 
-<div className="w-full lg:w-3/4 mx-auto text-center">
+<div className="w-full lg:w-3/4 mx-auto text-center space-y-6">
 
-<h2>
+<h2 className="m-0 text-white">
 
 Ready to Build the Future With Us?
 
 </h2>
 
-<p>
+<p className="text-gray-light text-lg">
 
 If you are passionate about engineering,
 innovation,
@@ -2021,13 +2021,15 @@ we would love to hear from you.
 
 </p>
 
+<div className="pt-4">
 <a href="/contact"
 
-className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow text-lg px-8 py-4">
+className="inline-block bg-neon-blue hover:bg-neon-blue/90 text-navy font-bold rounded-full transition-all hover:shadow-glow text-lg px-10 py-4">
 
 Apply Today
 
 </a>
+</div>
 
 </div>
 
