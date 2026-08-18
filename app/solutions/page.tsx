@@ -86,7 +86,7 @@ export default function Solutions() {
                               <div className="w-full lg:w-5/12 px-8 text-center">
 
                                    <img
-                                        src="/images/hero/data-center.jpg"
+                                        src="/images/hero/engineering.jpg"
                                         loading="lazy"
                                         className="max-w-full h-auto hero-image"
                                         alt="Engineering"
