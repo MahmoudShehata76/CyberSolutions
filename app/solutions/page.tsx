@@ -85,7 +85,7 @@ export default function Solutions() {
 
                               <div className="w-full lg:w-5/12 px-8 text-center">
 
-                                   <img src="/images/HERO/engineering-solutions.webp"
+                                   <img src="/images/hero/engineering-solutions.jpg"
                                         className="max-w-full h-auto hero-image"
                                         alt="Engineering Solutions" />
 
