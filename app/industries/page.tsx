@@ -2,8 +2,8 @@ import AnimatedSection from "@/components/AnimatedSection";
 import GSAPWrapper from "@/components/GSAPWrapper";
 
 export default function Industries() {
-  return (
-    <GSAPWrapper>
+     return (
+          <GSAPWrapper>
 
 
 
@@ -22,469 +22,469 @@ export default function Industries() {
 
 
 
-<header className="pt-40 pb-28 relative overflow-hidden">
+               <header className="pt-40 pb-28 relative overflow-hidden">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-7/12 px-8">
+                              <div className="w-full lg:w-7/12 px-8">
 
-<h6 className="text-secondary font-bold tracking-widest mb-5">
+                                   <h6 className="text-secondary font-bold tracking-widest mb-5">
 
-INDUSTRIES WE SERVE
+                                        INDUSTRIES WE SERVE
 
-</h6>
+                                   </h6>
 
-<h1>
+                                   <h1>
 
-Engineering Solutions
-for Mission-Critical Industries
+                                        Engineering Solutions
+                                        for Mission-Critical Industries
 
-</h1>
+                                   </h1>
 
-<p>
+                                   <p>
 
-Cyber Solutions partners with industrial organizations,
-utilities,
-government agencies,
-and infrastructure operators to deliver secure,
-reliable,
-and scalable engineering solutions that accelerate digital
-transformation while ensuring operational excellence.
+                                        Cyber Solutions partners with industrial organizations,
+                                        utilities,
+                                        government agencies,
+                                        and infrastructure operators to deliver secure,
+                                        reliable,
+                                        and scalable engineering solutions that accelerate digital
+                                        transformation while ensuring operational excellence.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Our multidisciplinary expertise enables us to integrate
-Industrial Automation,
-Operational Technology,
-Cybersecurity,
-Networking,
-Instrumentation,
-Data Centers,
-and Smart Infrastructure into unified engineering platforms
-tailored to each industry's operational challenges.
+                                        Our multidisciplinary expertise enables us to integrate
+                                        Industrial Automation,
+                                        Operational Technology,
+                                        Cybersecurity,
+                                        Networking,
+                                        Instrumentation,
+                                        Data Centers,
+                                        and Smart Infrastructure into unified engineering platforms
+                                        tailored to each industry's operational challenges.
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-5/12 px-8 text-center">
+                              <div className="w-full lg:w-5/12 px-8 text-center">
 
-<img src="/images/industries/smart-cities.jpg"
-     className="max-w-full h-auto hero-image"
-     alt="Industries" />
+                                   <img src="/images/industries/smart-cities.webp"
+                                        className="max-w-full h-auto hero-image"
+                                        alt="Industries" />
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</header>
+               </header>
 
 
 
 
 
-<section className="bg-navy py-20">
+               <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+                         <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+                              <h6 className="section-subtitle">
 
-OUR EXPERIENCE
+                                   OUR EXPERIENCE
 
-</h6>
+                              </h6>
 
-<h2>
+                              <h2>
 
-Supporting the Kingdom's Critical Infrastructure
+                                   Supporting the Kingdom's Critical Infrastructure
 
-</h2>
+                              </h2>
 
-<p>
+                              <p>
 
-Our engineering solutions are designed for organizations that
-require maximum availability,
-high reliability,
-secure digital infrastructure,
-and long-term operational sustainability.
+                                   Our engineering solutions are designed for organizations that
+                                   require maximum availability,
+                                   high reliability,
+                                   secure digital infrastructure,
+                                   and long-term operational sustainability.
 
-</p>
+                              </p>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+                         <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-oil-well"></i>
+                                        <i className="fas fa-oil-well"></i>
 
-<h4>
+                                        <h4>
 
-Oil & Gas
+                                             Oil & Gas
 
-</h4>
+                                        </h4>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-bolt"></i>
+                                        <i className="fas fa-bolt"></i>
 
-<h4>
+                                        <h4>
 
-Power Generation
+                                             Power Generation
 
-</h4>
+                                        </h4>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-water"></i>
+                                        <i className="fas fa-water"></i>
 
-<h4>
+                                        <h4>
 
-Water
+                                             Water
 
-</h4>
+                                        </h4>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-industry"></i>
+                                        <i className="fas fa-industry"></i>
 
-<h4>
+                                        <h4>
 
-Manufacturing
+                                             Manufacturing
 
-</h4>
+                                        </h4>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-city"></i>
+                                        <i className="fas fa-city"></i>
 
-<h4>
+                                        <h4>
 
-Smart Cities
+                                             Smart Cities
 
-</h4>
+                                        </h4>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-building"></i>
+                                        <i className="fas fa-building"></i>
 
-<h4>
+                                        <h4>
 
-Commercial Buildings
+                                             Commercial Buildings
 
-</h4>
+                                        </h4>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-server"></i>
+                                        <i className="fas fa-server"></i>
 
-<h4>
+                                        <h4>
 
-Data Centers
+                                             Data Centers
 
-</h4>
+                                        </h4>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-train"></i>
+                                        <i className="fas fa-train"></i>
 
-<h4>
+                                        <h4>
 
-Transportation
+                                             Transportation
 
-</h4>
+                                        </h4>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+               <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<img src="/images/industries/oil-gas.jpg"
-     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
-     alt="Oil & Gas" />
+                                   <img src="/images/industries/oil-gas.webp"
+                                        className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
+                                        alt="Oil & Gas" />
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<h6 className="section-subtitle">
+                                   <h6 className="section-subtitle">
 
-OIL & GAS
+                                        OIL & GAS
 
-</h6>
+                                   </h6>
 
-<h2>
+                                   <h2>
 
-Reliable Engineering for Critical Energy Assets
+                                        Reliable Engineering for Critical Energy Assets
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Oil and gas operations demand uninterrupted production,
-high process availability,
-robust safety systems,
-and secure industrial networks.
+                                        Oil and gas operations demand uninterrupted production,
+                                        high process availability,
+                                        robust safety systems,
+                                        and secure industrial networks.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Cyber Solutions delivers integrated engineering solutions that
-combine industrial automation,
-instrumentation,
-OT cybersecurity,
-SCADA,
-PLC systems,
-industrial communications,
-and digital infrastructure to improve operational efficiency
-while minimizing risk.
+                                        Cyber Solutions delivers integrated engineering solutions that
+                                        combine industrial automation,
+                                        instrumentation,
+                                        OT cybersecurity,
+                                        SCADA,
+                                        PLC systems,
+                                        industrial communications,
+                                        and digital infrastructure to improve operational efficiency
+                                        while minimizing risk.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Our engineering teams support upstream,
-midstream,
-and downstream facilities through modernization,
-migration,
-system integration,
-commissioning,
-and lifecycle technical support.
+                                        Our engineering teams support upstream,
+                                        midstream,
+                                        and downstream facilities through modernization,
+                                        migration,
+                                        system integration,
+                                        commissioning,
+                                        and lifecycle technical support.
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-12">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-12">
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-microchip"></i>
+                                        <i className="fas fa-microchip"></i>
 
-<h4>
+                                        <h4>
 
-Automation
+                                             Automation
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-PLC,
-DCS,
-SCADA,
-ESD,
-Fire & Gas integration,
-process optimization,
-and advanced control.
+                                             PLC,
+                                             DCS,
+                                             SCADA,
+                                             ESD,
+                                             Fire & Gas integration,
+                                             process optimization,
+                                             and advanced control.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-shield-halved"></i>
+                                        <i className="fas fa-shield-halved"></i>
 
-<h4>
+                                        <h4>
 
-Secure Operations
+                                             Secure Operations
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Industrial cybersecurity,
-network segmentation,
-asset monitoring,
-secure remote access,
-and compliance.
+                                             Industrial cybersecurity,
+                                             network segmentation,
+                                             asset monitoring,
+                                             secure remote access,
+                                             and compliance.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-chart-line"></i>
+                                        <i className="fas fa-chart-line"></i>
 
-<h4>
+                                        <h4>
 
-Operational Excellence
+                                             Operational Excellence
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Improved production,
-higher reliability,
-reduced downtime,
-predictive maintenance,
-and asset optimization.
+                                             Improved production,
+                                             higher reliability,
+                                             reduced downtime,
+                                             predictive maintenance,
+                                             and asset optimization.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-navy py-20">
+               <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4 order-lg-2">
+                              <div className="w-full lg:w-1/2 px-4 order-lg-2">
 
-<img src="/images/industries/power-generation.jpg"
-     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
-     alt="Power Generation" />
+                                   <img src="/images/industries/power-generation.webp"
+                                        className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
+                                        alt="Power Generation" />
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/2 px-4 order-lg-1">
+                              <div className="w-full lg:w-1/2 px-4 order-lg-1">
 
-<h6 className="section-subtitle">
+                                   <h6 className="section-subtitle">
 
-POWER GENERATION
+                                        POWER GENERATION
 
-</h6>
+                                   </h6>
 
-<h2>
+                                   <h2>
 
-Delivering High Availability for Power Utilities
+                                        Delivering High Availability for Power Utilities
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Power generation facilities require highly reliable control
-systems,
-accurate instrumentation,
-real-time monitoring,
-and secure operational networks to ensure stable electricity
-production and regulatory compliance.
+                                        Power generation facilities require highly reliable control
+                                        systems,
+                                        accurate instrumentation,
+                                        real-time monitoring,
+                                        and secure operational networks to ensure stable electricity
+                                        production and regulatory compliance.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Cyber Solutions provides automation engineering,
-plant control modernization,
-SCADA integration,
-industrial networking,
-and OT cybersecurity solutions that help utilities maximize
-plant availability and operational efficiency.
+                                        Cyber Solutions provides automation engineering,
+                                        plant control modernization,
+                                        SCADA integration,
+                                        industrial networking,
+                                        and OT cybersecurity solutions that help utilities maximize
+                                        plant availability and operational efficiency.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Our expertise supports combined cycle,
-conventional,
-renewable,
-and industrial captive power plants throughout the complete
-project lifecycle.
+                                        Our expertise supports combined cycle,
+                                        conventional,
+                                        renewable,
+                                        and industrial captive power plants throughout the complete
+                                        project lifecycle.
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
@@ -493,560 +493,560 @@ project lifecycle.
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+               <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<img src="/images/industries/water-treatment.jpg"
-     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
-     alt="Water & Wastewater" />
+                                   <img src="/images/industries/water-treatment.webp"
+                                        className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
+                                        alt="Water & Wastewater" />
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<h6 className="section-subtitle">
+                                   <h6 className="section-subtitle">
 
-WATER & WASTEWATER
+                                        WATER & WASTEWATER
 
-</h6>
+                                   </h6>
 
-<h2>
+                                   <h2>
 
-Sustainable Water Infrastructure Through Smart Engineering
+                                        Sustainable Water Infrastructure Through Smart Engineering
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Water and wastewater facilities require dependable automation,
-continuous monitoring,
-accurate instrumentation,
-and secure communications to maintain operational continuity,
-water quality,
-and regulatory compliance.
+                                        Water and wastewater facilities require dependable automation,
+                                        continuous monitoring,
+                                        accurate instrumentation,
+                                        and secure communications to maintain operational continuity,
+                                        water quality,
+                                        and regulatory compliance.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Cyber Solutions delivers integrated PLC,
-SCADA,
-RTU,
-telemetry,
-instrumentation,
-and industrial networking solutions that improve operational
-efficiency while reducing maintenance costs and unplanned
-interruptions.
+                                        Cyber Solutions delivers integrated PLC,
+                                        SCADA,
+                                        RTU,
+                                        telemetry,
+                                        instrumentation,
+                                        and industrial networking solutions that improve operational
+                                        efficiency while reducing maintenance costs and unplanned
+                                        interruptions.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Our engineering teams support desalination plants,
-water transmission systems,
-pump stations,
-reservoirs,
-treatment facilities,
-and wastewater infrastructure through complete lifecycle
-engineering services.
+                                        Our engineering teams support desalination plants,
+                                        water transmission systems,
+                                        pump stations,
+                                        reservoirs,
+                                        treatment facilities,
+                                        and wastewater infrastructure through complete lifecycle
+                                        engineering services.
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap -mx-4 mt-12 gap-y-6">
+                         <div className="flex flex-wrap -mx-4 mt-12 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-water"></i>
+                                        <i className="fas fa-water"></i>
 
-<h4>
+                                        <h4>
 
-Water Automation
+                                             Water Automation
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Pump control,
-treatment process automation,
-chemical dosing,
-filtration,
-and distribution management.
+                                             Pump control,
+                                             treatment process automation,
+                                             chemical dosing,
+                                             filtration,
+                                             and distribution management.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-satellite-dish"></i>
+                                        <i className="fas fa-satellite-dish"></i>
 
-<h4>
+                                        <h4>
 
-Remote Monitoring
+                                             Remote Monitoring
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-RTUs,
-telemetry,
-SCADA integration,
-remote diagnostics,
-and centralized operations.
+                                             RTUs,
+                                             telemetry,
+                                             SCADA integration,
+                                             remote diagnostics,
+                                             and centralized operations.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-droplet"></i>
+                                        <i className="fas fa-droplet"></i>
 
-<h4>
+                                        <h4>
 
-Measurement Systems
+                                             Measurement Systems
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Flow,
-pressure,
-level,
-water quality analyzers,
-and intelligent instrumentation.
+                                             Flow,
+                                             pressure,
+                                             level,
+                                             water quality analyzers,
+                                             and intelligent instrumentation.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-navy py-20">
+               <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4 order-lg-2">
+                              <div className="w-full lg:w-1/2 px-4 order-lg-2">
 
-<img src="/images/industries/petrochemical.jpg"
-     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
-     alt="Petrochemical" />
+                                   <img src="/images/industries/petrochemical.webp"
+                                        className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
+                                        alt="Petrochemical" />
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/2 px-4 order-lg-1">
+                              <div className="w-full lg:w-1/2 px-4 order-lg-1">
 
-<h6 className="section-subtitle">
+                                   <h6 className="section-subtitle">
 
-PETROCHEMICAL
+                                        PETROCHEMICAL
 
-</h6>
+                                   </h6>
 
-<h2>
+                                   <h2>
 
-High Performance Automation for Complex Process Industries
+                                        High Performance Automation for Complex Process Industries
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Petrochemical facilities demand exceptional operational
-reliability,
-precise process control,
-and advanced safety systems operating around the clock.
+                                        Petrochemical facilities demand exceptional operational
+                                        reliability,
+                                        precise process control,
+                                        and advanced safety systems operating around the clock.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Cyber Solutions provides automation engineering,
-advanced process control,
-industrial networking,
-high-performance instrumentation,
-OT cybersecurity,
-and system modernization that support continuous production
-while maintaining the highest engineering standards.
+                                        Cyber Solutions provides automation engineering,
+                                        advanced process control,
+                                        industrial networking,
+                                        high-performance instrumentation,
+                                        OT cybersecurity,
+                                        and system modernization that support continuous production
+                                        while maintaining the highest engineering standards.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Our multidisciplinary teams help petrochemical organizations
-increase productivity,
-optimize process stability,
-reduce operational risks,
-and strengthen cybersecurity resilience.
+                                        Our multidisciplinary teams help petrochemical organizations
+                                        increase productivity,
+                                        optimize process stability,
+                                        reduce operational risks,
+                                        and strengthen cybersecurity resilience.
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-12">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-12">
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-gears"></i>
+                                        <i className="fas fa-gears"></i>
 
-<h4>
+                                        <h4>
 
-Process Control
+                                             Process Control
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Advanced PLC,
-DCS,
-SCADA,
-HMI,
-and sequence automation.
+                                             Advanced PLC,
+                                             DCS,
+                                             SCADA,
+                                             HMI,
+                                             and sequence automation.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-flask"></i>
+                                        <i className="fas fa-flask"></i>
 
-<h4>
+                                        <h4>
 
-Instrumentation
+                                             Instrumentation
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-High-accuracy process measurement,
-analytical systems,
-and control instrumentation.
+                                             High-accuracy process measurement,
+                                             analytical systems,
+                                             and control instrumentation.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-shield-halved"></i>
+                                        <i className="fas fa-shield-halved"></i>
 
-<h4>
+                                        <h4>
 
-Cybersecurity
+                                             Cybersecurity
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Industrial security,
-network segmentation,
-secure remote access,
-and continuous monitoring.
+                                             Industrial security,
+                                             network segmentation,
+                                             secure remote access,
+                                             and continuous monitoring.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-chart-line"></i>
+                                        <i className="fas fa-chart-line"></i>
 
-<h4>
+                                        <h4>
 
-Optimization
+                                             Optimization
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Operational analytics,
-energy optimization,
-predictive maintenance,
-and production improvement.
+                                             Operational analytics,
+                                             energy optimization,
+                                             predictive maintenance,
+                                             and production improvement.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+               <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<img src="/images/industries/manufacturing.jpg"
-     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
-     alt="Manufacturing" />
+                                   <img src="/images/industries/manufacturing.webp"
+                                        className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
+                                        alt="Manufacturing" />
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<h6 className="section-subtitle">
+                                   <h6 className="section-subtitle">
 
-MANUFACTURING
+                                        MANUFACTURING
 
-</h6>
+                                   </h6>
 
-<h2>
+                                   <h2>
 
-Improving Productivity Through Intelligent Automation
+                                        Improving Productivity Through Intelligent Automation
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Manufacturing organizations operate in highly competitive
-environments where productivity,
-quality,
-traceability,
-and operational efficiency directly impact business success.
+                                        Manufacturing organizations operate in highly competitive
+                                        environments where productivity,
+                                        quality,
+                                        traceability,
+                                        and operational efficiency directly impact business success.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Cyber Solutions develops automation platforms that integrate
-production equipment,
-industrial robots,
-quality systems,
-MES interfaces,
-SCADA,
-and enterprise applications into a unified manufacturing
-environment.
+                                        Cyber Solutions develops automation platforms that integrate
+                                        production equipment,
+                                        industrial robots,
+                                        quality systems,
+                                        MES interfaces,
+                                        SCADA,
+                                        and enterprise applications into a unified manufacturing
+                                        environment.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Our solutions reduce downtime,
-improve production visibility,
-increase equipment utilization,
-and provide real-time operational intelligence for continuous
-improvement initiatives.
+                                        Our solutions reduce downtime,
+                                        improve production visibility,
+                                        increase equipment utilization,
+                                        and provide real-time operational intelligence for continuous
+                                        improvement initiatives.
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap -mx-4 mt-12 gap-y-6">
+                         <div className="flex flex-wrap -mx-4 mt-12 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-industry"></i>
+                                        <i className="fas fa-industry"></i>
 
-<h4>
+                                        <h4>
 
-Factory Automation
+                                             Factory Automation
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-PLC systems,
-production lines,
-robot integration,
-machine control,
-and process automation.
+                                             PLC systems,
+                                             production lines,
+                                             robot integration,
+                                             machine control,
+                                             and process automation.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-boxes-stacked"></i>
+                                        <i className="fas fa-boxes-stacked"></i>
 
-<h4>
+                                        <h4>
 
-Production Visibility
+                                             Production Visibility
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-SCADA,
-MES integration,
-OEE monitoring,
-production dashboards,
-and KPI reporting.
+                                             SCADA,
+                                             MES integration,
+                                             OEE monitoring,
+                                             production dashboards,
+                                             and KPI reporting.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-arrows-rotate"></i>
+                                        <i className="fas fa-arrows-rotate"></i>
 
-<h4>
+                                        <h4>
 
-Continuous Improvement
+                                             Continuous Improvement
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Performance analytics,
-predictive maintenance,
-energy optimization,
-and digital manufacturing.
+                                             Performance analytics,
+                                             predictive maintenance,
+                                             energy optimization,
+                                             and digital manufacturing.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-navy py-20">
+               <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4 order-lg-2">
+                              <div className="w-full lg:w-1/2 px-4 order-lg-2">
 
-<img src="/images/industries/petrochemical.jpg"
-     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
-     alt="Mining" />
+                                   <img src="/images/industries/petrochemical.webp"
+                                        className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
+                                        alt="Mining" />
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/2 px-4 order-lg-1">
+                              <div className="w-full lg:w-1/2 px-4 order-lg-1">
 
-<h6 className="section-subtitle">
+                                   <h6 className="section-subtitle">
 
-MINING & METALS
+                                        MINING & METALS
 
-</h6>
+                                   </h6>
 
-<h2>
+                                   <h2>
 
-Reliable Automation for Harsh Industrial Environments
+                                        Reliable Automation for Harsh Industrial Environments
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Mining and metals operations require rugged automation
-platforms,
-reliable field instrumentation,
-remote monitoring,
-and resilient communications capable of operating under
-challenging environmental conditions.
+                                        Mining and metals operations require rugged automation
+                                        platforms,
+                                        reliable field instrumentation,
+                                        remote monitoring,
+                                        and resilient communications capable of operating under
+                                        challenging environmental conditions.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Cyber Solutions provides integrated automation,
-industrial communications,
-OT cybersecurity,
-and process monitoring solutions that improve operational
-efficiency while supporting worker safety and environmental
-compliance.
+                                        Cyber Solutions provides integrated automation,
+                                        industrial communications,
+                                        OT cybersecurity,
+                                        and process monitoring solutions that improve operational
+                                        efficiency while supporting worker safety and environmental
+                                        compliance.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Our engineering expertise enables mining organizations to
-modernize critical assets,
-increase equipment availability,
-and improve production performance through secure digital
-technologies.
+                                        Our engineering expertise enables mining organizations to
+                                        modernize critical assets,
+                                        increase equipment availability,
+                                        and improve production performance through secure digital
+                                        technologies.
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
@@ -1055,514 +1055,514 @@ technologies.
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+               <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<img src="/images/industries/smart-cities.jpg"
-     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
-     alt="Smart Cities" />
+                                   <img src="/images/industries/smart-cities.webp"
+                                        className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
+                                        alt="Smart Cities" />
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<h6 className="section-subtitle">
+                                   <h6 className="section-subtitle">
 
-SMART CITIES
+                                        SMART CITIES
 
-</h6>
+                                   </h6>
 
-<h2>
+                                   <h2>
 
-Enabling Intelligent Urban Infrastructure
+                                        Enabling Intelligent Urban Infrastructure
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-As Saudi Arabia continues developing world-class smart cities,
-Cyber Solutions provides the digital technologies required to
-connect infrastructure, improve public services, optimize
-resource utilization, and enhance citizen experiences.
+                                        As Saudi Arabia continues developing world-class smart cities,
+                                        Cyber Solutions provides the digital technologies required to
+                                        connect infrastructure, improve public services, optimize
+                                        resource utilization, and enhance citizen experiences.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Our integrated engineering solutions combine IoT platforms,
-industrial communications, cybersecurity, intelligent
-monitoring, data integration, and centralized control systems
-to create secure, scalable, and future-ready urban
-environments.
+                                        Our integrated engineering solutions combine IoT platforms,
+                                        industrial communications, cybersecurity, intelligent
+                                        monitoring, data integration, and centralized control systems
+                                        to create secure, scalable, and future-ready urban
+                                        environments.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-From utility monitoring to intelligent transportation and
-connected public infrastructure, our solutions help cities
-operate more efficiently while supporting sustainable growth
-aligned with Vision 2030.
+                                        From utility monitoring to intelligent transportation and
+                                        connected public infrastructure, our solutions help cities
+                                        operate more efficiently while supporting sustainable growth
+                                        aligned with Vision 2030.
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap -mx-4 mt-12 gap-y-6">
+                         <div className="flex flex-wrap -mx-4 mt-12 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-city"></i>
+                                        <i className="fas fa-city"></i>
 
-<h4>
+                                        <h4>
 
-Smart Infrastructure
+                                             Smart Infrastructure
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Integrated monitoring,
-asset management,
-digital platforms,
-and centralized operations.
+                                             Integrated monitoring,
+                                             asset management,
+                                             digital platforms,
+                                             and centralized operations.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-network-wired"></i>
+                                        <i className="fas fa-network-wired"></i>
 
-<h4>
+                                        <h4>
 
-Connected Services
+                                             Connected Services
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-IoT connectivity,
-industrial networking,
-fiber infrastructure,
-and secure communications.
+                                             IoT connectivity,
+                                             industrial networking,
+                                             fiber infrastructure,
+                                             and secure communications.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-chart-line"></i>
+                                        <i className="fas fa-chart-line"></i>
 
-<h4>
+                                        <h4>
 
-Operational Intelligence
+                                             Operational Intelligence
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Real-time dashboards,
-analytics,
-performance monitoring,
-and decision support systems.
+                                             Real-time dashboards,
+                                             analytics,
+                                             performance monitoring,
+                                             and decision support systems.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-navy py-20">
+               <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4 order-lg-2">
+                              <div className="w-full lg:w-1/2 px-4 order-lg-2">
 
-<img src="/images/industries/commercial-buildings.jpg"
-     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
-     alt="Commercial Buildings" />
+                                   <img src="/images/industries/commercial-buildings.webp"
+                                        className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
+                                        alt="Commercial Buildings" />
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/2 px-4 order-lg-1">
+                              <div className="w-full lg:w-1/2 px-4 order-lg-1">
 
-<h6 className="section-subtitle">
+                                   <h6 className="section-subtitle">
 
-COMMERCIAL BUILDINGS
+                                        COMMERCIAL BUILDINGS
 
-</h6>
+                                   </h6>
 
-<h2>
+                                   <h2>
 
-Intelligent Buildings Designed for Efficiency
+                                        Intelligent Buildings Designed for Efficiency
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Modern commercial facilities require integrated building
-technologies that improve operational efficiency, occupant
-comfort, energy performance, and cybersecurity.
+                                        Modern commercial facilities require integrated building
+                                        technologies that improve operational efficiency, occupant
+                                        comfort, energy performance, and cybersecurity.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Cyber Solutions delivers intelligent building solutions
-including Building Management Systems (BMS), energy
-monitoring, structured networking, physical infrastructure,
-security integration, and centralized facility management.
+                                        Cyber Solutions delivers intelligent building solutions
+                                        including Building Management Systems (BMS), energy
+                                        monitoring, structured networking, physical infrastructure,
+                                        security integration, and centralized facility management.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Our engineering approach enables property owners and facility
-operators to reduce operational costs while improving system
-reliability and sustainability.
+                                        Our engineering approach enables property owners and facility
+                                        operators to reduce operational costs while improving system
+                                        reliability and sustainability.
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap -mx-4 mt-12 gap-y-6">
+                         <div className="flex flex-wrap -mx-4 mt-12 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-building"></i>
+                                        <i className="fas fa-building"></i>
 
-<h4>
+                                        <h4>
 
-Building Automation
+                                             Building Automation
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-HVAC control,
-lighting,
-energy management,
-and centralized building operations.
+                                             HVAC control,
+                                             lighting,
+                                             energy management,
+                                             and centralized building operations.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-bolt"></i>
+                                        <i className="fas fa-bolt"></i>
 
-<h4>
+                                        <h4>
 
-Energy Management
+                                             Energy Management
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Power monitoring,
-optimization,
-consumption analysis,
-and sustainability initiatives.
+                                             Power monitoring,
+                                             optimization,
+                                             consumption analysis,
+                                             and sustainability initiatives.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-video"></i>
+                                        <i className="fas fa-video"></i>
 
-<h4>
+                                        <h4>
 
-Integrated Security
+                                             Integrated Security
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Access control,
-CCTV,
-intrusion detection,
-and centralized security management.
+                                             Access control,
+                                             CCTV,
+                                             intrusion detection,
+                                             and centralized security management.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-network-wired"></i>
+                                        <i className="fas fa-network-wired"></i>
 
-<h4>
+                                        <h4>
 
-Digital Connectivity
+                                             Digital Connectivity
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Enterprise networking,
-Wi-Fi,
-structured cabling,
-and smart building communications.
+                                             Enterprise networking,
+                                             Wi-Fi,
+                                             structured cabling,
+                                             and smart building communications.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+               <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<img src="/images/HERO/data-center.jpg"
-     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
-     alt="Data Centers" />
+                                   <img src="/images/HERO/data-center.webp"
+                                        className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
+                                        alt="Data Centers" />
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<h6 className="section-subtitle">
+                                   <h6 className="section-subtitle">
 
-DATA CENTERS
+                                        DATA CENTERS
 
-</h6>
+                                   </h6>
 
-<h2>
+                                   <h2>
 
-Mission-Critical Digital Infrastructure
+                                        Mission-Critical Digital Infrastructure
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Data centers form the foundation of modern digital operations.
-Cyber Solutions designs and delivers resilient infrastructure
-that supports continuous availability, secure information
-processing, and future business growth.
+                                        Data centers form the foundation of modern digital operations.
+                                        Cyber Solutions designs and delivers resilient infrastructure
+                                        that supports continuous availability, secure information
+                                        processing, and future business growth.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Our capabilities include enterprise servers, virtualization,
-storage, structured cabling, networking, backup systems,
-environmental monitoring, disaster recovery, and integrated
-cybersecurity.
+                                        Our capabilities include enterprise servers, virtualization,
+                                        storage, structured cabling, networking, backup systems,
+                                        environmental monitoring, disaster recovery, and integrated
+                                        cybersecurity.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Every deployment is engineered for high availability,
-scalability, and long-term operational reliability.
+                                        Every deployment is engineered for high availability,
+                                        scalability, and long-term operational reliability.
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-navy py-20">
+               <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4 order-lg-2">
+                              <div className="w-full lg:w-1/2 px-4 order-lg-2">
 
-<img src="/images/industries/transportation.jpg"
-     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
-     alt="Transportation" />
+                                   <img src="/images/industries/transportation.webp"
+                                        className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
+                                        alt="Transportation" />
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/2 px-4 order-lg-1">
+                              <div className="w-full lg:w-1/2 px-4 order-lg-1">
 
-<h6 className="section-subtitle">
+                                   <h6 className="section-subtitle">
 
-TRANSPORTATION
+                                        TRANSPORTATION
 
-</h6>
+                                   </h6>
 
-<h2>
+                                   <h2>
 
-Reliable Technology for Connected Transportation Networks
+                                        Reliable Technology for Connected Transportation Networks
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Transportation systems rely on dependable communications,
-real-time monitoring, intelligent control systems, and secure
-digital infrastructure to ensure safe and efficient operations.
+                                        Transportation systems rely on dependable communications,
+                                        real-time monitoring, intelligent control systems, and secure
+                                        digital infrastructure to ensure safe and efficient operations.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Cyber Solutions supports transportation operators with
-industrial networking, automation, surveillance integration,
-control systems, cybersecurity, and centralized monitoring
-platforms that improve operational visibility and service
-reliability.
+                                        Cyber Solutions supports transportation operators with
+                                        industrial networking, automation, surveillance integration,
+                                        control systems, cybersecurity, and centralized monitoring
+                                        platforms that improve operational visibility and service
+                                        reliability.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Our engineering solutions support airports, rail networks,
-ports, logistics facilities, and intelligent transportation
-systems.
+                                        Our engineering solutions support airports, rail networks,
+                                        ports, logistics facilities, and intelligent transportation
+                                        systems.
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+               <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<img src="/images/industries/commercial-buildings.jpg"
-     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
-     alt="Government" />
+                                   <img src="/images/industries/commercial-buildings.webp"
+                                        className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
+                                        alt="Government" />
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<h6 className="section-subtitle">
+                                   <h6 className="section-subtitle">
 
-GOVERNMENT & PUBLIC SECTOR
+                                        GOVERNMENT & PUBLIC SECTOR
 
-</h6>
+                                   </h6>
 
-<h2>
+                                   <h2>
 
-Supporting National Digital Transformation
+                                        Supporting National Digital Transformation
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Government organizations require secure, scalable, and
-highly reliable digital infrastructure capable of supporting
-essential public services and strategic national initiatives.
+                                        Government organizations require secure, scalable, and
+                                        highly reliable digital infrastructure capable of supporting
+                                        essential public services and strategic national initiatives.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Cyber Solutions delivers integrated engineering solutions
-covering secure networking, data centers, cybersecurity,
-smart infrastructure, automation, and centralized management
-platforms to help public sector organizations accelerate
-digital transformation.
+                                        Cyber Solutions delivers integrated engineering solutions
+                                        covering secure networking, data centers, cybersecurity,
+                                        smart infrastructure, automation, and centralized management
+                                        platforms to help public sector organizations accelerate
+                                        digital transformation.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Our solutions are designed to enhance operational efficiency,
-service quality, resilience, and long-term sustainability in
-support of Saudi Vision 2030.
+                                        Our solutions are designed to enhance operational efficiency,
+                                        service quality, resilience, and long-term sustainability in
+                                        support of Saudi Vision 2030.
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
@@ -1571,463 +1571,463 @@ support of Saudi Vision 2030.
 
 
 
-<section className="bg-navy py-20">
+               <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4 order-lg-2">
+                              <div className="w-full lg:w-1/2 px-4 order-lg-2">
 
-<img src="/images/industries/healthcare.jpg"
-     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
-     alt="Healthcare" />
+                                   <img src="/images/industries/healthcare.webp"
+                                        className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
+                                        alt="Healthcare" />
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/2 px-4 order-lg-1">
+                              <div className="w-full lg:w-1/2 px-4 order-lg-1">
 
-<h6 className="section-subtitle">
+                                   <h6 className="section-subtitle">
 
-HEALTHCARE
+                                        HEALTHCARE
 
-</h6>
+                                   </h6>
 
-<h2>
+                                   <h2>
 
-Reliable Digital Infrastructure for Healthcare Facilities
+                                        Reliable Digital Infrastructure for Healthcare Facilities
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Modern healthcare facilities depend on secure digital
-infrastructure, resilient communications, intelligent building
-systems, and uninterrupted operational availability.
+                                        Modern healthcare facilities depend on secure digital
+                                        infrastructure, resilient communications, intelligent building
+                                        systems, and uninterrupted operational availability.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Cyber Solutions provides enterprise networking,
-data center infrastructure,
-structured cabling,
-building automation,
-cybersecurity,
-backup systems,
-and environmental monitoring solutions that support hospitals,
-medical campuses,
-laboratories,
-and healthcare organizations.
+                                        Cyber Solutions provides enterprise networking,
+                                        data center infrastructure,
+                                        structured cabling,
+                                        building automation,
+                                        cybersecurity,
+                                        backup systems,
+                                        and environmental monitoring solutions that support hospitals,
+                                        medical campuses,
+                                        laboratories,
+                                        and healthcare organizations.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Our engineering approach helps healthcare providers improve
-system availability,
-protect critical information,
-enhance operational efficiency,
-and build future-ready medical facilities.
+                                        Our engineering approach helps healthcare providers improve
+                                        system availability,
+                                        protect critical information,
+                                        enhance operational efficiency,
+                                        and build future-ready medical facilities.
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+               <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+                         <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+                              <h6 className="section-subtitle">
 
-WHY INDUSTRIES CHOOSE CYBER SOLUTIONS
+                                   WHY INDUSTRIES CHOOSE CYBER SOLUTIONS
 
-</h6>
+                              </h6>
 
-<h2>
+                              <h2>
 
-Engineering Excellence Across Every Sector
+                                   Engineering Excellence Across Every Sector
 
-</h2>
+                              </h2>
 
-<p>
+                              <p>
 
-Every industry presents unique operational challenges.
-Our multidisciplinary engineering teams deliver integrated
-solutions tailored to each customer's operational,
-technical,
-and business objectives.
+                                   Every industry presents unique operational challenges.
+                                   Our multidisciplinary engineering teams deliver integrated
+                                   solutions tailored to each customer's operational,
+                                   technical,
+                                   and business objectives.
 
-</p>
+                              </p>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+                         <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-award"></i>
+                                        <i className="fas fa-award"></i>
 
-<h4>
+                                        <h4>
 
-Engineering Expertise
+                                             Engineering Expertise
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Extensive experience across automation,
-instrumentation,
-industrial networking,
-cybersecurity,
-and digital infrastructure.
+                                             Extensive experience across automation,
+                                             instrumentation,
+                                             industrial networking,
+                                             cybersecurity,
+                                             and digital infrastructure.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-layer-group"></i>
+                                        <i className="fas fa-layer-group"></i>
 
-<h4>
+                                        <h4>
 
-Integrated Solutions
+                                             Integrated Solutions
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-One engineering partner delivering IT,
-OT,
-automation,
-networking,
-cybersecurity,
-and smart infrastructure.
+                                             One engineering partner delivering IT,
+                                             OT,
+                                             automation,
+                                             networking,
+                                             cybersecurity,
+                                             and smart infrastructure.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-handshake"></i>
+                                        <i className="fas fa-handshake"></i>
 
-<h4>
+                                        <h4>
 
-Long-Term Partnership
+                                             Long-Term Partnership
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Lifecycle support,
-continuous improvement,
-modernization,
-training,
-and technical consulting.
+                                             Lifecycle support,
+                                             continuous improvement,
+                                             modernization,
+                                             training,
+                                             and technical consulting.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-navy py-20">
+               <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+                         <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+                              <h6 className="section-subtitle">
 
-OUR ENGINEERING APPROACH
+                                   OUR ENGINEERING APPROACH
 
-</h6>
+                              </h6>
 
-<h2>
+                              <h2>
 
-Delivering Success Throughout the Project Lifecycle
+                                   Delivering Success Throughout the Project Lifecycle
 
-</h2>
+                              </h2>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+                         <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-comments"></i>
+                                        <i className="fas fa-comments"></i>
 
-<h4>
+                                        <h4>
 
-Consult
+                                             Consult
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Business requirements,
-operational assessments,
-technology strategy,
-and engineering planning.
+                                             Business requirements,
+                                             operational assessments,
+                                             technology strategy,
+                                             and engineering planning.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-compass-drafting"></i>
+                                        <i className="fas fa-compass-drafting"></i>
 
-<h4>
+                                        <h4>
 
-Design
+                                             Design
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Architecture development,
-detailed engineering,
-system integration,
-and documentation.
+                                             Architecture development,
+                                             detailed engineering,
+                                             system integration,
+                                             and documentation.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-gears"></i>
+                                        <i className="fas fa-gears"></i>
 
-<h4>
+                                        <h4>
 
-Implement
+                                             Implement
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Installation,
-configuration,
-testing,
-commissioning,
-and performance optimization.
+                                             Installation,
+                                             configuration,
+                                             testing,
+                                             commissioning,
+                                             and performance optimization.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-headset"></i>
+                                        <i className="fas fa-headset"></i>
 
-<h4>
+                                        <h4>
 
-Support
+                                             Support
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Lifecycle maintenance,
-technical support,
-training,
-modernization,
-and continuous improvement.
+                                             Lifecycle maintenance,
+                                             technical support,
+                                             training,
+                                             modernization,
+                                             and continuous improvement.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="statistics">
+               <section className="statistics">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 text-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 text-center">
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<h2 className="counter"
-    data-target="12">
+                                   <h2 className="counter"
+                                        data-target="12">
 
-0
+                                        0
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Industries Served
+                                        Industries Served
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<h2 className="counter"
-    data-target="100">
+                                   <h2 className="counter"
+                                        data-target="100">
 
-0
+                                        0
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Projects Delivered
+                                        Projects Delivered
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<h2 className="counter"
-    data-target="25">
+                                   <h2 className="counter"
+                                        data-target="25">
 
-0
+                                        0
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Years Experience
+                                        Years Experience
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<h2 className="counter"
-    data-target="99">
+                                   <h2 className="counter"
+                                        data-target="99">
 
-0
+                                        0
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Client Satisfaction %
+                                        Client Satisfaction %
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="contact-section">
+               <section className="contact-section">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-2/3 px-8">
+                              <div className="w-full lg:w-2/3 px-8">
 
-<h2>
+                                   <h2>
 
-Let's Build the Future Together
+                                        Let's Build the Future Together
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Whether you operate an industrial plant,
-utility,
-government organization,
-commercial facility,
-or smart infrastructure project,
-Cyber Solutions is ready to deliver secure,
-reliable,
-and innovative engineering solutions tailored to your industry.
+                                        Whether you operate an industrial plant,
+                                        utility,
+                                        government organization,
+                                        commercial facility,
+                                        or smart infrastructure project,
+                                        Cyber Solutions is ready to deliver secure,
+                                        reliable,
+                                        and innovative engineering solutions tailored to your industry.
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/3 px-8 text-lg-end">
+                              <div className="w-full lg:w-1/3 px-8 text-lg-end">
 
-<a href="/contact"
-   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow text-lg px-8 py-4">
+                                   <a href="/contact"
+                                        className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow text-lg px-8 py-4">
 
-Talk to Our Engineers
+                                        Talk to Our Engineers
 
-</a>
+                                   </a>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
@@ -2048,6 +2048,6 @@ Talk to Our Engineers
 
 
 
-    </GSAPWrapper>
-  );
+          </GSAPWrapper>
+     );
 }

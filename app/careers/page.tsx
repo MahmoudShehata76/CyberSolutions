@@ -25,1943 +25,1943 @@ export default function Careers() {
 
 
 
-<header className="pt-40 pb-28 relative overflow-hidden">
+      <header className="pt-40 pb-28 relative overflow-hidden">
 
-<div className="container mx-auto px-8">
+        <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+          <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-7/12 px-8">
+            <div className="w-full lg:w-7/12 px-8">
 
-<h6 className="text-secondary font-bold tracking-widest mb-5">
+              <h6 className="text-secondary font-bold tracking-widest mb-5">
 
-CAREERS
+                CAREERS
 
-</h6>
+              </h6>
 
-<h1>
+              <h1>
 
-Shape the Future of Engineering
+                Shape the Future of Engineering
 
-</h1>
+              </h1>
 
-<p>
+              <p>
 
-Join Cyber Solutions and become part of a multidisciplinary
-team delivering Industrial Automation,
-OT Cybersecurity,
-Industrial Networking,
-Data Centers,
-Smart Infrastructure,
-Instrumentation,
-and Digital Transformation projects that support the Kingdom's
-future.
+                Join Cyber Solutions and become part of a multidisciplinary
+                team delivering Industrial Automation,
+                OT Cybersecurity,
+                Industrial Networking,
+                Data Centers,
+                Smart Infrastructure,
+                Instrumentation,
+                and Digital Transformation projects that support the Kingdom's
+                future.
 
-</p>
+              </p>
 
-<p>
+              <p>
 
-We believe our people are our greatest strength.
-We invest in talent,
-innovation,
-continuous learning,
-and professional growth to build engineering leaders.
+                We believe our people are our greatest strength.
+                We invest in talent,
+                innovation,
+                continuous learning,
+                and professional growth to build engineering leaders.
 
-</p>
+              </p>
 
-<a href="#vacancies"
-className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow text-lg px-8 py-4 mt-8">
+              <a href="#vacancies"
+                className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow text-lg px-8 py-4 mt-8">
 
-View Opportunities
+                View Opportunities
 
-</a>
+              </a>
 
-</div>
+            </div>
 
-<div className="w-full lg:w-5/12 px-8 text-center">
+            <div className="w-full lg:w-5/12 px-8 text-center">
 
-<img src="/images/careers/careers-hero.jpg"
-className="hero-image"
-alt="Engineering Careers" />
+              <img src="/images/careers/careers-hero.webp"
+                className="hero-image"
+                alt="Engineering Careers" />
 
-</div>
+            </div>
 
-</div>
+          </div>
 
-</div>
+        </div>
 
-</header>
+      </header>
 
 
 
 
 
-<section className="bg-navy py-20">
+      <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+        <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+          <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+            <h6 className="section-subtitle">
 
-WHY CYBER SOLUTIONS
+              WHY CYBER SOLUTIONS
 
-</h6>
+            </h6>
 
-<h2>
+            <h2>
 
-Build a Career That Makes an Impact
+              Build a Career That Makes an Impact
 
-</h2>
+            </h2>
 
-<p>
+            <p>
 
-Our engineers help design and implement technologies that
-improve critical infrastructure,
-industrial productivity,
-cyber resilience,
-and digital transformation throughout Saudi Arabia.
+              Our engineers help design and implement technologies that
+              improve critical infrastructure,
+              industrial productivity,
+              cyber resilience,
+              and digital transformation throughout Saudi Arabia.
 
-</p>
+            </p>
 
-</div>
+          </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+          <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-lightbulb"></i>
+                <i className="fas fa-lightbulb"></i>
 
-<h4>
+                <h4>
 
-Innovation
+                  Innovation
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Work with emerging technologies including AI,
-Industrial IoT,
-Digital Twins,
-automation,
-and OT cybersecurity.
+                  Work with emerging technologies including AI,
+                  Industrial IoT,
+                  Digital Twins,
+                  automation,
+                  and OT cybersecurity.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-graduation-cap"></i>
+                <i className="fas fa-graduation-cap"></i>
 
-<h4>
+                <h4>
 
-Learning
+                  Learning
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Professional certifications,
-technical workshops,
-vendor training,
-and continuous engineering development.
+                  Professional certifications,
+                  technical workshops,
+                  vendor training,
+                  and continuous engineering development.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-users"></i>
+                <i className="fas fa-users"></i>
 
-<h4>
+                <h4>
 
-Collaboration
+                  Collaboration
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Join multidisciplinary teams solving complex engineering
-challenges for leading organizations.
+                  Join multidisciplinary teams solving complex engineering
+                  challenges for leading organizations.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-chart-line"></i>
+                <i className="fas fa-chart-line"></i>
 
-<h4>
+                <h4>
 
-Growth
+                  Growth
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Clear career pathways,
-leadership opportunities,
-and exposure to strategic national projects.
+                  Clear career pathways,
+                  leadership opportunities,
+                  and exposure to strategic national projects.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-</div>
+          </div>
 
-</div>
+        </div>
 
-</section>
+      </section>
 
 
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+      <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+        <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+          <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4">
+            <div className="w-full lg:w-1/2 px-4">
 
-<img src="/images/careers/team-work.jpg"
-className="w-full h-auto object-cover rounded shadow aspect-video"
-alt="Engineering Team" />
+              <img src="/images/careers/team-work.webp"
+                className="w-full h-auto object-cover rounded shadow aspect-video"
+                alt="Engineering Team" />
 
-</div>
+            </div>
 
-<div className="w-full lg:w-1/2 px-4">
+            <div className="w-full lg:w-1/2 px-4">
 
-<h6 className="section-subtitle">
+              <h6 className="section-subtitle">
 
-OUR CULTURE
+                OUR CULTURE
 
-</h6>
+              </h6>
 
-<h2>
+              <h2>
 
-People First.
-Engineering Excellence Always.
+                People First.
+                Engineering Excellence Always.
 
-</h2>
+              </h2>
 
-<p>
+              <p>
 
-We foster an environment built on integrity,
-collaboration,
-technical excellence,
-continuous improvement,
-and customer success.
+                We foster an environment built on integrity,
+                collaboration,
+                technical excellence,
+                continuous improvement,
+                and customer success.
 
-</p>
+              </p>
 
-<p>
+              <p>
 
-Every employee is encouraged to contribute ideas,
-develop innovative solutions,
-share knowledge,
-and pursue lifelong professional growth.
+                Every employee is encouraged to contribute ideas,
+                develop innovative solutions,
+                share knowledge,
+                and pursue lifelong professional growth.
 
-</p>
+              </p>
 
-<p>
+              <p>
 
-Our culture combines entrepreneurial thinking with disciplined
-engineering execution,
-allowing our teams to solve complex technical challenges while
-maintaining the highest quality standards.
+                Our culture combines entrepreneurial thinking with disciplined
+                engineering execution,
+                allowing our teams to solve complex technical challenges while
+                maintaining the highest quality standards.
 
-</p>
+              </p>
 
-</div>
+            </div>
 
-</div>
+          </div>
 
-</div>
+        </div>
 
-</section>
+      </section>
 
 
 
 
 
-<section className="bg-navy py-20">
+      <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+        <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+          <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+            <h6 className="section-subtitle">
 
-EARLY CAREERS
+              EARLY CAREERS
 
-</h6>
+            </h6>
 
-<h2>
+            <h2>
 
-Graduate & Internship Programs
+              Graduate & Internship Programs
 
-</h2>
+            </h2>
 
-</div>
+          </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+          <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full lg:w-1/2 px-4">
+            <div className="w-full lg:w-1/2 px-4">
 
-<div className="project-card">
+              <div className="project-card">
 
-<img src="/images/careers/graduate-engineer.jpg"
-className="max-w-full h-auto"
-alt="Graduates" />
+                <img src="/images/careers/graduate-engineer.webp"
+                  className="max-w-full h-auto"
+                  alt="Graduates" />
 
-<div className="project-content">
+                <div className="project-content">
 
-<h3>
+                  <h3>
 
-Graduate Engineers
+                    Graduate Engineers
 
-</h3>
+                  </h3>
 
-<p>
+                  <p>
 
-Start your engineering career working alongside experienced
-professionals in automation,
-instrumentation,
-networking,
-cybersecurity,
-and smart infrastructure projects.
+                    Start your engineering career working alongside experienced
+                    professionals in automation,
+                    instrumentation,
+                    networking,
+                    cybersecurity,
+                    and smart infrastructure projects.
 
-</p>
+                  </p>
 
-<ul>
+                  <ul>
 
-<li>Structured onboarding</li>
+                    <li>Structured onboarding</li>
 
-<li>Mentoring program</li>
+                    <li>Mentoring program</li>
 
-<li>Vendor certifications</li>
+                    <li>Vendor certifications</li>
 
-<li>Hands-on project experience</li>
+                    <li>Hands-on project experience</li>
 
-</ul>
+                  </ul>
 
-</div>
+                </div>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full lg:w-1/2 px-4">
+            <div className="w-full lg:w-1/2 px-4">
 
-<div className="project-card">
+              <div className="project-card">
 
-<img src="/images/careers/young-engineers.jpg"
-className="max-w-full h-auto"
-alt="Internship" />
+                <img src="/images/careers/young-engineers.webp"
+                  className="max-w-full h-auto"
+                  alt="Internship" />
 
-<div className="project-content">
+                <div className="project-content">
 
-<h3>
+                  <h3>
 
-Internships
+                    Internships
 
-</h3>
+                  </h3>
 
-<p>
+                  <p>
 
-Gain practical engineering experience through structured
-internship opportunities supporting real customer projects.
+                    Gain practical engineering experience through structured
+                    internship opportunities supporting real customer projects.
 
-</p>
+                  </p>
 
-<ul>
+                  <ul>
 
-<li>Engineering exposure</li>
+                    <li>Engineering exposure</li>
 
-<li>Field experience</li>
+                    <li>Field experience</li>
 
-<li>Technical workshops</li>
+                    <li>Technical workshops</li>
 
-<li>Career mentoring</li>
+                    <li>Career mentoring</li>
 
-</ul>
+                  </ul>
 
-</div>
+                </div>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-</div>
+          </div>
 
-</div>
+        </div>
 
-</section>
+      </section>
 
 
 
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+      <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+        <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+          <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+            <h6 className="section-subtitle">
 
-EXPERIENCED PROFESSIONALS
+              EXPERIENCED PROFESSIONALS
 
-</h6>
+            </h6>
 
-<h2>
+            <h2>
 
-Advance Your Engineering Career
+              Advance Your Engineering Career
 
-</h2>
+            </h2>
 
-<p>
+            <p>
 
-Cyber Solutions welcomes experienced engineers,
-consultants,
-project managers,
-and technology specialists who are passionate about delivering
-world-class engineering solutions across critical industries.
+              Cyber Solutions welcomes experienced engineers,
+              consultants,
+              project managers,
+              and technology specialists who are passionate about delivering
+              world-class engineering solutions across critical industries.
 
-</p>
+            </p>
 
-</div>
+          </div>
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+          <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4">
+            <div className="w-full lg:w-1/2 px-4">
 
-<img src="/images/careers/company-culture.jpg"
-     className="w-full h-auto object-cover rounded shadow aspect-video"
-     alt="Experienced Engineers" />
+              <img src="/images/careers/company-culture.webp"
+                className="w-full h-auto object-cover rounded shadow aspect-video"
+                alt="Experienced Engineers" />
 
-</div>
+            </div>
 
-<div className="w-full lg:w-1/2 px-4">
+            <div className="w-full lg:w-1/2 px-4">
 
-<h3>
+              <h3>
 
-Lead Complex Engineering Projects
+                Lead Complex Engineering Projects
 
-</h3>
+              </h3>
 
-<p>
+              <p>
 
-Work on high-value projects involving Industrial Automation,
-OT Cybersecurity,
-Industrial Networking,
-Instrumentation,
-Smart Infrastructure,
-Enterprise IT,
-Data Centers,
-and Digital Transformation initiatives.
+                Work on high-value projects involving Industrial Automation,
+                OT Cybersecurity,
+                Industrial Networking,
+                Instrumentation,
+                Smart Infrastructure,
+                Enterprise IT,
+                Data Centers,
+                and Digital Transformation initiatives.
 
-</p>
+              </p>
 
-<p>
+              <p>
 
-Our senior professionals contribute to solution architecture,
-engineering design,
-technical leadership,
-customer engagement,
-and strategic innovation.
+                Our senior professionals contribute to solution architecture,
+                engineering design,
+                technical leadership,
+                customer engagement,
+                and strategic innovation.
 
-</p>
+              </p>
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-8">
+              <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-8">
 
-<div className="w-full md:w-1/2 px-4">
+                <div className="w-full md:w-1/2 px-4">
 
-<ul>
+                  <ul>
 
-<li>Project Leadership</li>
+                    <li>Project Leadership</li>
 
-<li>Solution Architecture</li>
+                    <li>Solution Architecture</li>
 
-<li>Customer Consulting</li>
+                    <li>Customer Consulting</li>
 
-<li>Technical Mentoring</li>
+                    <li>Technical Mentoring</li>
 
-</ul>
+                  </ul>
 
-</div>
+                </div>
 
-<div className="w-full md:w-1/2 px-4">
+                <div className="w-full md:w-1/2 px-4">
 
-<ul>
+                  <ul>
 
-<li>Innovation Programs</li>
+                    <li>Innovation Programs</li>
 
-<li>R&D Initiatives</li>
+                    <li>R&D Initiatives</li>
 
-<li>Vendor Collaboration</li>
+                    <li>Vendor Collaboration</li>
 
-<li>Strategic Projects</li>
+                    <li>Strategic Projects</li>
 
-</ul>
+                  </ul>
 
-</div>
+                </div>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-</div>
+          </div>
 
-</div>
+        </div>
 
-</section>
+      </section>
 
 
 
 
 
-<section className="bg-navy py-20">
+      <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+        <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+          <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+            <h6 className="section-subtitle">
 
-EMPLOYEE BENEFITS
+              EMPLOYEE BENEFITS
 
-</h6>
+            </h6>
 
-<h2>
+            <h2>
 
-Supporting Your Professional Journey
+              Supporting Your Professional Journey
 
-</h2>
+            </h2>
 
-</div>
+          </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+          <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-award"></i>
+                <i className="fas fa-award"></i>
 
-<h4>
+                <h4>
 
-Professional Development
+                  Professional Development
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Continuous technical training,
-international certifications,
-leadership programs,
-and vendor-sponsored education.
+                  Continuous technical training,
+                  international certifications,
+                  leadership programs,
+                  and vendor-sponsored education.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-user-graduate"></i>
+                <i className="fas fa-user-graduate"></i>
 
-<h4>
+                <h4>
 
-Career Growth
+                  Career Growth
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Structured career progression,
-technical specialization,
-project leadership,
-and management opportunities.
+                  Structured career progression,
+                  technical specialization,
+                  project leadership,
+                  and management opportunities.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-globe"></i>
+                <i className="fas fa-globe"></i>
 
-<h4>
+                <h4>
 
-Innovative Projects
+                  Innovative Projects
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Work on automation,
-smart infrastructure,
-digital transformation,
-and industrial cybersecurity initiatives.
+                  Work on automation,
+                  smart infrastructure,
+                  digital transformation,
+                  and industrial cybersecurity initiatives.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-heart"></i>
+                <i className="fas fa-heart"></i>
 
-<h4>
+                <h4>
 
-Employee Wellbeing
+                  Employee Wellbeing
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Supportive work environment,
-employee engagement initiatives,
-health-focused programs,
-and work-life balance.
+                  Supportive work environment,
+                  employee engagement initiatives,
+                  health-focused programs,
+                  and work-life balance.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-users-gear"></i>
+                <i className="fas fa-users-gear"></i>
 
-<h4>
+                <h4>
 
-Collaborative Teams
+                  Collaborative Teams
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Cross-functional engineering teams sharing expertise,
-knowledge,
-and innovation across every project.
+                  Cross-functional engineering teams sharing expertise,
+                  knowledge,
+                  and innovation across every project.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-lightbulb"></i>
+                <i className="fas fa-lightbulb"></i>
 
-<h4>
+                <h4>
 
-Innovation Culture
+                  Innovation Culture
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Encouraging creativity,
-continuous improvement,
-research,
-and engineering excellence.
+                  Encouraging creativity,
+                  continuous improvement,
+                  research,
+                  and engineering excellence.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-</div>
+          </div>
 
-</div>
+        </div>
 
-</section>
+      </section>
 
 
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+      <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+        <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+          <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4">
+            <div className="w-full lg:w-1/2 px-4">
 
-<img src="/images/careers/training-session.jpg"
-     className="w-full h-auto object-cover rounded shadow aspect-video"
-     alt="Training" />
+              <img src="/images/careers/training-session.webp"
+                className="w-full h-auto object-cover rounded shadow aspect-video"
+                alt="Training" />
 
-</div>
+            </div>
 
-<div className="w-full lg:w-1/2 px-4">
+            <div className="w-full lg:w-1/2 px-4">
 
-<h6 className="section-subtitle">
+              <h6 className="section-subtitle">
 
-LEARNING & DEVELOPMENT
+                LEARNING & DEVELOPMENT
 
-</h6>
+              </h6>
 
-<h2>
+              <h2>
 
-Continuous Learning Never Stops
+                Continuous Learning Never Stops
 
-</h2>
+              </h2>
 
-<p>
+              <p>
 
-Technology evolves rapidly,
-and so do we.
-Cyber Solutions invests in continuous professional development
-to ensure our engineers remain at the forefront of industrial
-innovation.
+                Technology evolves rapidly,
+                and so do we.
+                Cyber Solutions invests in continuous professional development
+                to ensure our engineers remain at the forefront of industrial
+                innovation.
 
-</p>
+              </p>
 
-<p>
+              <p>
 
-Employees are encouraged to pursue globally recognized
-certifications,
-participate in technical workshops,
-attend industry conferences,
-and collaborate with leading technology partners.
+                Employees are encouraged to pursue globally recognized
+                certifications,
+                participate in technical workshops,
+                attend industry conferences,
+                and collaborate with leading technology partners.
 
-</p>
+              </p>
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-8">
+              <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-8">
 
-<div className="w-full md:w-1/2 px-4">
+                <div className="w-full md:w-1/2 px-4">
 
-<ul>
+                  <ul>
 
-<li>PMP</li>
+                    <li>PMP</li>
 
-<li>IEC 62443</li>
+                    <li>IEC 62443</li>
 
-<li>Cisco</li>
+                    <li>Cisco</li>
 
-<li>Microsoft</li>
+                    <li>Microsoft</li>
 
-</ul>
+                  </ul>
 
-</div>
+                </div>
 
-<div className="w-full md:w-1/2 px-4">
+                <div className="w-full md:w-1/2 px-4">
 
-<ul>
+                  <ul>
 
-<li>Schneider Electric</li>
+                    <li>Schneider Electric</li>
 
-<li>Siemens</li>
+                    <li>Siemens</li>
 
-<li>ABB</li>
+                    <li>ABB</li>
 
-<li>Honeywell</li>
+                    <li>Honeywell</li>
 
-</ul>
+                  </ul>
 
-</div>
+                </div>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-</div>
+          </div>
 
-</div>
+        </div>
 
-</section>
+      </section>
 
 
 
 
 
-<section className="bg-navy py-20">
+      <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+        <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+          <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+            <h6 className="section-subtitle">
 
-CAREER PATHS
+              CAREER PATHS
 
-</h6>
+            </h6>
 
-<h2>
+            <h2>
 
-Engineering Disciplines
+              Engineering Disciplines
 
-</h2>
+            </h2>
 
-</div>
+          </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+          <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-microchip"></i>
+                <i className="fas fa-microchip"></i>
 
-<h4>
+                <h4>
 
-Automation
+                  Automation
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-PLC,
-SCADA,
-DCS,
-Advanced Process Control,
-Industrial Automation.
+                  PLC,
+                  SCADA,
+                  DCS,
+                  Advanced Process Control,
+                  Industrial Automation.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-network-wired"></i>
+                <i className="fas fa-network-wired"></i>
 
-<h4>
+                <h4>
 
-Networking
+                  Networking
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Industrial Ethernet,
-Enterprise Networks,
-Fiber,
-Wireless,
-Network Security.
+                  Industrial Ethernet,
+                  Enterprise Networks,
+                  Fiber,
+                  Wireless,
+                  Network Security.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-shield-halved"></i>
+                <i className="fas fa-shield-halved"></i>
 
-<h4>
+                <h4>
 
-Cybersecurity
+                  Cybersecurity
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Operational Technology,
-Risk Assessment,
-Firewalls,
-Industrial Security.
+                  Operational Technology,
+                  Risk Assessment,
+                  Firewalls,
+                  Industrial Security.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-server"></i>
+                <i className="fas fa-server"></i>
 
-<h4>
+                <h4>
 
-Infrastructure
+                  Infrastructure
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Servers,
-Storage,
-Virtualization,
-Cloud,
-Data Centers.
+                  Servers,
+                  Storage,
+                  Virtualization,
+                  Cloud,
+                  Data Centers.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-</div>
+          </div>
 
-</div>
+        </div>
 
-</section>
+      </section>
 
 
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+      <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+        <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+          <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+            <h6 className="section-subtitle">
 
-OUR PEOPLE
+              OUR PEOPLE
 
-</h6>
+            </h6>
 
-<h2>
+            <h2>
 
-What Our Team Says
+              What Our Team Says
 
-</h2>
+            </h2>
 
-</div>
+          </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+          <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="testimonial-card">
+              <div className="testimonial-card">
 
-<p>
+                <p>
 
-"The diversity of engineering projects and the opportunity to
-work with cutting-edge technologies have accelerated my
-professional growth."
+                  "The diversity of engineering projects and the opportunity to
+                  work with cutting-edge technologies have accelerated my
+                  professional growth."
 
-</p>
+                </p>
 
-<hr />
+                <hr />
 
-<h5>
+                <h5>
 
-Senior Automation Engineer
+                  Senior Automation Engineer
 
-</h5>
+                </h5>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="testimonial-card">
+              <div className="testimonial-card">
 
-<p>
+                <p>
 
-"Cyber Solutions encourages continuous learning and gives us
-the freedom to innovate while maintaining world-class
-engineering standards."
+                  "Cyber Solutions encourages continuous learning and gives us
+                  the freedom to innovate while maintaining world-class
+                  engineering standards."
 
-</p>
+                </p>
 
-<hr />
+                <hr />
 
-<h5>
+                <h5>
 
-Cybersecurity Consultant
+                  Cybersecurity Consultant
 
-</h5>
+                </h5>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="testimonial-card">
+              <div className="testimonial-card">
 
-<p>
+                <p>
 
-"The collaborative environment and exposure to strategic
-projects make every day an opportunity to learn something
-new."
+                  "The collaborative environment and exposure to strategic
+                  projects make every day an opportunity to learn something
+                  new."
 
-</p>
+                </p>
 
-<hr />
+                <hr />
 
-<h5>
+                <h5>
 
-Project Engineer
+                  Project Engineer
 
-</h5>
+                </h5>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-</div>
+          </div>
 
-</div>
+        </div>
 
-</section>
+      </section>
 
 
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+      <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+        <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+          <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+            <h6 className="section-subtitle">
 
-EXPERIENCED PROFESSIONALS
+              EXPERIENCED PROFESSIONALS
 
-</h6>
+            </h6>
 
-<h2>
+            <h2>
 
-Advance Your Engineering Career
+              Advance Your Engineering Career
 
-</h2>
+            </h2>
 
-<p>
+            <p>
 
-Cyber Solutions welcomes experienced engineers,
-consultants,
-project managers,
-automation specialists,
-cybersecurity professionals,
-network engineers,
-and technology experts who are passionate about delivering
-high-quality engineering solutions across Saudi Arabia.
+              Cyber Solutions welcomes experienced engineers,
+              consultants,
+              project managers,
+              automation specialists,
+              cybersecurity professionals,
+              network engineers,
+              and technology experts who are passionate about delivering
+              high-quality engineering solutions across Saudi Arabia.
 
-</p>
+            </p>
 
-</div>
+          </div>
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+          <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4">
+            <div className="w-full lg:w-1/2 px-4">
 
-<img src="/images/careers/company-culture.jpg"
-className="w-full h-auto object-cover rounded shadow aspect-video"
-alt="Experienced Engineers" />
+              <img src="/images/careers/company-culture.webp"
+                className="w-full h-auto object-cover rounded shadow aspect-video"
+                alt="Experienced Engineers" />
 
-</div>
+            </div>
 
-<div className="w-full lg:w-1/2 px-4">
+            <div className="w-full lg:w-1/2 px-4">
 
-<h3>
+              <h3>
 
-Lead Complex Engineering Projects
+                Lead Complex Engineering Projects
 
-</h3>
+              </h3>
 
-<p>
+              <p>
 
-Our senior professionals participate in solution architecture,
-engineering design,
-customer consulting,
-technical leadership,
-project execution,
-commissioning,
-and long-term customer support.
+                Our senior professionals participate in solution architecture,
+                engineering design,
+                customer consulting,
+                technical leadership,
+                project execution,
+                commissioning,
+                and long-term customer support.
 
-</p>
+              </p>
 
-<p>
+              <p>
 
-Working at Cyber Solutions means contributing to industrial
-automation,
-OT cybersecurity,
-data centers,
-industrial networking,
-smart infrastructure,
-instrumentation,
-and digital transformation projects that directly support
-Saudi Vision 2030.
+                Working at Cyber Solutions means contributing to industrial
+                automation,
+                OT cybersecurity,
+                data centers,
+                industrial networking,
+                smart infrastructure,
+                instrumentation,
+                and digital transformation projects that directly support
+                Saudi Vision 2030.
 
-</p>
+              </p>
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-8">
+              <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 mt-8">
 
-<div className="w-full md:w-1/2 px-4">
+                <div className="w-full md:w-1/2 px-4">
 
-<ul>
+                  <ul>
 
-<li>Solution Architecture</li>
+                    <li>Solution Architecture</li>
 
-<li>Technical Leadership</li>
+                    <li>Technical Leadership</li>
 
-<li>Project Management</li>
+                    <li>Project Management</li>
 
-<li>Customer Consulting</li>
+                    <li>Customer Consulting</li>
 
-</ul>
+                  </ul>
 
-</div>
+                </div>
 
-<div className="w-full md:w-1/2 px-4">
+                <div className="w-full md:w-1/2 px-4">
 
-<ul>
+                  <ul>
 
-<li>Innovation Programs</li>
+                    <li>Innovation Programs</li>
 
-<li>R&D Activities</li>
+                    <li>R&D Activities</li>
 
-<li>Vendor Collaboration</li>
+                    <li>Vendor Collaboration</li>
 
-<li>Engineering Excellence</li>
+                    <li>Engineering Excellence</li>
 
-</ul>
+                  </ul>
 
-</div>
+                </div>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-</div>
+          </div>
 
-</div>
+        </div>
 
-</section>
+      </section>
 
 
 
 
 
-<section className="bg-navy py-20">
+      <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+        <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+          <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+            <h6 className="section-subtitle">
 
-EMPLOYEE BENEFITS
+              EMPLOYEE BENEFITS
 
-</h6>
+            </h6>
 
-<h2>
+            <h2>
 
-Supporting Your Professional Journey
+              Supporting Your Professional Journey
 
-</h2>
+            </h2>
 
-</div>
+          </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+          <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-user-graduate"></i>
+                <i className="fas fa-user-graduate"></i>
 
-<h4>
+                <h4>
 
-Continuous Learning
+                  Continuous Learning
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Technical workshops,
-professional certifications,
-vendor training,
-engineering seminars,
-and continuous development programs.
+                  Technical workshops,
+                  professional certifications,
+                  vendor training,
+                  engineering seminars,
+                  and continuous development programs.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-award"></i>
+                <i className="fas fa-award"></i>
 
-<h4>
+                <h4>
 
-Career Development
+                  Career Development
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Clear career progression,
-leadership opportunities,
-technical specialization,
-and professional mentoring.
+                  Clear career progression,
+                  leadership opportunities,
+                  technical specialization,
+                  and professional mentoring.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-lightbulb"></i>
+                <i className="fas fa-lightbulb"></i>
 
-<h4>
+                <h4>
 
-Innovation Culture
+                  Innovation Culture
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-An engineering environment that encourages creativity,
-continuous improvement,
-knowledge sharing,
-and innovative thinking.
+                  An engineering environment that encourages creativity,
+                  continuous improvement,
+                  knowledge sharing,
+                  and innovative thinking.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-users"></i>
+                <i className="fas fa-users"></i>
 
-<h4>
+                <h4>
 
-Collaborative Teams
+                  Collaborative Teams
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Work alongside multidisciplinary engineering teams delivering
-complex industrial technology projects.
+                  Work alongside multidisciplinary engineering teams delivering
+                  complex industrial technology projects.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-globe"></i>
+                <i className="fas fa-globe"></i>
 
-<h4>
+                <h4>
 
-National Projects
+                  National Projects
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Contribute to strategic initiatives supporting Saudi Arabia's
-industrial modernization and digital transformation.
+                  Contribute to strategic initiatives supporting Saudi Arabia's
+                  industrial modernization and digital transformation.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-handshake"></i>
+                <i className="fas fa-handshake"></i>
 
-<h4>
+                <h4>
 
-Supportive Environment
+                  Supportive Environment
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Integrity,
-respect,
-collaboration,
-and employee wellbeing are at the heart of our culture.
+                  Integrity,
+                  respect,
+                  collaboration,
+                  and employee wellbeing are at the heart of our culture.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-</div>
+          </div>
 
-</div>
+        </div>
 
-</section>
+      </section>
 
 
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+      <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+        <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+          <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4">
+            <div className="w-full lg:w-1/2 px-4">
 
-<img src="/images/careers/training-session.jpg"
-className="w-full h-auto object-cover rounded shadow aspect-video"
-alt="Training" />
+              <img src="/images/careers/training-session.webp"
+                className="w-full h-auto object-cover rounded shadow aspect-video"
+                alt="Training" />
 
-</div>
+            </div>
 
-<div className="w-full lg:w-1/2 px-4">
+            <div className="w-full lg:w-1/2 px-4">
 
-<h6 className="section-subtitle">
+              <h6 className="section-subtitle">
 
-LEARNING & DEVELOPMENT
+                LEARNING & DEVELOPMENT
 
-</h6>
+              </h6>
 
-<h2>
+              <h2>
 
-Investing in Engineering Excellence
+                Investing in Engineering Excellence
 
-</h2>
+              </h2>
 
-<p>
+              <p>
 
-Technology evolves rapidly,
-and so do our engineers.
+                Technology evolves rapidly,
+                and so do our engineers.
 
-</p>
+              </p>
 
-<p>
+              <p>
 
-Cyber Solutions encourages every employee to pursue
-professional certifications,
-vendor qualifications,
-technical training,
-industry conferences,
-and continuous learning opportunities that strengthen both
-technical expertise and leadership capabilities.
+                Cyber Solutions encourages every employee to pursue
+                professional certifications,
+                vendor qualifications,
+                technical training,
+                industry conferences,
+                and continuous learning opportunities that strengthen both
+                technical expertise and leadership capabilities.
 
-</p>
+              </p>
 
-<p>
+              <p>
 
-We believe investing in people is essential to delivering
-world-class engineering services.
+                We believe investing in people is essential to delivering
+                world-class engineering services.
 
-</p>
+              </p>
 
-</div>
+            </div>
 
-</div>
+          </div>
 
-</div>
+        </div>
 
-</section>
+      </section>
 
 
 
 
 
-<section id="vacancies" className="bg-navy py-20">
+      <section id="vacancies" className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+        <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+          <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+            <h6 className="section-subtitle">
 
-CURRENT OPPORTUNITIES
+              CURRENT OPPORTUNITIES
 
-</h6>
+            </h6>
 
-<h2>
+            <h2>
 
-Join Our Growing Team
+              Join Our Growing Team
 
-</h2>
+            </h2>
 
-<p>
+            <p>
 
-We are continuously looking for talented professionals who
-share our passion for innovation,
-engineering excellence,
-and secure digital transformation.
+              We are continuously looking for talented professionals who
+              share our passion for innovation,
+              engineering excellence,
+              and secure digital transformation.
 
-</p>
+            </p>
 
-</div>
+          </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+          <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="project-card">
+              <div className="project-card">
 
-<div className="project-content">
+                <div className="project-content">
 
-<span className="project-tag">
+                  <span className="project-tag">
 
-Engineering
+                    Engineering
 
-</span>
+                  </span>
 
-<h3>
+                  <h3>
 
-Automation Engineer
+                    Automation Engineer
 
-</h3>
+                  </h3>
 
-<p>
+                  <p>
 
-PLC,
-SCADA,
-commissioning,
-control systems,
-and industrial automation projects.
+                    PLC,
+                    SCADA,
+                    commissioning,
+                    control systems,
+                    and industrial automation projects.
 
-</p>
+                  </p>
 
-<a href="/contact"
-className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow btn-sm">
+                  <a href="/contact"
+                    className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow btn-sm">
 
-Apply Now
+                    Apply Now
 
-</a>
+                  </a>
 
-</div>
+                </div>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="project-card">
+              <div className="project-card">
 
-<div className="project-content">
+                <div className="project-content">
 
-<span className="project-tag">
+                  <span className="project-tag">
 
-Cybersecurity
+                    Cybersecurity
 
-</span>
+                  </span>
 
-<h3>
+                  <h3>
 
-OT Cybersecurity Engineer
+                    OT Cybersecurity Engineer
 
-</h3>
+                  </h3>
 
-<p>
+                  <p>
 
-Industrial cybersecurity,
-IEC 62443,
-network security,
-risk assessments,
-and secure architectures.
+                    Industrial cybersecurity,
+                    IEC 62443,
+                    network security,
+                    risk assessments,
+                    and secure architectures.
 
-</p>
+                  </p>
 
-<a href="/contact"
-className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow btn-sm">
+                  <a href="/contact"
+                    className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow btn-sm">
 
-Apply Now
+                    Apply Now
 
-</a>
+                  </a>
 
-</div>
+                </div>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="project-card">
+              <div className="project-card">
 
-<div className="project-content">
+                <div className="project-content">
 
-<span className="project-tag">
+                  <span className="project-tag">
 
-Infrastructure
+                    Infrastructure
 
-</span>
+                  </span>
 
-<h3>
+                  <h3>
 
-Network & Systems Engineer
+                    Network & Systems Engineer
 
-</h3>
+                  </h3>
 
-<p>
+                  <p>
 
-Enterprise networking,
-data centers,
-servers,
-virtualization,
-and infrastructure deployment.
+                    Enterprise networking,
+                    data centers,
+                    servers,
+                    virtualization,
+                    and infrastructure deployment.
 
-</p>
+                  </p>
 
-<a href="/contact"
-className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow btn-sm">
+                  <a href="/contact"
+                    className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow btn-sm">
 
-Apply Now
+                    Apply Now
 
-</a>
+                  </a>
 
-</div>
+                </div>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-</div>
+          </div>
 
-</div>
+        </div>
 
-</section>
+      </section>
 
 
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+      <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+        <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+          <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+            <h6 className="section-subtitle">
 
-OUR HIRING PROCESS
+              OUR HIRING PROCESS
 
-</h6>
+            </h6>
 
-<h2>
+            <h2>
 
-Simple, Transparent, Professional
+              Simple, Transparent, Professional
 
-</h2>
+            </h2>
 
-</div>
+          </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+          <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-file-lines"></i>
+                <i className="fas fa-file-lines"></i>
 
-<h4>
+                <h4>
 
-Apply
+                  Apply
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Submit your application
-and supporting documents.
+                  Submit your application
+                  and supporting documents.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-user-check"></i>
+                <i className="fas fa-user-check"></i>
 
-<h4>
+                <h4>
 
-Review
+                  Review
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Our recruitment team evaluates
-your experience and qualifications.
+                  Our recruitment team evaluates
+                  your experience and qualifications.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-comments"></i>
+                <i className="fas fa-comments"></i>
 
-<h4>
+                <h4>
 
-Interview
+                  Interview
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Meet our engineering leaders
-and discuss your technical expertise.
+                  Meet our engineering leaders
+                  and discuss your technical expertise.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-rocket"></i>
+                <i className="fas fa-rocket"></i>
 
-<h4>
+                <h4>
 
-Welcome
+                  Welcome
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Join Cyber Solutions and begin your engineering journey.
+                  Join Cyber Solutions and begin your engineering journey.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-</div>
+          </div>
 
-</div>
+        </div>
 
-</section>
+      </section>
 
 
 
 
-<section className="bg-navy py-20">
+      <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+        <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+          <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+            <h6 className="section-subtitle">
 
-WHY WORK WITH US
+              WHY WORK WITH US
 
-</h6>
+            </h6>
 
-<h2>
+            <h2>
 
-Building Careers That Shape the Future
+              Building Careers That Shape the Future
 
-</h2>
+            </h2>
 
-<p>
+            <p>
 
-At Cyber Solutions, we believe exceptional engineering starts
-with exceptional people. We provide an environment where
-innovation, collaboration, and continuous improvement enable
-every employee to reach their full potential.
+              At Cyber Solutions, we believe exceptional engineering starts
+              with exceptional people. We provide an environment where
+              innovation, collaboration, and continuous improvement enable
+              every employee to reach their full potential.
 
-</p>
+            </p>
 
-</div>
+          </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+          <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-microchip"></i>
+                <i className="fas fa-microchip"></i>
 
-<h4>
+                <h4>
 
-Latest Technologies
+                  Latest Technologies
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Work with Industrial Automation,
-AI,
-Industrial IoT,
-Digital Infrastructure,
-and OT Cybersecurity technologies.
+                  Work with Industrial Automation,
+                  AI,
+                  Industrial IoT,
+                  Digital Infrastructure,
+                  and OT Cybersecurity technologies.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-network-wired"></i>
+                <i className="fas fa-network-wired"></i>
 
-<h4>
+                <h4>
 
-Large-Scale Projects
+                  Large-Scale Projects
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Participate in mission-critical projects supporting major
-industrial organizations throughout the Kingdom.
+                  Participate in mission-critical projects supporting major
+                  industrial organizations throughout the Kingdom.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-people-group"></i>
+                <i className="fas fa-people-group"></i>
 
-<h4>
+                <h4>
 
-Team Collaboration
+                  Team Collaboration
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Join experienced multidisciplinary teams that value knowledge
-sharing and technical excellence.
+                  Join experienced multidisciplinary teams that value knowledge
+                  sharing and technical excellence.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+            <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+              <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-ranking-star"></i>
+                <i className="fas fa-ranking-star"></i>
 
-<h4>
+                <h4>
 
-Professional Growth
+                  Professional Growth
 
-</h4>
+                </h4>
 
-<p>
+                <p>
 
-Expand your expertise through challenging engineering projects
-and continuous learning opportunities.
+                  Expand your expertise through challenging engineering projects
+                  and continuous learning opportunities.
 
-</p>
+                </p>
 
-</div>
+              </div>
 
-</div>
+            </div>
 
-</div>
+          </div>
 
-</div>
+        </div>
 
-</section>
+      </section>
 
 
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+      <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+        <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+          <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+            <h6 className="section-subtitle">
 
-FREQUENTLY ASKED QUESTIONS
+              FREQUENTLY ASKED QUESTIONS
 
-</h6>
+            </h6>
 
-<h2>
+            <h2>
 
-Careers FAQ
+              Careers FAQ
 
-</h2>
+            </h2>
 
-</div>
+          </div>
 
-<div className="w-full max-w-3xl mx-auto space-y-4 pb-20">
-  <details className="group border border-gray-200 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow" style={{listStyle:"none"}}>
-    <summary className="flex cursor-pointer items-center justify-between gap-1.5 p-6 text-navy transition-colors hover:bg-gray-50 list-none">
-      <h3 className="font-semibold text-lg md:text-xl m-0">Do you offer internships?</h3>
-      <span className="shrink-0 rounded-full bg-blue-100 p-2 text-primary sm:p-3">
-        <svg xmlns="http://www.w3.org/2000/svg" className="size-5 shrink-0 transition duration-300 group-open:-rotate-180" viewBox="0 0 20 20" fill="currentColor">
-          <path fillRule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clipRule="evenodd" />
-        </svg>
-      </span>
-    </summary>
-    <div className="p-6 border-t border-gray-100 bg-gray-50/50 text-gray-700 leading-relaxed">
-      Yes. Cyber Solutions welcomes students and recent graduates through structured internship opportunities that provide practical engineering experience.
-    </div>
-  </details>
+          <div className="w-full max-w-3xl mx-auto space-y-4 pb-20">
+            <details className="group border border-gray-200 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow" style={{ listStyle: "none" }}>
+              <summary className="flex cursor-pointer items-center justify-between gap-1.5 p-6 text-navy transition-colors hover:bg-gray-50 list-none">
+                <h3 className="font-semibold text-lg md:text-xl m-0">Do you offer internships?</h3>
+                <span className="shrink-0 rounded-full bg-blue-100 p-2 text-primary sm:p-3">
+                  <svg xmlns="http://www.w3.org/2000/svg" className="size-5 shrink-0 transition duration-300 group-open:-rotate-180" viewBox="0 0 20 20" fill="currentColor">
+                    <path fillRule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clipRule="evenodd" />
+                  </svg>
+                </span>
+              </summary>
+              <div className="p-6 border-t border-gray-100 bg-gray-50/50 text-gray-700 leading-relaxed">
+                Yes. Cyber Solutions welcomes students and recent graduates through structured internship opportunities that provide practical engineering experience.
+              </div>
+            </details>
 
-  <details className="group border border-gray-200 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow" style={{listStyle:"none"}}>
-    <summary className="flex cursor-pointer items-center justify-between gap-1.5 p-6 text-navy transition-colors hover:bg-gray-50 list-none">
-      <h3 className="font-semibold text-lg md:text-xl m-0">Can I apply even if no suitable vacancy is listed?</h3>
-      <span className="shrink-0 rounded-full bg-blue-100 p-2 text-primary sm:p-3">
-        <svg xmlns="http://www.w3.org/2000/svg" className="size-5 shrink-0 transition duration-300 group-open:-rotate-180" viewBox="0 0 20 20" fill="currentColor">
-          <path fillRule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clipRule="evenodd" />
-        </svg>
-      </span>
-    </summary>
-    <div className="p-6 border-t border-gray-100 bg-gray-50/50 text-gray-700 leading-relaxed">
-      Absolutely. We continuously review applications from talented professionals for future opportunities.
-    </div>
-  </details>
+            <details className="group border border-gray-200 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow" style={{ listStyle: "none" }}>
+              <summary className="flex cursor-pointer items-center justify-between gap-1.5 p-6 text-navy transition-colors hover:bg-gray-50 list-none">
+                <h3 className="font-semibold text-lg md:text-xl m-0">Can I apply even if no suitable vacancy is listed?</h3>
+                <span className="shrink-0 rounded-full bg-blue-100 p-2 text-primary sm:p-3">
+                  <svg xmlns="http://www.w3.org/2000/svg" className="size-5 shrink-0 transition duration-300 group-open:-rotate-180" viewBox="0 0 20 20" fill="currentColor">
+                    <path fillRule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clipRule="evenodd" />
+                  </svg>
+                </span>
+              </summary>
+              <div className="p-6 border-t border-gray-100 bg-gray-50/50 text-gray-700 leading-relaxed">
+                Absolutely. We continuously review applications from talented professionals for future opportunities.
+              </div>
+            </details>
 
-  <details className="group border border-gray-200 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow" style={{listStyle:"none"}}>
-    <summary className="flex cursor-pointer items-center justify-between gap-1.5 p-6 text-navy transition-colors hover:bg-gray-50 list-none">
-      <h3 className="font-semibold text-lg md:text-xl m-0">Which engineering disciplines do you recruit?</h3>
-      <span className="shrink-0 rounded-full bg-blue-100 p-2 text-primary sm:p-3">
-        <svg xmlns="http://www.w3.org/2000/svg" className="size-5 shrink-0 transition duration-300 group-open:-rotate-180" viewBox="0 0 20 20" fill="currentColor">
-          <path fillRule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clipRule="evenodd" />
-        </svg>
-      </span>
-    </summary>
-    <div className="p-6 border-t border-gray-100 bg-gray-50/50 text-gray-700 leading-relaxed">
-      We recruit professionals across Industrial Automation, Instrumentation, OT Cybersecurity, Networking, Data Centers, Software, Project Management, and Digital Infrastructure.
-    </div>
-  </details>
-</div>
+            <details className="group border border-gray-200 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow" style={{ listStyle: "none" }}>
+              <summary className="flex cursor-pointer items-center justify-between gap-1.5 p-6 text-navy transition-colors hover:bg-gray-50 list-none">
+                <h3 className="font-semibold text-lg md:text-xl m-0">Which engineering disciplines do you recruit?</h3>
+                <span className="shrink-0 rounded-full bg-blue-100 p-2 text-primary sm:p-3">
+                  <svg xmlns="http://www.w3.org/2000/svg" className="size-5 shrink-0 transition duration-300 group-open:-rotate-180" viewBox="0 0 20 20" fill="currentColor">
+                    <path fillRule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clipRule="evenodd" />
+                  </svg>
+                </span>
+              </summary>
+              <div className="p-6 border-t border-gray-100 bg-gray-50/50 text-gray-700 leading-relaxed">
+                We recruit professionals across Industrial Automation, Instrumentation, OT Cybersecurity, Networking, Data Centers, Software, Project Management, and Digital Infrastructure.
+              </div>
+            </details>
+          </div>
 
-</div>
-</section>
+        </div>
+      </section>
 
 
 
 
 
-<section className="relative z-10 py-24 bg-navy-light/20">
+      <section className="relative z-10 py-24 bg-navy-light/20">
 
-<div className="container mx-auto px-8">
+        <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 justify-center">
+          <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 justify-center">
 
-<div className="w-full lg:w-3/4 mx-auto text-center space-y-6">
+            <div className="w-full lg:w-3/4 mx-auto text-center space-y-6">
 
-<h2 className="m-0 text-white">
+              <h2 className="m-0 text-white">
 
-Ready to Build the Future With Us?
+                Ready to Build the Future With Us?
 
-</h2>
+              </h2>
 
-<p className="text-gray-light text-lg">
+              <p className="text-gray-light text-lg">
 
-If you are passionate about engineering,
-innovation,
-and secure digital transformation,
-we would love to hear from you.
+                If you are passionate about engineering,
+                innovation,
+                and secure digital transformation,
+                we would love to hear from you.
 
-</p>
+              </p>
 
-<div className="pt-4">
-<a href="/contact"
+              <div className="pt-4">
+                <a href="/contact"
 
-className="inline-block bg-primary hover:bg-primary-dark text-white font-bold rounded-full transition-all hover:shadow-glow text-lg px-10 py-4">
+                  className="inline-block bg-primary hover:bg-primary-dark text-white font-bold rounded-full transition-all hover:shadow-glow text-lg px-10 py-4">
 
-Apply Today
+                  Apply Today
 
-</a>
-</div>
+                </a>
+              </div>
 
-</div>
+            </div>
 
-</div>
+          </div>
 
-</div>
+        </div>
 
-</section>
+      </section>
 
 
 

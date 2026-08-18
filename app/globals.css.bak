@@ -169,7 +169,7 @@ z-index:-3;
 background:
 linear-gradient(rgba(6,18,32,.94),
 rgba(7,24,44,.97)),
-url("/images/hero/smart-infrastructure.jpg");
+url("/images/hero/smart-infrastructure.webp");
 
 background-size:cover;
 
@@ -788,7 +788,7 @@ linear-gradient(rgba(6,18,32,.92),
 
 rgba(6,18,32,.92)),
 
-url("/images/insights/networking-insights.jpg");
+url("/images/insights/networking-insights.webp");
 
 background-size:cover;
 

@@ -86,7 +86,7 @@ export default function Solutions() {
                               <div className="w-full lg:w-5/12 px-8 text-center">
 
                                    <img
-                                        src="/images/hero/engineering.jpg"
+                                        src="/images/hero/engineering.webp"
                                         loading="lazy"
                                         className="max-w-full h-auto hero-image"
                                         alt="Engineering"
@@ -269,7 +269,7 @@ export default function Solutions() {
 
                               <div className="w-full lg:w-1/2 px-4">
 
-                                   <img src="/images/solutions/industrial-automation.jpg"
+                                   <img src="/images/solutions/industrial-automation.webp"
                                         className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
                                         alt="Industrial Automation" />
 
@@ -435,7 +435,7 @@ export default function Solutions() {
 
                               <div className="w-full lg:w-1/2 px-4 order-lg-2">
 
-                                   <img src="/images/solutions/scada-control-room.jpg"
+                                   <img src="/images/solutions/scada-control-room.webp"
                                         className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
                                         alt="SCADA & HMI" />
 
@@ -598,7 +598,7 @@ export default function Solutions() {
 
                               <div className="w-full lg:w-1/2 px-4">
 
-                                   <img src="/images/solutions/instrumentation.jpg"
+                                   <img src="/images/solutions/instrumentation.webp"
                                         className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
                                         alt="Instrumentation" />
 
@@ -784,7 +784,7 @@ export default function Solutions() {
 
                               <div className="w-full lg:w-1/2 px-4 order-lg-2">
 
-                                   <img src="/images/solutions/plc-programming.jpg"
+                                   <img src="/images/solutions/plc-programming.webp"
                                         className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
                                         alt="RTU" />
 
@@ -947,7 +947,7 @@ export default function Solutions() {
 
                               <div className="w-full lg:w-1/2 px-4">
 
-                                   <img src="/images/solutions/ot-cybersecurity-soc.jpg"
+                                   <img src="/images/solutions/ot-cybersecurity-soc.webp"
                                         className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
                                         alt="OT Cybersecurity" />
 
@@ -1126,7 +1126,7 @@ export default function Solutions() {
 
                               <div className="w-full lg:w-1/2 px-4 order-lg-2">
 
-                                   <img src="/images/solutions/data-center-solution.jpg"
+                                   <img src="/images/solutions/data-center-solution.webp"
                                         className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
                                         alt="Data Center" />
 
@@ -1276,7 +1276,7 @@ export default function Solutions() {
 
                               <div className="w-full lg:w-1/2 px-4">
 
-                                   <img src="/images/solutions/industrial-networking.jpg"
+                                   <img src="/images/solutions/industrial-networking.webp"
                                         className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
                                         alt="Networking" />
 
@@ -1452,7 +1452,7 @@ export default function Solutions() {
 
                               <div className="w-full lg:w-1/2 px-4 order-lg-2">
 
-                                   <img src="/images/solutions/smart-buildings.jpg"
+                                   <img src="/images/solutions/smart-buildings.webp"
                                         className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
                                         alt="Smart Infrastructure" />
 
@@ -1599,7 +1599,7 @@ export default function Solutions() {
 
                               <div className="w-full lg:w-1/2 px-4">
 
-                                   <img src="/images/solutions/ai-analytics.jpg"
+                                   <img src="/images/solutions/ai-analytics.webp"
                                         className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
                                         alt="Digital Transformation" />
 

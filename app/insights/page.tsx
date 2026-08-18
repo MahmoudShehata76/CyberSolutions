@@ -2,8 +2,8 @@ import AnimatedSection from "@/components/AnimatedSection";
 import GSAPWrapper from "@/components/GSAPWrapper";
 
 export default function Insights() {
-  return (
-    <GSAPWrapper>
+     return (
+          <GSAPWrapper>
 
 
 
@@ -18,471 +18,471 @@ export default function Insights() {
 
 
 
-<header className="pt-40 pb-28 relative overflow-hidden">
+               <header className="pt-40 pb-28 relative overflow-hidden">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-7/12 px-8">
+                              <div className="w-full lg:w-7/12 px-8">
 
-<h6 className="text-secondary font-bold tracking-widest mb-5">
+                                   <h6 className="text-secondary font-bold tracking-widest mb-5">
 
-KNOWLEDGE CENTER
+                                        KNOWLEDGE CENTER
 
-</h6>
+                                   </h6>
 
-<h1>
+                                   <h1>
 
-Engineering Insights
-Driving Digital Transformation
+                                        Engineering Insights
+                                        Driving Digital Transformation
 
-</h1>
+                                   </h1>
 
-<p>
+                                   <p>
 
-Stay informed with expert articles,
-industry best practices,
-technology trends,
-engineering guides,
-and thought leadership from Cyber Solutions.
+                                        Stay informed with expert articles,
+                                        industry best practices,
+                                        technology trends,
+                                        engineering guides,
+                                        and thought leadership from Cyber Solutions.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Our Knowledge Center shares practical insights covering
-Industrial Automation,
-OT Cybersecurity,
-Industrial Networking,
-Data Centers,
-Smart Infrastructure,
-Artificial Intelligence,
-Industrial IoT,
-and Digital Transformation.
+                                        Our Knowledge Center shares practical insights covering
+                                        Industrial Automation,
+                                        OT Cybersecurity,
+                                        Industrial Networking,
+                                        Data Centers,
+                                        Smart Infrastructure,
+                                        Artificial Intelligence,
+                                        Industrial IoT,
+                                        and Digital Transformation.
 
-</p>
+                                   </p>
 
-<a href="#featured"
+                                   <a href="#featured"
 
-className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow text-lg px-8 py-4 mt-8">
+                                        className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow text-lg px-8 py-4 mt-8">
 
-Explore Articles
+                                        Explore Articles
 
-</a>
+                                   </a>
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-5/12 px-8 text-center">
+                              <div className="w-full lg:w-5/12 px-8 text-center">
 
-<img src="/images/insights/engineering-best-practices.jpg"
+                                   <img src="/images/insights/engineering-best-practices.webp"
 
-className="max-w-full h-auto hero-image"
+                                        className="max-w-full h-auto hero-image"
 
-alt="Knowledge Center" />
+                                        alt="Knowledge Center" />
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</header>
+               </header>
 
 
 
 
 
-<section id="featured"
+               <section id="featured"
 
-className="bg-navy py-20">
+                    className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+                         <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+                              <h6 className="section-subtitle">
 
-FEATURED ARTICLE
+                                   FEATURED ARTICLE
 
-</h6>
+                              </h6>
 
-<h2>
+                              <h2>
 
-Building Secure Digital Infrastructure
-for Industry 4.0
+                                   Building Secure Digital Infrastructure
+                                   for Industry 4.0
 
-</h2>
+                              </h2>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<img src="/images/insights/ai-insights.jpg"
+                                   <img src="/images/insights/ai-insights.webp"
 
-className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
+                                        className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
 
-alt="Industry 4.0" />
+                                        alt="Industry 4.0" />
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<span className="badge bg-primary">
+                                   <span className="badge bg-primary">
 
-Digital Transformation
+                                        Digital Transformation
 
-</span>
+                                   </span>
 
-<h3 className="mt-6">
+                                   <h3 className="mt-6">
 
-Preparing Critical Infrastructure
-for the Next Industrial Revolution
+                                        Preparing Critical Infrastructure
+                                        for the Next Industrial Revolution
 
-</h3>
+                                   </h3>
 
-<p>
+                                   <p>
 
-Successful digital transformation requires far more than
-technology upgrades.
-Organizations must integrate industrial automation,
-cybersecurity,
-enterprise networking,
-industrial communications,
-analytics,
-and operational intelligence into one secure ecosystem.
+                                        Successful digital transformation requires far more than
+                                        technology upgrades.
+                                        Organizations must integrate industrial automation,
+                                        cybersecurity,
+                                        enterprise networking,
+                                        industrial communications,
+                                        analytics,
+                                        and operational intelligence into one secure ecosystem.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-This article explores practical engineering strategies for
-building scalable,
-future-ready digital infrastructure that improves
-productivity,
-enhances cybersecurity,
-and supports sustainable operational growth.
+                                        This article explores practical engineering strategies for
+                                        building scalable,
+                                        future-ready digital infrastructure that improves
+                                        productivity,
+                                        enhances cybersecurity,
+                                        and supports sustainable operational growth.
 
-</p>
+                                   </p>
 
-<a href="#"
+                                   <a href="#"
 
-className="inline-block border border-white text-white hover:bg-white hover:text-navy font-semibold py-3 px-6 rounded-full transition-all">
+                                        className="inline-block border border-white text-white hover:bg-white hover:text-navy font-semibold py-3 px-6 rounded-full transition-all">
 
-Read Full Article
+                                        Read Full Article
 
-</a>
+                                   </a>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+               <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+                         <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+                              <h6 className="section-subtitle">
 
-EXPLORE TOPICS
+                                   EXPLORE TOPICS
 
-</h6>
+                              </h6>
 
-<h2>
+                              <h2>
 
-Knowledge Categories
+                                   Knowledge Categories
 
-</h2>
+                              </h2>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+                         <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-gears"></i>
+                                        <i className="fas fa-gears"></i>
 
-<h4>
+                                        <h4>
 
-Industrial Automation
+                                             Industrial Automation
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-PLC,
-SCADA,
-Advanced Process Control,
-Automation Best Practices.
+                                             PLC,
+                                             SCADA,
+                                             Advanced Process Control,
+                                             Automation Best Practices.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-shield-halved"></i>
+                                        <i className="fas fa-shield-halved"></i>
 
-<h4>
+                                        <h4>
 
-OT Cybersecurity
+                                             OT Cybersecurity
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-IEC62443,
-Risk Assessment,
-Industrial Firewalls,
-Defense in Depth.
+                                             IEC62443,
+                                             Risk Assessment,
+                                             Industrial Firewalls,
+                                             Defense in Depth.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-network-wired"></i>
+                                        <i className="fas fa-network-wired"></i>
 
-<h4>
+                                        <h4>
 
-Networking
+                                             Networking
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Industrial Ethernet,
-Fiber,
-Secure Communications,
-IIoT Connectivity.
+                                             Industrial Ethernet,
+                                             Fiber,
+                                             Secure Communications,
+                                             IIoT Connectivity.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-server"></i>
+                                        <i className="fas fa-server"></i>
 
-<h4>
+                                        <h4>
 
-Data Centers
+                                             Data Centers
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Virtualization,
-Storage,
-Backup,
-Business Continuity,
-Cloud Readiness.
+                                             Virtualization,
+                                             Storage,
+                                             Backup,
+                                             Business Continuity,
+                                             Cloud Readiness.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-navy py-20">
+               <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+                         <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+                              <h6 className="section-subtitle">
 
-LATEST INSIGHTS
+                                   LATEST INSIGHTS
 
-</h6>
+                              </h6>
 
-<h2>
+                              <h2>
 
-Recent Engineering Articles
+                                   Recent Engineering Articles
 
-</h2>
+                              </h2>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+                         <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="project-card">
+                                   <div className="project-card">
 
-<img src="/images/insights/cloud-computing.jpg"
+                                        <img src="/images/insights/cloud-computing.webp"
 
-className="max-w-full h-auto"
+                                             className="max-w-full h-auto"
 
-alt="OT Security" />
+                                             alt="OT Security" />
 
-<div className="project-content">
+                                        <div className="project-content">
 
-<span className="project-tag">
+                                             <span className="project-tag">
 
-Cybersecurity
+                                                  Cybersecurity
 
-</span>
+                                             </span>
 
-<h3>
+                                             <h3>
 
-Five Principles of Secure OT Architecture
+                                                  Five Principles of Secure OT Architecture
 
-</h3>
+                                             </h3>
 
-<p>
+                                             <p>
 
-Best practices for designing resilient industrial
-cybersecurity architectures using defense-in-depth
-strategies.
+                                                  Best practices for designing resilient industrial
+                                                  cybersecurity architectures using defense-in-depth
+                                                  strategies.
 
-</p>
+                                             </p>
 
-<a href="#"
+                                             <a href="#"
 
-className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
+                                                  className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
 
-Read More
+                                                  Read More
 
-</a>
+                                             </a>
 
-</div>
+                                        </div>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="project-card">
+                                   <div className="project-card">
 
-<img src="/images/insights/cybersecurity-insights.jpg"
+                                        <img src="/images/insights/cybersecurity-insights.webp"
 
-className="max-w-full h-auto"
+                                             className="max-w-full h-auto"
 
-alt="Automation" />
+                                             alt="Automation" />
 
-<div className="project-content">
+                                        <div className="project-content">
 
-<span className="project-tag">
+                                             <span className="project-tag">
 
-Automation
+                                                  Automation
 
-</span>
+                                             </span>
 
-<h3>
+                                             <h3>
 
-Modern PLC Migration Strategies
+                                                  Modern PLC Migration Strategies
 
-</h3>
+                                             </h3>
 
-<p>
+                                             <p>
 
-Planning successful migration projects while minimizing
-production interruption and operational risk.
+                                                  Planning successful migration projects while minimizing
+                                                  production interruption and operational risk.
 
-</p>
+                                             </p>
 
-<a href="#"
+                                             <a href="#"
 
-className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
+                                                  className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
 
-Read More
+                                                  Read More
 
-</a>
+                                             </a>
 
-</div>
+                                        </div>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="project-card">
+                                   <div className="project-card">
 
-<img src="/images/insights/data-analytics.jpg"
+                                        <img src="/images/insights/data-analytics.webp"
 
-className="max-w-full h-auto"
+                                             className="max-w-full h-auto"
 
-alt="IIoT" />
+                                             alt="IIoT" />
 
-<div className="project-content">
+                                        <div className="project-content">
 
-<span className="project-tag">
+                                             <span className="project-tag">
 
-Industrial IoT
+                                                  Industrial IoT
 
-</span>
+                                             </span>
 
-<h3>
+                                             <h3>
 
-Connecting Legacy Industrial Assets
+                                                  Connecting Legacy Industrial Assets
 
-</h3>
+                                             </h3>
 
-<p>
+                                             <p>
 
-Practical methods for integrating existing industrial
-equipment into modern digital ecosystems.
+                                                  Practical methods for integrating existing industrial
+                                                  equipment into modern digital ecosystems.
 
-</p>
+                                             </p>
 
-<a href="#"
+                                             <a href="#"
 
-className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
+                                                  className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
 
-Read More
+                                                  Read More
 
-</a>
+                                             </a>
 
-</div>
+                                        </div>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
@@ -492,488 +492,488 @@ Read More
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+               <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+                         <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+                              <h6 className="section-subtitle">
 
-OT CYBERSECURITY
+                                   OT CYBERSECURITY
 
-</h6>
+                              </h6>
 
-<h2>
+                              <h2>
 
-Protecting Critical Infrastructure
+                                   Protecting Critical Infrastructure
 
-</h2>
+                              </h2>
 
-<p>
+                              <p>
 
-Cybersecurity has become a strategic engineering discipline.
-These articles explore practical approaches to protecting
-industrial control systems while maintaining operational
-continuity.
+                                   Cybersecurity has become a strategic engineering discipline.
+                                   These articles explore practical approaches to protecting
+                                   industrial control systems while maintaining operational
+                                   continuity.
 
-</p>
+                              </p>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+                         <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="project-card">
+                                   <div className="project-card">
 
-<img src="/images/insights/industrial-iot.jpg"
-     className="max-w-full h-auto"
-     alt="IEC62443" />
+                                        <img src="/images/insights/industrial-iot.webp"
+                                             className="max-w-full h-auto"
+                                             alt="IEC62443" />
 
-<div className="project-content">
+                                        <div className="project-content">
 
-<span className="project-tag">
+                                             <span className="project-tag">
 
-Standards
+                                                  Standards
 
-</span>
+                                             </span>
 
-<h3>
+                                             <h3>
 
-Understanding IEC 62443
+                                                  Understanding IEC 62443
 
-</h3>
+                                             </h3>
 
-<p>
+                                             <p>
 
-A practical introduction to the international cybersecurity
-standard for industrial automation and control systems.
+                                                  A practical introduction to the international cybersecurity
+                                                  standard for industrial automation and control systems.
 
-</p>
+                                             </p>
 
-<a href="#"
-   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
+                                             <a href="#"
+                                                  className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
 
-Read Article
+                                                  Read Article
 
-</a>
+                                             </a>
 
-</div>
+                                        </div>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="project-card">
+                                   <div className="project-card">
 
-<img src="/images/insights/industry-4-0.jpg"
-     className="max-w-full h-auto"
-     alt="Risk Assessment" />
+                                        <img src="/images/insights/industry-4-0.webp"
+                                             className="max-w-full h-auto"
+                                             alt="Risk Assessment" />
 
-<div className="project-content">
+                                        <div className="project-content">
 
-<span className="project-tag">
+                                             <span className="project-tag">
 
-Assessment
+                                                  Assessment
 
-</span>
+                                             </span>
 
-<h3>
+                                             <h3>
 
-Industrial Risk Assessment
+                                                  Industrial Risk Assessment
 
-</h3>
+                                             </h3>
 
-<p>
+                                             <p>
 
-How engineering teams identify vulnerabilities, evaluate
-business risks, and prioritize mitigation strategies.
+                                                  How engineering teams identify vulnerabilities, evaluate
+                                                  business risks, and prioritize mitigation strategies.
 
-</p>
+                                             </p>
 
-<a href="#"
-   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
+                                             <a href="#"
+                                                  className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
 
-Read Article
+                                                  Read Article
 
-</a>
+                                             </a>
 
-</div>
+                                        </div>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="project-card">
+                                   <div className="project-card">
 
-<img src="/images/insights/networking-insights.jpg"
-     className="max-w-full h-auto"
-     alt="Zero Trust" />
+                                        <img src="/images/insights/networking-insights.webp"
+                                             className="max-w-full h-auto"
+                                             alt="Zero Trust" />
 
-<div className="project-content">
+                                        <div className="project-content">
 
-<span className="project-tag">
+                                             <span className="project-tag">
 
-Architecture
+                                                  Architecture
 
-</span>
+                                             </span>
 
-<h3>
+                                             <h3>
 
-Zero Trust for Operational Technology
+                                                  Zero Trust for Operational Technology
 
-</h3>
+                                             </h3>
 
-<p>
+                                             <p>
 
-Applying Zero Trust principles to industrial environments
-without disrupting production processes.
+                                                  Applying Zero Trust principles to industrial environments
+                                                  without disrupting production processes.
 
-</p>
+                                             </p>
 
-<a href="#"
-   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
+                                             <a href="#"
+                                                  className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
 
-Read Article
+                                                  Read Article
 
-</a>
+                                             </a>
 
-</div>
+                                        </div>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-navy py-20">
+               <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+                         <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+                              <h6 className="section-subtitle">
 
-SMART CITIES
+                                   SMART CITIES
 
-</h6>
+                              </h6>
 
-<h2>
+                              <h2>
 
-Building Intelligent Urban Infrastructure
+                                   Building Intelligent Urban Infrastructure
 
-</h2>
+                              </h2>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<img src="/images/insights/sustainability.jpg"
-     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
-     alt="Smart Cities" />
+                                   <img src="/images/insights/sustainability.webp"
+                                        className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
+                                        alt="Smart Cities" />
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<h3>
+                                   <h3>
 
-Technology Supporting Vision 2030
+                                        Technology Supporting Vision 2030
 
-</h3>
+                                   </h3>
 
-<p>
+                                   <p>
 
-Discover how intelligent infrastructure integrates IoT,
-automation, cybersecurity, communications, cloud computing,
-and real-time analytics to deliver efficient, sustainable, and
-connected urban environments.
+                                        Discover how intelligent infrastructure integrates IoT,
+                                        automation, cybersecurity, communications, cloud computing,
+                                        and real-time analytics to deliver efficient, sustainable, and
+                                        connected urban environments.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-Topics include intelligent utilities, connected buildings,
-digital operations centers, environmental monitoring,
-transportation systems, and public safety technologies.
+                                        Topics include intelligent utilities, connected buildings,
+                                        digital operations centers, environmental monitoring,
+                                        transportation systems, and public safety technologies.
 
-</p>
+                                   </p>
 
-<a href="#"
-   className="inline-block border border-white text-white hover:bg-white hover:text-navy font-semibold py-3 px-6 rounded-full transition-all">
+                                   <a href="#"
+                                        className="inline-block border border-white text-white hover:bg-white hover:text-navy font-semibold py-3 px-6 rounded-full transition-all">
 
-Explore Smart Cities
+                                        Explore Smart Cities
 
-</a>
+                                   </a>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+               <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+                         <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+                              <h6 className="section-subtitle">
 
-ARTIFICIAL INTELLIGENCE
+                                   ARTIFICIAL INTELLIGENCE
 
-</h6>
+                              </h6>
 
-<h2>
+                              <h2>
 
-AI in Industrial Operations
+                                   AI in Industrial Operations
 
-</h2>
+                              </h2>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+                         <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-brain"></i>
+                                        <i className="fas fa-brain"></i>
 
-<h4>
+                                        <h4>
 
-Artificial Intelligence
+                                             Artificial Intelligence
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Learn how AI supports predictive analytics, anomaly
-detection, operational optimization, intelligent alarming,
-and engineering decision support for industrial facilities.
+                                             Learn how AI supports predictive analytics, anomaly
+                                             detection, operational optimization, intelligent alarming,
+                                             and engineering decision support for industrial facilities.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-robot"></i>
+                                        <i className="fas fa-robot"></i>
 
-<h4>
+                                        <h4>
 
-Machine Learning
+                                             Machine Learning
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Applications of machine learning for equipment reliability,
-energy optimization, production forecasting, and maintenance
-planning.
+                                             Applications of machine learning for equipment reliability,
+                                             energy optimization, production forecasting, and maintenance
+                                             planning.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-navy py-20">
+               <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4">
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<div className="project-card">
+                                   <div className="project-card">
 
-<img src="/images/insights/industrial-iot.jpg"
-     className="max-w-full h-auto"
-     alt="Industrial IoT" />
+                                        <img src="/images/insights/industrial-iot.webp"
+                                             className="max-w-full h-auto"
+                                             alt="Industrial IoT" />
 
-<div className="project-content">
+                                        <div className="project-content">
 
-<span className="project-tag">
+                                             <span className="project-tag">
 
-Industrial IoT
+                                                  Industrial IoT
 
-</span>
+                                             </span>
 
-<h3>
+                                             <h3>
 
-Connecting Industrial Assets
+                                                  Connecting Industrial Assets
 
-</h3>
+                                             </h3>
 
-<p>
+                                             <p>
 
-Explore architectures for securely connecting legacy and new
-equipment through Industrial IoT platforms, edge devices, and
-cloud integration.
+                                                  Explore architectures for securely connecting legacy and new
+                                                  equipment through Industrial IoT platforms, edge devices, and
+                                                  cloud integration.
 
-</p>
+                                             </p>
 
-<a href="#"
-   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
+                                             <a href="#"
+                                                  className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
 
-Read More
+                                                  Read More
 
-</a>
+                                             </a>
 
-</div>
+                                        </div>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<div className="project-card">
+                                   <div className="project-card">
 
-<img src="/images/insights/industry-4-0.jpg"
-     className="max-w-full h-auto"
-     alt="Digital Twin" />
+                                        <img src="/images/insights/industry-4-0.webp"
+                                             className="max-w-full h-auto"
+                                             alt="Digital Twin" />
 
-<div className="project-content">
+                                        <div className="project-content">
 
-<span className="project-tag">
+                                             <span className="project-tag">
 
-Digital Twin
+                                                  Digital Twin
 
-</span>
+                                             </span>
 
-<h3>
+                                             <h3>
 
-Creating Virtual Industrial Assets
+                                                  Creating Virtual Industrial Assets
 
-</h3>
+                                             </h3>
 
-<p>
+                                             <p>
 
-Understand how Digital Twin technologies improve operational
-visibility, engineering simulations, maintenance planning, and
-asset lifecycle management.
+                                                  Understand how Digital Twin technologies improve operational
+                                                  visibility, engineering simulations, maintenance planning, and
+                                                  asset lifecycle management.
 
-</p>
+                                             </p>
 
-<a href="#"
-   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
+                                             <a href="#"
+                                                  className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-2 px-6 rounded-full transition-all hover:shadow-glow">
 
-Read More
+                                                  Read More
 
-</a>
+                                             </a>
 
-</div>
+                                        </div>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+               <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<img src="/images/insights/engineering-best-practices.jpg"
-     className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
-     alt="Predictive Maintenance" />
+                                   <img src="/images/insights/engineering-best-practices.webp"
+                                        className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
+                                        alt="Predictive Maintenance" />
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<h6 className="section-subtitle">
+                                   <h6 className="section-subtitle">
 
-PREDICTIVE MAINTENANCE
+                                        PREDICTIVE MAINTENANCE
 
-</h6>
+                                   </h6>
 
-<h2>
+                                   <h2>
 
-Moving Beyond Reactive Maintenance
+                                        Moving Beyond Reactive Maintenance
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Predictive maintenance combines industrial sensors,
-condition monitoring, historical operational data, and
-advanced analytics to identify equipment degradation before
-failures occur.
+                                        Predictive maintenance combines industrial sensors,
+                                        condition monitoring, historical operational data, and
+                                        advanced analytics to identify equipment degradation before
+                                        failures occur.
 
-</p>
+                                   </p>
 
-<p>
+                                   <p>
 
-The result is improved equipment availability, lower
-maintenance costs, extended asset life, and more reliable
-operations.
+                                        The result is improved equipment availability, lower
+                                        maintenance costs, extended asset life, and more reliable
+                                        operations.
 
-</p>
+                                   </p>
 
-<a href="#"
-   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow">
+                                   <a href="#"
+                                        className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow">
 
-Learn More
+                                        Learn More
 
-</a>
+                                   </a>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
@@ -983,590 +983,590 @@ Learn More
 
 
 
-<section className="bg-navy py-20">
+               <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+                         <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+                              <h6 className="section-subtitle">
 
-WHITE PAPERS
+                                   WHITE PAPERS
 
-</h6>
+                              </h6>
 
-<h2>
+                              <h2>
 
-Engineering Research & Technical Publications
+                                   Engineering Research & Technical Publications
 
-</h2>
+                              </h2>
 
-<p>
+                              <p>
 
-Download comprehensive technical papers prepared by Cyber
-Solutions engineers covering industrial automation,
-cybersecurity, digital infrastructure, and emerging
-technologies.
+                                   Download comprehensive technical papers prepared by Cyber
+                                   Solutions engineers covering industrial automation,
+                                   cybersecurity, digital infrastructure, and emerging
+                                   technologies.
 
-</p>
+                              </p>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+                         <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="project-card">
+                                   <div className="project-card">
 
-<img src="/images/insights/ai-insights.jpg"
-     className="max-w-full h-auto"
-     alt="Automation Whitepaper" />
+                                        <img src="/images/insights/ai-insights.webp"
+                                             className="max-w-full h-auto"
+                                             alt="Automation Whitepaper" />
 
-<div className="project-content">
+                                        <div className="project-content">
 
-<span className="project-tag">
+                                             <span className="project-tag">
 
-White Paper
+                                                  White Paper
 
-</span>
+                                             </span>
 
-<h3>
+                                             <h3>
 
-Modernizing Legacy Industrial Control Systems
+                                                  Modernizing Legacy Industrial Control Systems
 
-</h3>
+                                             </h3>
 
-<p>
+                                             <p>
 
-Engineering approaches for upgrading legacy PLC, DCS, and
-SCADA systems while minimizing operational disruption.
+                                                  Engineering approaches for upgrading legacy PLC, DCS, and
+                                                  SCADA systems while minimizing operational disruption.
 
-</p>
+                                             </p>
 
-<a href="#"
-   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow btn-sm">
+                                             <a href="#"
+                                                  className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow btn-sm">
 
-Download PDF
+                                                  Download PDF
 
-</a>
+                                             </a>
 
-</div>
+                                        </div>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="project-card">
+                                   <div className="project-card">
 
-<img src="/images/insights/cybersecurity-insights.jpg"
-     className="max-w-full h-auto"
-     alt="Cybersecurity Whitepaper" />
+                                        <img src="/images/insights/cybersecurity-insights.webp"
+                                             className="max-w-full h-auto"
+                                             alt="Cybersecurity Whitepaper" />
 
-<div className="project-content">
+                                        <div className="project-content">
 
-<span className="project-tag">
+                                             <span className="project-tag">
 
-White Paper
+                                                  White Paper
 
-</span>
+                                             </span>
 
-<h3>
+                                             <h3>
 
-Building Secure OT Infrastructure
+                                                  Building Secure OT Infrastructure
 
-</h3>
+                                             </h3>
 
-<p>
+                                             <p>
 
-Practical guidance for designing industrial cybersecurity
-architectures based on defense-in-depth principles.
+                                                  Practical guidance for designing industrial cybersecurity
+                                                  architectures based on defense-in-depth principles.
 
-</p>
+                                             </p>
 
-<a href="#"
-   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow btn-sm">
+                                             <a href="#"
+                                                  className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow btn-sm">
 
-Download PDF
+                                                  Download PDF
 
-</a>
+                                             </a>
 
-</div>
+                                        </div>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/3 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/3 px-4">
 
-<div className="project-card">
+                                   <div className="project-card">
 
-<img src="/images/insights/data-analytics.jpg"
-     className="max-w-full h-auto"
-     alt="Digital Transformation" />
+                                        <img src="/images/insights/data-analytics.webp"
+                                             className="max-w-full h-auto"
+                                             alt="Digital Transformation" />
 
-<div className="project-content">
+                                        <div className="project-content">
 
-<span className="project-tag">
+                                             <span className="project-tag">
 
-White Paper
+                                                  White Paper
 
-</span>
+                                             </span>
 
-<h3>
+                                             <h3>
 
-Digital Transformation Roadmap
+                                                  Digital Transformation Roadmap
 
-</h3>
+                                             </h3>
 
-<p>
+                                             <p>
 
-A structured engineering framework for organizations planning
-large-scale industrial digital transformation initiatives.
+                                                  A structured engineering framework for organizations planning
+                                                  large-scale industrial digital transformation initiatives.
 
-</p>
+                                             </p>
 
-<a href="#"
-   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow btn-sm">
+                                             <a href="#"
+                                                  className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow btn-sm">
 
-Download PDF
+                                                  Download PDF
 
-</a>
+                                             </a>
 
-</div>
+                                        </div>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+               <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+                         <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+                              <h6 className="section-subtitle">
 
-BEST PRACTICES
+                                   BEST PRACTICES
 
-</h6>
+                              </h6>
 
-<h2>
+                              <h2>
 
-Engineering Guidelines
+                                   Engineering Guidelines
 
-</h2>
+                              </h2>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+                         <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-clipboard-check"></i>
+                                        <i className="fas fa-clipboard-check"></i>
 
-<h4>
+                                        <h4>
 
-Project Planning
+                                             Project Planning
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Define clear objectives, perform site assessments, develop
-engineering documentation, and establish measurable success
-criteria before execution.
+                                             Define clear objectives, perform site assessments, develop
+                                             engineering documentation, and establish measurable success
+                                             criteria before execution.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-network-wired"></i>
+                                        <i className="fas fa-network-wired"></i>
 
-<h4>
+                                        <h4>
 
-Architecture Design
+                                             Architecture Design
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Implement scalable, modular, and secure architectures that
-support future expansion and technology evolution.
+                                             Implement scalable, modular, and secure architectures that
+                                             support future expansion and technology evolution.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-shield-halved"></i>
+                                        <i className="fas fa-shield-halved"></i>
 
-<h4>
+                                        <h4>
 
-Cybersecurity
+                                             Cybersecurity
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Apply security-by-design principles, network segmentation,
-continuous monitoring, and lifecycle vulnerability management.
+                                             Apply security-by-design principles, network segmentation,
+                                             continuous monitoring, and lifecycle vulnerability management.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover">
 
-<i className="fas fa-chart-line"></i>
+                                        <i className="fas fa-chart-line"></i>
 
-<h4>
+                                        <h4>
 
-Continuous Improvement
+                                             Continuous Improvement
 
-</h4>
+                                        </h4>
 
-<p>
+                                        <p>
 
-Measure KPIs, review operational performance, optimize
-systems, and continuously improve engineering processes.
+                                             Measure KPIs, review operational performance, optimize
+                                             systems, and continuously improve engineering processes.
 
-</p>
+                                        </p>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-navy py-20">
+               <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+                         <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+                              <h6 className="section-subtitle">
 
-SUCCESS STORIES
+                                   SUCCESS STORIES
 
-</h6>
+                              </h6>
 
-<h2>
+                              <h2>
 
-Delivering Measurable Business Value
+                                   Delivering Measurable Business Value
 
-</h2>
+                              </h2>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+                         <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<div className="project-card">
+                                   <div className="project-card">
 
-<img src="/images/insights/sustainability.jpg"
-     className="max-w-full h-auto"
-     alt="Energy" />
+                                        <img src="/images/insights/sustainability.webp"
+                                             className="max-w-full h-auto"
+                                             alt="Energy" />
 
-<div className="project-content">
+                                        <div className="project-content">
 
-<h3>
+                                             <h3>
 
-Energy Sector Modernization
+                                                  Energy Sector Modernization
 
-</h3>
+                                             </h3>
 
-<p>
+                                             <p>
 
-Integrated automation, industrial networking, and OT
-cybersecurity improved operational visibility, increased
-system reliability, and reduced maintenance effort across
-critical infrastructure.
+                                                  Integrated automation, industrial networking, and OT
+                                                  cybersecurity improved operational visibility, increased
+                                                  system reliability, and reduced maintenance effort across
+                                                  critical infrastructure.
 
-</p>
+                                             </p>
 
-</div>
+                                        </div>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/2 px-4">
+                              <div className="w-full lg:w-1/2 px-4">
 
-<div className="project-card">
+                                   <div className="project-card">
 
-<img src="/images/insights/cloud-computing.jpg"
-     className="max-w-full h-auto"
-     alt="Smart City" />
+                                        <img src="/images/insights/cloud-computing.webp"
+                                             className="max-w-full h-auto"
+                                             alt="Smart City" />
 
-<div className="project-content">
+                                        <div className="project-content">
 
-<h3>
+                                             <h3>
 
-Smart Infrastructure Deployment
+                                                  Smart Infrastructure Deployment
 
-</h3>
+                                             </h3>
 
-<p>
+                                             <p>
 
-Connected infrastructure through centralized monitoring,
-analytics, and intelligent communications to support smarter,
-more efficient operations.
+                                                  Connected infrastructure through centralized monitoring,
+                                                  analytics, and intelligent communications to support smarter,
+                                                  more efficient operations.
 
-</p>
+                                             </p>
 
-</div>
+                                        </div>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+               <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+                         <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+                              <h6 className="section-subtitle">
 
-LOOKING AHEAD
+                                   LOOKING AHEAD
 
-</h6>
+                              </h6>
 
-<h2>
+                              <h2>
 
-Technology Roadmap
+                                   Technology Roadmap
 
-</h2>
+                              </h2>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4">
 
-<div className="w-full">
+                              <div className="w-full">
 
-<div className="timeline">
+                                   <div className="timeline">
 
-<div className="timeline-item">
+                                        <div className="timeline-item">
 
-<h4>Today</h4>
+                                             <h4>Today</h4>
 
-<p>
+                                             <p>
 
-Industrial Automation, Secure OT Networks, Intelligent
-Instrumentation, Enterprise Integration.
+                                                  Industrial Automation, Secure OT Networks, Intelligent
+                                                  Instrumentation, Enterprise Integration.
 
-</p>
+                                             </p>
 
-</div>
+                                        </div>
 
-<div className="timeline-item">
+                                        <div className="timeline-item">
 
-<h4>Next 3 Years</h4>
+                                             <h4>Next 3 Years</h4>
 
-<p>
+                                             <p>
 
-Industrial AI, Digital Twins, Predictive Operations,
-Autonomous Maintenance, Advanced Analytics.
+                                                  Industrial AI, Digital Twins, Predictive Operations,
+                                                  Autonomous Maintenance, Advanced Analytics.
 
-</p>
+                                             </p>
 
-</div>
+                                        </div>
 
-<div className="timeline-item">
+                                        <div className="timeline-item">
 
-<h4>Future</h4>
+                                             <h4>Future</h4>
 
-<p>
+                                             <p>
 
-Fully connected industrial ecosystems powered by AI,
-autonomous decision support, intelligent infrastructure, and
-hyper-secure digital operations.
+                                                  Fully connected industrial ecosystems powered by AI,
+                                                  autonomous decision support, intelligent infrastructure, and
+                                                  hyper-secure digital operations.
 
-</p>
+                                             </p>
 
-</div>
+                                        </div>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-navy py-20">
+               <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+                         <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+                              <h6 className="section-subtitle">
 
-FAQ
+                                   FAQ
 
-</h6>
+                              </h6>
 
-<h2>
+                              <h2>
 
-Frequently Asked Questions
+                                   Frequently Asked Questions
 
-</h2>
+                              </h2>
 
-</div>
+                         </div>
 
-<div className="accordion"
-     id="faqAccordion">
+                         <div className="accordion"
+                              id="faqAccordion">
 
-<div className="accordion-item">
+                              <div className="accordion-item">
 
-<h2 className="accordion-header">
+                                   <h2 className="accordion-header">
 
-<button className="accordion-button"
-        data-bs-toggle="collapse"
-        data-bs-target="#faq1">
+                                        <button className="accordion-button"
+                                             data-bs-toggle="collapse"
+                                             data-bs-target="#faq1">
 
-What industries benefit from digital transformation?
+                                             What industries benefit from digital transformation?
 
-</button>
+                                        </button>
 
-</h2>
+                                   </h2>
 
-<div id="faq1"
-     className="accordion-collapse collapse show"
-     data-bs-parent="#faqAccordion">
+                                   <div id="faq1"
+                                        className="accordion-collapse collapse show"
+                                        data-bs-parent="#faqAccordion">
 
-<div className="accordion-body">
+                                        <div className="accordion-body">
 
-Energy, utilities, manufacturing, water, transportation,
-government, healthcare, commercial buildings, and smart city
-projects all benefit from integrated digital technologies.
+                                             Energy, utilities, manufacturing, water, transportation,
+                                             government, healthcare, commercial buildings, and smart city
+                                             projects all benefit from integrated digital technologies.
 
-</div>
+                                        </div>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="accordion-item">
+                              <div className="accordion-item">
 
-<h2 className="accordion-header">
+                                   <h2 className="accordion-header">
 
-<button className="accordion-button collapsed"
-        data-bs-toggle="collapse"
-        data-bs-target="#faq2">
+                                        <button className="accordion-button collapsed"
+                                             data-bs-toggle="collapse"
+                                             data-bs-target="#faq2">
 
-Why is OT cybersecurity different from IT security?
+                                             Why is OT cybersecurity different from IT security?
 
-</button>
+                                        </button>
 
-</h2>
+                                   </h2>
 
-<div id="faq2"
-     className="accordion-collapse collapse"
-     data-bs-parent="#faqAccordion">
+                                   <div id="faq2"
+                                        className="accordion-collapse collapse"
+                                        data-bs-parent="#faqAccordion">
 
-<div className="accordion-body">
+                                        <div className="accordion-body">
 
-Operational Technology prioritizes safety, availability, and
-continuous operations. Security controls must be implemented
-without interrupting industrial processes.
+                                             Operational Technology prioritizes safety, availability, and
+                                             continuous operations. Security controls must be implemented
+                                             without interrupting industrial processes.
 
-</div>
+                                        </div>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="accordion-item">
+                              <div className="accordion-item">
 
-<h2 className="accordion-header">
+                                   <h2 className="accordion-header">
 
-<button className="accordion-button collapsed"
-        data-bs-toggle="collapse"
-        data-bs-target="#faq3">
+                                        <button className="accordion-button collapsed"
+                                             data-bs-toggle="collapse"
+                                             data-bs-target="#faq3">
 
-How can Cyber Solutions support modernization projects?
+                                             How can Cyber Solutions support modernization projects?
 
-</button>
+                                        </button>
 
-</h2>
+                                   </h2>
 
-<div id="faq3"
-     className="accordion-collapse collapse"
-     data-bs-parent="#faqAccordion">
+                                   <div id="faq3"
+                                        className="accordion-collapse collapse"
+                                        data-bs-parent="#faqAccordion">
 
-<div className="accordion-body">
+                                        <div className="accordion-body">
 
-We provide consulting, engineering, implementation,
-commissioning, cybersecurity, networking, training, and
-lifecycle support across complete industrial modernization
-programs.
+                                             We provide consulting, engineering, implementation,
+                                             commissioning, cybersecurity, networking, training, and
+                                             lifecycle support across complete industrial modernization
+                                             programs.
 
-</div>
+                                        </div>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
@@ -1576,310 +1576,310 @@ programs.
 
 
 
-<section className="bg-gray-50 text-navy py-20">
+               <section className="bg-gray-50 text-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="text-center mb-12">
+                         <div className="text-center mb-12">
 
-<h6 className="section-subtitle">
+                              <h6 className="section-subtitle">
 
-RESOURCE CENTER
+                                   RESOURCE CENTER
 
-</h6>
+                              </h6>
 
-<h2>
+                              <h2>
 
-Technical Resources & Downloads
+                                   Technical Resources & Downloads
 
-</h2>
+                              </h2>
 
-<p>
+                              <p>
 
-Access engineering resources developed by Cyber Solutions to
-help organizations accelerate digital transformation, improve
-cybersecurity, and modernize industrial operations.
+                                   Access engineering resources developed by Cyber Solutions to
+                                   help organizations accelerate digital transformation, improve
+                                   cybersecurity, and modernize industrial operations.
 
-</p>
+                              </p>
 
-</div>
+                         </div>
 
-<div className="flex flex-wrap -mx-4 gap-y-6">
+                         <div className="flex flex-wrap -mx-4 gap-y-6">
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover text-center">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover text-center">
 
-<i className="fas fa-file-pdf fa-3x mb-6"></i>
+                                        <i className="fas fa-file-pdf fa-3x mb-6"></i>
 
-<h4>White Papers</h4>
+                                        <h4>White Papers</h4>
 
-<p>
+                                        <p>
 
-Engineering research, implementation strategies, and technical
-guidelines.
+                                             Engineering research, implementation strategies, and technical
+                                             guidelines.
 
-</p>
+                                        </p>
 
-<a href="#"
-   className="inline-block border border-primary text-primary hover:bg-primary hover:text-white font-semibold py-3 px-6 rounded-full transition-all">
+                                        <a href="#"
+                                             className="inline-block border border-primary text-primary hover:bg-primary hover:text-white font-semibold py-3 px-6 rounded-full transition-all">
 
-View Library
+                                             View Library
 
-</a>
+                                        </a>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover text-center">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover text-center">
 
-<i className="fas fa-book fa-3x mb-6"></i>
+                                        <i className="fas fa-book fa-3x mb-6"></i>
 
-<h4>Technical Guides</h4>
+                                        <h4>Technical Guides</h4>
 
-<p>
+                                        <p>
 
-Practical implementation guides for industrial technologies
-and engineering best practices.
+                                             Practical implementation guides for industrial technologies
+                                             and engineering best practices.
 
-</p>
+                                        </p>
 
-<a href="#"
-   className="inline-block border border-primary text-primary hover:bg-primary hover:text-white font-semibold py-3 px-6 rounded-full transition-all">
+                                        <a href="#"
+                                             className="inline-block border border-primary text-primary hover:bg-primary hover:text-white font-semibold py-3 px-6 rounded-full transition-all">
 
-Browse Guides
+                                             Browse Guides
 
-</a>
+                                        </a>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover text-center">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover text-center">
 
-<i className="fas fa-video fa-3x mb-6"></i>
+                                        <i className="fas fa-video fa-3x mb-6"></i>
 
-<h4>Webinars</h4>
+                                        <h4>Webinars</h4>
 
-<p>
+                                        <p>
 
-Educational sessions covering automation, cybersecurity, and
-digital transformation.
+                                             Educational sessions covering automation, cybersecurity, and
+                                             digital transformation.
 
-</p>
+                                        </p>
 
-<a href="#"
-   className="inline-block border border-primary text-primary hover:bg-primary hover:text-white font-semibold py-3 px-6 rounded-full transition-all">
+                                        <a href="#"
+                                             className="inline-block border border-primary text-primary hover:bg-primary hover:text-white font-semibold py-3 px-6 rounded-full transition-all">
 
-Watch Now
+                                             Watch Now
 
-</a>
+                                        </a>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-<div className="w-full md:w-1/2 lg:w-1/4 px-4">
+                              <div className="w-full md:w-1/2 lg:w-1/4 px-4">
 
-<div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover text-center">
+                                   <div className="glass p-8 h-full transition-transform hover:-translate-y-2 hover:shadow-card-hover text-center">
 
-<i className="fas fa-download fa-3x mb-6"></i>
+                                        <i className="fas fa-download fa-3x mb-6"></i>
 
-<h4>Case Studies</h4>
+                                        <h4>Case Studies</h4>
 
-<p>
+                                        <p>
 
-Project success stories demonstrating measurable engineering
-outcomes.
+                                             Project success stories demonstrating measurable engineering
+                                             outcomes.
 
-</p>
+                                        </p>
 
-<a href="#"
-   className="inline-block border border-primary text-primary hover:bg-primary hover:text-white font-semibold py-3 px-6 rounded-full transition-all">
+                                        <a href="#"
+                                             className="inline-block border border-primary text-primary hover:bg-primary hover:text-white font-semibold py-3 px-6 rounded-full transition-all">
 
-Download
+                                             Download
 
-</a>
+                                        </a>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="bg-navy py-20">
+               <section className="bg-navy py-20">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-7/12 px-8">
+                              <div className="w-full lg:w-7/12 px-8">
 
-<h6 className="section-subtitle">
+                                   <h6 className="section-subtitle">
 
-STAY INFORMED
+                                        STAY INFORMED
 
-</h6>
+                                   </h6>
 
-<h2>
+                                   <h2>
 
-Subscribe to Engineering Insights
+                                        Subscribe to Engineering Insights
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Receive technical articles, cybersecurity updates,
-engineering best practices, and technology trends directly in
-your inbox.
+                                        Receive technical articles, cybersecurity updates,
+                                        engineering best practices, and technology trends directly in
+                                        your inbox.
 
-</p>
+                                   </p>
 
-<ul className="list-unstyled mt-8">
+                                   <ul className="list-unstyled mt-8">
 
-<li className="mb-6">
+                                        <li className="mb-6">
 
-<i className="fas fa-check-circle text-primary mr-4"></i>
+                                             <i className="fas fa-check-circle text-primary mr-4"></i>
 
-Monthly engineering articles
+                                             Monthly engineering articles
 
-</li>
+                                        </li>
 
-<li className="mb-6">
+                                        <li className="mb-6">
 
-<i className="fas fa-check-circle text-primary mr-4"></i>
+                                             <i className="fas fa-check-circle text-primary mr-4"></i>
 
-OT cybersecurity updates
+                                             OT cybersecurity updates
 
-</li>
+                                        </li>
 
-<li className="mb-6">
+                                        <li className="mb-6">
 
-<i className="fas fa-check-circle text-primary mr-4"></i>
+                                             <i className="fas fa-check-circle text-primary mr-4"></i>
 
-Industrial technology trends
+                                             Industrial technology trends
 
-</li>
+                                        </li>
 
-<li>
+                                        <li>
 
-<i className="fas fa-check-circle text-primary mr-4"></i>
+                                             <i className="fas fa-check-circle text-primary mr-4"></i>
 
-Smart infrastructure insights
+                                             Smart infrastructure insights
 
-</li>
+                                        </li>
 
-</ul>
+                                   </ul>
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-5/12 px-8">
+                              <div className="w-full lg:w-5/12 px-8">
 
-<div className="contact-form">
+                                   <div className="contact-form">
 
-<form>
+                                        <form>
 
-<div>
+                                             <div>
 
-<input type="text"
-       className="form-control"
-       placeholder="Full Name" />
+                                                  <input type="text"
+                                                       className="form-control"
+                                                       placeholder="Full Name" />
 
-</div>
+                                             </div>
 
-<div>
+                                             <div>
 
-<input type="email"
-       className="form-control"
-       placeholder="Business Email" />
+                                                  <input type="email"
+                                                       className="form-control"
+                                                       placeholder="Business Email" />
 
-</div>
+                                             </div>
 
-<div>
+                                             <div>
 
-<input type="text"
-       className="form-control"
-       placeholder="Company" />
+                                                  <input type="text"
+                                                       className="form-control"
+                                                       placeholder="Company" />
 
-</div>
+                                             </div>
 
-<button className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow w-full">
+                                             <button className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow w-full">
 
-Subscribe
+                                                  Subscribe
 
-</button>
+                                             </button>
 
-</form>
+                                        </form>
 
-</div>
+                                   </div>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
 
 
-<section className="contact-section">
+               <section className="contact-section">
 
-<div className="container mx-auto px-8">
+                    <div className="container mx-auto px-8">
 
-<div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
+                         <div className="flex flex-wrap gap-y-12 lg:gap-y-0 -mx-4 items-center">
 
-<div className="w-full lg:w-2/3 px-8">
+                              <div className="w-full lg:w-2/3 px-8">
 
-<h2>
+                                   <h2>
 
-Need Expert Engineering Advice?
+                                        Need Expert Engineering Advice?
 
-</h2>
+                                   </h2>
 
-<p>
+                                   <p>
 
-Whether you're evaluating an automation upgrade,
-planning an OT cybersecurity program,
-designing a resilient data center,
-or implementing a smart infrastructure initiative,
-our engineering consultants are ready to help.
+                                        Whether you're evaluating an automation upgrade,
+                                        planning an OT cybersecurity program,
+                                        designing a resilient data center,
+                                        or implementing a smart infrastructure initiative,
+                                        our engineering consultants are ready to help.
 
-</p>
+                                   </p>
 
-</div>
+                              </div>
 
-<div className="w-full lg:w-1/3 px-8 text-lg-end">
+                              <div className="w-full lg:w-1/3 px-8 text-lg-end">
 
-<a href="/contact"
-   className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow text-lg px-8 py-4">
+                                   <a href="/contact"
+                                        className="inline-block bg-primary hover:bg-primary-dark text-white font-semibold py-3 px-6 rounded-full transition-all hover:shadow-glow text-lg px-8 py-4">
 
-Request Consultation
+                                        Request Consultation
 
-</a>
+                                   </a>
 
-</div>
+                              </div>
 
-</div>
+                         </div>
 
-</div>
+                    </div>
 
-</section>
+               </section>
 
 
 
@@ -1900,6 +1900,6 @@ Request Consultation
 
 
 
-    </GSAPWrapper>
-  );
+          </GSAPWrapper>
+     );
 }
