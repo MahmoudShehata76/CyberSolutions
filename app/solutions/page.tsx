@@ -89,7 +89,7 @@ export default function Solutions() {
                                         src="/images/hero/engineering-solutions.webp"
                                         loading="lazy"
                                         className="max-w-full h-auto hero-image"
-                                        alt="Engineering Solutions"
+                                        alt="Engineering"
                                    />
 
                               </div>
