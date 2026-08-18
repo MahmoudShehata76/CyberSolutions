@@ -63,7 +63,7 @@ export default function About() {
 
                             <img
 
-                                src="/images/about/saudi-infrastructure.png"
+                                src="/images/about/saudi-infrastructure.webp"
 
                                 className="max-w-full h-auto hero-image"
 
@@ -91,7 +91,7 @@ export default function About() {
 
                             <img
 
-                                src="/images/about/about-company.png"
+                                src="/images/about/about-company.webp"
 
                                 className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
 
@@ -291,7 +291,7 @@ export default function About() {
 
                             <img
 
-                                src="/images/about/digital-transformation.png"
+                                src="/images/about/digital-transformation.webp"
 
                                 className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
 
@@ -583,7 +583,7 @@ export default function About() {
 
                             <img
 
-                                src="/images/about/engineering-team.png"
+                                src="/images/about/engineering-team.webp"
 
                                 className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
 
@@ -719,7 +719,7 @@ export default function About() {
 
                         <div className="w-full lg:w-1/2 px-4">
 
-                            <img src="/images/about/digital-transformation.png"
+                            <img src="/images/about/digital-transformation.webp"
                                 className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg"
                                 alt="Digital Transformation" />
 

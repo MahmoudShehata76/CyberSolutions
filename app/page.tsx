@@ -104,7 +104,7 @@ export default function Index() {
 
                             <AnimatedSection animation="zoom-in">
 
-                                <img src="/images/hero/industrial-control-room.png"
+                                <img src="/images/hero/industrial-control-room.webp"
 
                                     className="max-w-full h-auto hero-image"
 
@@ -132,7 +132,7 @@ export default function Index() {
 
                         <div className="w-full lg:w-1/2 px-4">
 
-                            <img src="/images/about/about-company.png"
+                            <img src="/images/about/about-company.webp"
 
                                 className="w-full h-[300px] md:h-[400px] object-cover rounded-2xl shadow-lg" alt="About Company - Cyber Solutions" />
 
